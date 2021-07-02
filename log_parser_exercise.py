@@ -1,4 +1,6 @@
+from typing import List
 from typing import Dict
+
 
 path_to_file: str = 'log_files/anp_user.txt'
 
@@ -17,16 +19,9 @@ DUMPFILE_NOT_AVAILABLE: str = 'No dump file is available.'
 OPERATION_FAILED: str = 'The operation has failed.'
 # TODO: If none of the 3 above are found, log error "Couldn't find operation log message"
 
-api_status: Dict = {
-    "API_LINE_NUM": 1,
-    "API_LINE": "",
-    "EXEC_1": "",
-    "EXEC_2": "",
-    "EXEC_3": "",
-    "EXEC_4": ""
-}
-
+api_status_list: List = []
 curr_api_index: int = 1
+status_api_index: int = 0
 curr_api_name: str = ''
 for index, line in enumerate(lines):
     is_execution_start: bool = EXECUTION_START in line
@@ -34,31 +29,44 @@ for index, line in enumerate(lines):
     is_operation_fail: bool = OPERATION_FAILED in line
     is_operation_unavail: bool = DUMPFILE_NOT_AVAILABLE in line
     if is_execution_start:
+        #print(curr_api_name[-3])
+        if curr_api_name[-3] == '*':
+            # print('bashobi')
+            curr_api_name += 'Anaplan Unreachable'
+            api_status_list.append(curr_api_name)
+        status_api_index = 0
         # print(line, f'    {index}')
         curr_api_index = index
-        curr_api_name = line
-        # api_status['API_NAME'] = line
-    else:
-        curr_api_index = 0
+        curr_api_name = line[109:195]
+
     if is_operation_success:
-        api_status = dict(API_LINE_NUM=curr_api_index,
-                          API_NAME=curr_api_name,
-                          EXEC_1=OPERATION_SUCCESS)
+        status_api_index = 1
+        curr_api_name += f'{OPERATION_SUCCESS}'
     if is_operation_fail:
-        api_status = dict(API_LINE_NUM=curr_api_index,
-                          API_NAME=curr_api_name,
-                          EXEC_3=OPERATION_FAILED)
-        # print(f'      {OPERATION_SUCCESS}')
-        # print(f'      {OPERATION_FAILED}')
+        status_api_index = 1
+        curr_api_name += f'{OPERATION_FAILED}'
     if is_operation_unavail:
-        # print(f'      {DUMPFILE_NOT_AVAILABLE}')
-        api_status = dict(API_LINE_NUM=curr_api_index,
-                          API_NAME=curr_api_name,
-                          EXEC_3=DUMPFILE_NOT_AVAILABLE)
-    #     print('Anaplan Unreachable')
+        status_api_index = 1
+        curr_api_name += f'{DUMPFILE_NOT_AVAILABLE}'
 
-    if  is_operation_fail or is_operation_success or  is_operation_unavail:
-        pass
+# The API Line has no follow-up lines which have Operation Status. So,
+    # only append ** at the end.
+    if curr_api_index > 0 and status_api_index == 0:
+        curr_api_name += '**'
+        # api_status_list.append(curr_api_name)
 
-    print(api_status)
+# The api Line has a Operation Status. Add it to the list.
+    if curr_api_index > 0 and status_api_index == 1:
+        api_status_list.append(curr_api_name)
+        curr_api_index = 0
+        status_api_index = 0
+
+# print(api_status_list)
+# print(len(api_status_list))
+for x in api_status_list:
+    is_anaplan_unreachable: bool = "Anaplan Unreachable" in x
+    if is_anaplan_unreachable:
+        print(x)
+
+
 
