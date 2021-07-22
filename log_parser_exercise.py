@@ -1,14 +1,13 @@
 from typing import List
-from typing import Dict
 
-
-path_to_file: str = 'log_files/anp_user.txt'
+path_to_file: str = 'log_files/anp_user_mgmt.log'
+# path_to_file: str = 'log_files/anp_user.txt'
 
 with open(file=path_to_file, mode='r') as f:
     lines = f.readlines()
 f.close()
 
-#print(lines)
+# print(lines)
 
 EXECUTION_START: str = './AnaplanClient.sh'
 # TODO: Search for "The operation was successful."
@@ -29,7 +28,7 @@ for index, line in enumerate(lines):
     is_operation_fail: bool = OPERATION_FAILED in line
     is_operation_unavail: bool = DUMPFILE_NOT_AVAILABLE in line
     if is_execution_start:
-        #print(curr_api_name[-3])
+        # print(curr_api_name[-3])
         if curr_api_name[-3] == '*':
             # print('bashobi')
             curr_api_name += 'Anaplan Unreachable'
@@ -49,13 +48,13 @@ for index, line in enumerate(lines):
         status_api_index = 1
         curr_api_name += f'{DUMPFILE_NOT_AVAILABLE}'
 
-# The API Line has no follow-up lines which have Operation Status. So,
+    # The API Line has no follow-up lines which have Operation Status. So,
     # only append ** at the end.
     if curr_api_index > 0 and status_api_index == 0:
         curr_api_name += '**'
         # api_status_list.append(curr_api_name)
 
-# The api Line has a Operation Status. Add it to the list.
+    # The api Line has a Operation Status. Add it to the list.
     if curr_api_index > 0 and status_api_index == 1:
         api_status_list.append(curr_api_name)
         curr_api_index = 0
@@ -63,10 +62,25 @@ for index, line in enumerate(lines):
 
 # print(api_status_list)
 # print(len(api_status_list))
+
+W = '\033[0m'  # white (normal)
+R = '\033[31m'  # red
+G = '\033[32m'  # green
+O = '\033[33m'  # orange
+B = '\033[34m'  # blue
+P = '\033[35m'  # purple
+
 for x in api_status_list:
     is_anaplan_unreachable: bool = "Anaplan Unreachable" in x
+    DUMPFILE_NOT_AVAILABLE: bool = 'No dump file is available.' in x
+    # TODO: Search for "The operation has failed." in x
+    OPERATION_FAILED: bool = 'The operation has failed.' in x
     if is_anaplan_unreachable:
-        print(x)
-
-
-
+        print(R + x + W)
+    elif DUMPFILE_NOT_AVAILABLE:
+        print(P + x + W)
+    elif OPERATION_FAILED:
+        print(B + x + W)
+    else:
+        # pass
+        print(G + x + W)
