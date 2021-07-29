@@ -10,35 +10,25 @@ with open(file=path_to_file, mode='r') as f:
 f.close()
 
 
-class Log_Parse:
-
-    def __int__(self):
-        #  api_status_list: List):
-        # self.curr_api_name = ''
-        # self.curr_api_index: int = 1
-        # self.status_api_index: int = 0
-        # self.api_status_list: List = api_status_list
-        # self.is_execution_start: bool = false
-        # self.is_operation_success: bool = false
-        # self.is_operation_fail: bool = false
-        # self.is_operation_unavail: bool = false
-        pass
-
-    key_model_names_dict: str = ''
-
-    EXECUTION_START: str = './AnaplanClient.sh'
-    # TODO: Search for "The operation was successful."
-    OPERATION_SUCCESS: str = 'The operation was successful.'
-    # TODO: Search for "No dump file is available."
+class Operation:
+    START: str = './AnaplanClient.sh'
+    SUCCESS: str = 'The operation was successful.'
     DUMPFILE_NOT_AVAILABLE: str = 'No dump file is available.'
-    # TODO: Search for "The operation has failed."
-    OPERATION_FAILED: str = 'The operation has failed.'
-    # TODO: If none of the 3 above are found, log error "Couldn't find operation log message"
+    FAILED: str = 'The operation has failed.'
+    UNREACHABLE: str = 'Anaplan Unreachable'
 
-    # api_status_list: List = []
-    log_parse_dict: Dict = {}
-    model_names: Dict = {}
-    anp_parm: Dict = {
+
+class Colors:
+    WHITE = '\033[0m'  # white (normal)
+    RED = '\033[31m'  # red
+    GREEN = '\033[32m'  # green
+    ORANGE = '\033[33m'  # orange
+    BLUE = '\033[34m'  # blue
+    PURPLE = '\033[35m'  # purple
+
+
+class ANP:
+    parmeters: Dict = {
         '8a81b00f706eee3a0170ab3c020773b8^E928BFB6DCA645168E02C5A4AD410D60': 'ATFY21',
         '8a81b0136d31d24f016d3c604cb236fa^0CED7723541D486C94B6C453F23923D9': 'USERACCESS',
         '8a81b0116ee24a64016ffc2292aa7896^B0D764EEA7644995A161A6A7B4F65DF6': 'BKGHUB',
@@ -59,12 +49,32 @@ class Log_Parse:
         '8a81b00e6ee246a8016f584e8a576ad8^21AFB617F1574F26BED27B2CC80E5534': 'TPX_FY22'
     }
 
-    W = '\033[0m'  # white (normal)
-    R = '\033[31m'  # red
-    G = '\033[32m'  # green
-    O = '\033[33m'  # orange
-    B = '\033[34m'  # blue
-    P = '\033[35m'  # purple
+
+class Regex:
+    regex_workspace = r'-workspace (.+) -model'
+    regex_model = r'-model (.+) -debug'
+    regex_process = r'-process (.+)-execute'
+    # print(f'{regex_model}   {regex_process}'
+    #       )
+
+
+class Log_Parse:
+
+    def __int__(self):
+        #  api_status_list: List):
+        # self.curr_api_name = ''
+        # self.curr_api_index: int = 1
+        # self.status_api_index: int = 0
+        # self.api_status_list: List = api_status_list
+        # self.is_execution_start: bool = false
+        # self.is_operation_success: bool = false
+        # self.is_operation_fail: bool = false
+        # self.is_operation_unavail: bool = false
+        pass
+
+    # api_status_list: List = []
+    log_parse_dict: Dict = {}
+    model_names: Dict = {}
 
     def constr_model_names_dict(self):
 
@@ -74,45 +84,47 @@ class Log_Parse:
         curr_api_name: str = ''
         model_name_counter: int = 0
         for index, line in enumerate(lines):
-            is_execution_start: bool = self.EXECUTION_START in line
-            is_operation_success: bool = self.OPERATION_SUCCESS in line
-            is_operation_fail: bool = self.OPERATION_FAILED in line
-            is_operation_unavail: bool = self.DUMPFILE_NOT_AVAILABLE in line
+
+            is_execution_start: bool = Operation.START in line
+            is_operation_success: bool = Operation.SUCCESS in line
+            is_operation_fail: bool = Operation.FAILED in line
+            is_operation_unavail: bool = Operation.DUMPFILE_NOT_AVAILABLE in line
 
             if is_execution_start:
                 model_name_counter += 1
-                self.key_model_names_dict: str = c_log_parse.parse_api_line(
+                model_name_key: str = self.gen_model_name_key(
                     line=line,
                     model_name_counter=model_name_counter)
-                # print(c_log_parse.model_names[key_model_names_dict])
+                # print(c_log_parse.model_names[model_name_key])
                 # print(f' Print curr_api_name {curr_api_name}')
                 # print(curr_api_name[-3])
                 if curr_api_name[-3] == '*':
-                    curr_api_name = c_log_parse.model_names[
-                        self.key_model_names_dict]
+                    curr_api_name = self.model_names[
+                        model_name_key]
                     curr_api_name += '    Anaplan Unreachable'
                     # api_status_list.append(curr_api_name)
-                    c_log_parse.model_names[
-                        self.key_model_names_dict] = curr_api_name
+
+                    self.model_names[
+                        model_name_key] = curr_api_name
 
                 curr_api_index = index
                 status_api_index = 0
 
-            # print(f' Length of key name {self.key_model_names_dict}')
+            # print(f' Length of key name {model_name_key}')
             if (is_operation_fail or is_operation_unavail or \
                     is_operation_success):
-                if len(self.key_model_names_dict) > 1:
+                if len(model_name_key) > 1:
                     status_api_index = 1
-                    curr_api_name = c_log_parse.model_names[
-                        self.key_model_names_dict]
+                    curr_api_name = self.model_names[
+                        model_name_key]
 
             if is_operation_success:
-                curr_api_name += f'    {self.OPERATION_SUCCESS}'
+                curr_api_name += f'    {Operation.SUCCESS}'
 
             if is_operation_fail:
-                curr_api_name += f'    {self.OPERATION_FAILED}'
+                curr_api_name += f'    {Operation.FAILED}'
             if is_operation_unavail:
-                curr_api_name += f'    {self.DUMPFILE_NOT_AVAILABLE}'
+                curr_api_name += f'    {Operation.DUMPFILE_NOT_AVAILABLE}'
 
             # The API Line has no follow-up lines which have Operation Status. So,
             # only append ** at the end.
@@ -125,216 +137,92 @@ class Log_Parse:
                 api_status_list.append(curr_api_name)
                 curr_api_index = 0
                 status_api_index = 0
-                c_log_parse.model_names[
-                    self.key_model_names_dict] = curr_api_name
+                self.model_names[
+                    model_name_key] = curr_api_name
 
         # print((c_log_parse.model_names))
 
-    def parse_api_line(self, line: str, model_name_counter: int) -> str:
+    def xtract_with_regex(self, line: str, regex: str):
+        rg = re.compile(regex, re.IGNORECASE | re.DOTALL)
+        match = rg.search(line)
+        return match.group(1)
+
+    def gen_model_name_key(self, line: str, model_name_counter: int) -> str:
         # print(line)
-        if re.search("./AnaplanClient.sh", line):
-            workspace = re.search("-workspace ", line)
-            s_workspace = workspace.start()
-            e_workspace = workspace.end()
+        # if re.search("./AnaplanClient.sh", line):
+        workspace_token_new = self.xtract_with_regex(line,
+                                                     Regex.regex_workspace)
 
-            model = re.search("-model ", line)
-            debug = re.search("-debug ", line)
-            process = re.search("-process ", line)
-            execute = re.search("-execute ", line)
-            s_model = model.start()
-            e_model = model.end()
-            s_debug = debug.start()
-            s_process = process.start()
-            e_process = process.end()
-            s_execute = execute.start()
+        model_token_new = self.xtract_with_regex(line, Regex.regex_model)
+        process_token_new = self.xtract_with_regex(line, Regex.regex_process)
 
-            workspace_token = line[e_workspace:s_model - 1]
-            model_token = line[e_model:s_debug - 1]
-            process_token = line[e_process:s_execute - 1]
-            # print(workspace_token, model_token,process_token)
-            index_constructed = str(model_name_counter) + ':' + \
-                                workspace_token + '^' + model_token
-            # print(f'{index_constructed}  {process_token}')
-            c_log_parse.model_names[index_constructed] = process_token
-            # print(c_log_parse.model_names[index_constructed])
-        return index_constructed  # c_log_parse.model_names
+        # print(process_token)
+        # workspace = self.xtract_with_regex(line, Regex.regex_workspace)
+        # workspace = re.search("-workspace ", line)
+        # s_workspace = workspace.start()
+        # e_workspace = workspace.end()
+        #
+        # model = re.search("-model ", line)
+        # debug = re.search("-debug ", line)
+        # process = re.search("-process ", line)
+        # execute = re.search("-execute ", line)
+        # s_model = model.start()
+        # e_model = model.end()
+        # s_debug = debug.start()
+        # s_process = process.start()
+        # e_process = process.end()
+        # s_execute = execute.start()
+        #
+        # workspace_token = line[e_workspace:s_model - 1]
+        # model_token = line[e_model:s_debug - 1]
+        # process_token = line[e_process:s_execute - 1]
+        # # print(workspace_token, model_token,process_token)
+        # index_constructed = f'{model_name_counter}:{workspace_token}^{model_token}'
+        # print(f'Old way    {index_constructed}')
+        index_constructed_new = f'{model_name_counter}:{workspace_token_new}' \
+                                f'^{model_token_new}'
+        # print(f'New way    {index_constructed_new}')
+        self.model_names[index_constructed_new] = process_token_new
+
+        return index_constructed_new  # self.model_names
 
     def color_the_dict_output(self, log_parse_dict):
-        W = '\033[0m'  # white (normal)
-        R = '\033[31m'  # red
-        G = '\033[32m'  # green
-        O = '\033[33m'  # orange
-        B = '\033[34m'  # blue
-        P = '\033[35m'  # purple
-        print(c_log_parse.anp_parm)
+        # print(self.anp_parm)
         for key, value in log_parse_dict.items():
             # print(key, value)
-            is_anaplan_unreachable: bool = "Anaplan Unreachable" in value
-
-            DUMPFILE_NOT_AVAILABLE: bool = 'No dump file is available.' in value
-            # TODO: Search for "The operation has failed." in x
-            OPERATION_FAILED: bool = 'The operation has failed.' in value
-            OPERATION_SUCCESS: bool = 'The operation was successful.' in value
+            is_anaplan_unreachable: bool = Operation.UNREACHABLE in value
+            DUMPFILE_NOT_AVAILABLE: bool = Operation.DUMPFILE_NOT_AVAILABLE in value
+            OPERATION_FAILED: bool = Operation.FAILED in value
+            OPERATION_SUCCESS: bool = Operation.SUCCESS in value
 
             key_extract: str = key.split(':')[1]
             # print(f' Second field of key : {key_extract}')
 
-            if key_extract in c_log_parse.anp_parm:
-                # print(c_log_parse.anp_parm[key_extract], value)
-                display_model_operation_status: str = f'' \
-                                                      f'{c_log_parse.anp_parm[key_extract]}   {value}'
-                # print(display_model_operation_status, OPERATION_SUCCESS)
+            if key_extract in ANP.parmeters:
+                display_model_operation_status: str = f'{ANP.parmeters[key_extract]}   {value}'
+
                 if OPERATION_SUCCESS:
-                    print(B + display_model_operation_status + W)
+                    print(f'{Colors.BLUE}'
+                          f'{display_model_operation_status}'
+                          f'{Colors.WHITE}')
                 if is_anaplan_unreachable:
-                    #
-                    print(G + display_model_operation_status + W)
+                    print(f'{Colors.GREEN}'
+                          f'{display_model_operation_status}'
+                          f'{Colors.WHITE}')
                 elif DUMPFILE_NOT_AVAILABLE:
-                    print(P + display_model_operation_status + W)
+                    print(f'{Colors.PURPLE}'
+                          f'{display_model_operation_status}'
+                          f'{Colors.WHITE}')
                 elif OPERATION_FAILED:
-                    print(W + display_model_operation_status + W)
+                    print(f'{Colors.WHITE}'
+                          f'{display_model_operation_status}'
+                          f'{Colors.WHITE}')
                 else:
                     pass
-
-    #
-    # for x in api_status_list:
-    #     is_anaplan_unreachable: bool = "Anaplan Unreachable" in x
-    #     DUMPFILE_NOT_AVAILABLE: bool = 'No dump file is available.' in x
-    #     # TODO: Search for "The operation has failed." in x
-    #     OPERATION_FAILED: bool = 'The operation has failed.' in x
-    #     if is_anaplan_unreachable:
-    #         print(R + x + W)
-    #     elif DUMPFILE_NOT_AVAILABLE:
-    #         print(P + x + W)
-    #     elif OPERATION_FAILED:
-    #         print(B + x + W)
-    #     else:
-    #         # pass
-
-
-def construct_model_names_dict(self) -> Dict:
-    model_name_counter: int = 0
-    api_status_list: List = []
-    curr_api_index: int = 1
-    status_api_index: int = 0
-    curr_api_name: str = ''
-    iterate_model_named_again: int = 0
-    index_constructed: str = ''
-    for index, line in enumerate(lines):
-        if re.search("./AnaplanClient.sh", line):
-            model_name_counter += 1
-            workspace = re.search("-workspace ", line)
-            s_workspace = workspace.start()
-            e_workspace = workspace.end()
-
-            # print(workspace.re.pattern, workspace.string, s_workspace, e_workspace,
-            #       line[s_workspace:e_workspace])
-            model = re.search("-model ", line)
-            debug = re.search("-debug ", line)
-            process = re.search("-process ", line)
-            execute = re.search("-execute ", line)
-            s_model = model.start()
-            e_model = model.end()
-            s_debug = debug.start()
-            s_process = process.start()
-            e_process = process.end()
-            s_execute = execute.start()
-
-            workspace_token = line[e_workspace:s_model - 1]
-            model_token = line[e_model:s_debug - 1]
-            process_token = line[e_process:s_execute - 1]
-            # print(workspace_token, model_token,process_token)
-            index_constructed = str(model_name_counter) + '^' + \
-                                workspace_token + '^' + model_token
-            # print(index_constructed)
-            c_log_parse.model_names[index_constructed] = process_token
-            # c_log_parse.model_names[str(
-            #     model_name_counter) + '^' + workspace_token + '^' +
-            #                         model_token] = \
-            #     process_token
-
-        is_execution_start: bool = self.EXECUTION_START in line
-        is_operation_success: bool = self.OPERATION_SUCCESS in line
-        is_operation_fail: bool = self.OPERATION_FAILED in line
-        is_operation_unavail: bool = self.DUMPFILE_NOT_AVAILABLE in \
-                                     line
-        # print(is_execution_start)
-
-        if is_execution_start:
-            # api_status_list.append('1:')
-            # print(curr_api_name[-3])
-            if curr_api_name[-1] == '*':
-                # print('bashobi')
-                curr_api_name += 'Anaplan Unreachable'
-                api_status_list.append(curr_api_name)
-                status_api_index = 0
-                # print(line, f'    {index}')
-                curr_api_index = index
-                curr_api_name = process_token
-                # curr_api_name = line[109:195]
-        if is_operation_success:
-            status_api_index = 1
-            curr_api_name += f'{self.OPERATION_SUCCESS}'
-        if is_operation_fail:
-            status_api_index = 1
-            curr_api_name += f'{self.OPERATION_FAILED}'
-        if is_operation_unavail:
-            status_api_index = 1
-            curr_api_name += f'{self.DUMPFILE_NOT_AVAILABLE}'
-        # # The API Line has no follow-up lines which have Operation Status. So,
-        # only append ** at the end.
-        if curr_api_index > 0 and status_api_index == 0:
-            curr_api_name += '**'
-            # api_status_list.append(curr_api_name)
-            c_log_parse.model_names[index_constructed] = curr_api_name
-            print(curr_api_name)
-        # The api Line has a Operation Status. Add it to the list.
-        if curr_api_index > 0 and status_api_index == 1:
-            api_status_list.append(curr_api_name)
-            curr_api_index = 0
-            status_api_index = 0
-            print(line, curr_api_name)
-
-        W = '\033[0m'  # white (normal)
-        R = '\033[31m'  # red
-        G = '\033[32m'  # green
-        O = '\033[33m'  # orange
-        B = '\033[34m'  # blue
-        P = '\033[35m'  # purple
-        for x in api_status_list:
-            is_anaplan_unreachable: bool = "Anaplan Unreachable" in x
-            DUMPFILE_NOT_AVAILABLE: bool = 'No dump file is available.' in x
-            # TODO: Search for "The operation has failed." in x
-            OPERATION_FAILED: bool = 'The operation has failed.' in x
-            if is_anaplan_unreachable:
-                print(R + x + W)
-            elif DUMPFILE_NOT_AVAILABLE:
-                print(P + x + W)
-            elif OPERATION_FAILED:
-                print(B + x + W)
-            else:
-                # pass
-                print(G + x + W)
-    return c_log_parse.model_names
-
-
-# # self.api_status_list = ['bashobi']
-# def get_status_api_execution(self, line_index: int, model_counter: int) -> \
-#         List:
-#     return api_status_list
 
 
 c_log_parse = Log_Parse(
 )
-# c_get_status = c_log_parse.get_status_api_execution()
 c_get_status = c_log_parse.constr_model_names_dict()
 c_get_status_colour = c_log_parse.color_the_dict_output(
     c_log_parse.model_names)
-# c_get_status = c_log_parse.construct_model_names_dict()
-# print(c_get_status)
-
-# for key, value in c_log_parse.model_names.items():
-#     print(key, value)
-# key_extract: str = key.split('^')[1]
-# if key_extract in c_log_parse.anp_parm:
-#     print(c_log_parse.anp_parm[key_extract], value)
