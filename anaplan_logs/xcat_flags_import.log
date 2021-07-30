@@ -1,0 +1,1000 @@
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+XCAT FLag cells: 994980 (3056010 ignored)
+ELA Flag cells: 994980 (3056010 ignored)
+BP Flag cells: 994980 (3056010 ignored)
+
+XCAT FLag cells: 3056010 (994980 ignored)
+ELA Flag cells: 3056010 (994980 ignored)
+BP Flag cells: 3056010 (994980 ignored)
+
+XCAT FLag cells: 994980 (3056010 ignored)
+BP Flag cells: 994980 (3056010 ignored)
+ELA Flag cells: 994980 (3056010 ignored)
+
+XCAT FLag cells: 3056010
+ELA Flag cells: 3056010
+BP Flag cells: 3056010
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 959445 (3127080 ignored)
+ELA Flag cells: 959445 (3127080 ignored)
+BP Flag cells: 959445 (3127080 ignored)
+
+XCAT FLag cells: 3127080 (959445 ignored)
+ELA Flag cells: 3127080 (959445 ignored)
+BP Flag cells: 3127080 (959445 ignored)
+
+XCAT FLag cells: 0 (4086525 failed)
+BP Flag cells: 0 (4086525 failed)
+ELA Flag cells: 0 (4086525 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12259575
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 852840 (3198150 ignored)
+ELA Flag cells: 852840 (3198150 ignored)
+BP Flag cells: 852840 (3198150 ignored)
+
+XCAT FLag cells: 3198150 (852840 ignored)
+ELA Flag cells: 3198150 (852840 ignored)
+BP Flag cells: 3198150 (852840 ignored)
+
+XCAT FLag cells: 0 (4050990 failed)
+BP Flag cells: 0 (4050990 failed)
+ELA Flag cells: 0 (4050990 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12152970
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 855624 (3458147 ignored)
+ELA Flag cells: 855624 (3458147 ignored)
+BP Flag cells: 855624 (3458147 ignored)
+
+XCAT FLag cells: 3458147 (855624 ignored)
+ELA Flag cells: 3458147 (855624 ignored)
+BP Flag cells: 3458147 (855624 ignored)
+
+XCAT FLag cells: 0 (4313771 failed)
+BP Flag cells: 0 (4313771 failed)
+ELA Flag cells: 0 (4313771 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12941313
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 853176 (3448253 ignored)
+ELA Flag cells: 853176 (3448253 ignored)
+BP Flag cells: 853176 (3448253 ignored)
+
+XCAT FLag cells: 3448253 (853176 ignored)
+ELA Flag cells: 3448253 (853176 ignored)
+BP Flag cells: 3448253 (853176 ignored)
+
+XCAT FLag cells: 0 (4301429 failed)
+BP Flag cells: 0 (4301429 failed)
+ELA Flag cells: 0 (4301429 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12904287
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 853176 (3448253 ignored)
+ELA Flag cells: 853176 (3448253 ignored)
+BP Flag cells: 853176 (3448253 ignored)
+
+XCAT FLag cells: 3448253 (853176 ignored)
+ELA Flag cells: 3448253 (853176 ignored)
+BP Flag cells: 3448253 (853176 ignored)
+
+XCAT FLag cells: 0 (4301429 failed)
+BP Flag cells: 0 (4301429 failed)
+ELA Flag cells: 0 (4301429 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12904287
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 853176 (3448253 ignored)
+ELA Flag cells: 853176 (3448253 ignored)
+BP Flag cells: 853176 (3448253 ignored)
+
+XCAT FLag cells: 3448253 (853176 ignored)
+ELA Flag cells: 3448253 (853176 ignored)
+BP Flag cells: 3448253 (853176 ignored)
+
+XCAT FLag cells: 0 (4301429 failed)
+BP Flag cells: 0 (4301429 failed)
+ELA Flag cells: 0 (4301429 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12904287
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 853176 (3448253 ignored)
+ELA Flag cells: 853176 (3448253 ignored)
+BP Flag cells: 853176 (3448253 ignored)
+
+XCAT FLag cells: 3448253 (853176 ignored)
+ELA Flag cells: 3448253 (853176 ignored)
+BP Flag cells: 3448253 (853176 ignored)
+
+XCAT FLag cells: 0 (4301429 failed)
+BP Flag cells: 0 (4301429 failed)
+ELA Flag cells: 0 (4301429 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 12904287
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 856128 (3495856 ignored)
+ELA Flag cells: 856128 (3495856 ignored)
+BP Flag cells: 856128 (3495856 ignored)
+
+XCAT FLag cells: 3495856 (856128 ignored)
+ELA Flag cells: 3495856 (856128 ignored)
+BP Flag cells: 3495856 (856128 ignored)
+
+XCAT FLag cells: 0 (4351984 failed)
+BP Flag cells: 0 (4351984 failed)
+ELA Flag cells: 0 (4351984 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13055952
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 856128 (3495856 ignored)
+ELA Flag cells: 856128 (3495856 ignored)
+BP Flag cells: 856128 (3495856 ignored)
+
+XCAT FLag cells: 3495856 (856128 ignored)
+ELA Flag cells: 3495856 (856128 ignored)
+BP Flag cells: 3495856 (856128 ignored)
+
+XCAT FLag cells: 0 (4351984 failed)
+BP Flag cells: 0 (4351984 failed)
+ELA Flag cells: 0 (4351984 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13055952
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 927576 (122 failed, 3424896 ignored)
+ELA Flag cells: 927576 (122 failed, 3424896 ignored)
+BP Flag cells: 927576 (122 failed, 3424896 ignored)
+Item not located in Share FLAT list: 366
+
+XCAT FLag cells: 3424896 (122 failed, 927576 ignored)
+ELA Flag cells: 3424896 (122 failed, 927576 ignored)
+BP Flag cells: 3424896 (122 failed, 927576 ignored)
+Item not located in Share FLAT list: 366
+
+XCAT FLag cells: 0 (4352594 failed)
+BP Flag cells: 0 (4352594 failed)
+ELA Flag cells: 0 (4352594 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13057416
+Item not located in Share FLAT list: 366
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/0-112000000071-Failures for Import 71"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/1-112000000072-Failures for Import 72"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 927602 (3424992 ignored)
+ELA Flag cells: 927602 (3424992 ignored)
+BP Flag cells: 927602 (3424992 ignored)
+
+XCAT FLag cells: 3424992 (927602 ignored)
+ELA Flag cells: 3424992 (927602 ignored)
+BP Flag cells: 3424992 (927602 ignored)
+
+XCAT FLag cells: 0 (4352594 failed)
+BP Flag cells: 0 (4352594 failed)
+ELA Flag cells: 0 (4352594 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13057782
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 927602 (3424992 ignored)
+ELA Flag cells: 927602 (3424992 ignored)
+BP Flag cells: 927602 (3424992 ignored)
+
+XCAT FLag cells: 3424992 (927602 ignored)
+ELA Flag cells: 3424992 (927602 ignored)
+BP Flag cells: 3424992 (927602 ignored)
+
+XCAT FLag cells: 0 (4352594 failed)
+BP Flag cells: 0 (4352594 failed)
+ELA Flag cells: 0 (4352594 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13057782
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 927602 (3424992 ignored)
+ELA Flag cells: 927602 (3424992 ignored)
+BP Flag cells: 927602 (3424992 ignored)
+
+XCAT FLag cells: 3424992 (927602 ignored)
+ELA Flag cells: 3424992 (927602 ignored)
+BP Flag cells: 3424992 (927602 ignored)
+
+XCAT FLag cells: 0 (4352594 failed)
+BP Flag cells: 0 (4352594 failed)
+ELA Flag cells: 0 (4352594 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13057782
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 927602 (3424992 ignored)
+ELA Flag cells: 927602 (3424992 ignored)
+BP Flag cells: 927602 (3424992 ignored)
+
+XCAT FLag cells: 3424992 (927602 ignored)
+ELA Flag cells: 3424992 (927602 ignored)
+BP Flag cells: 3424992 (927602 ignored)
+
+XCAT FLag cells: 0 (4352594 failed)
+BP Flag cells: 0 (4352594 failed)
+ELA Flag cells: 0 (4352594 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13057782
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280 (924430 ignored)
+ELA Flag cells: 3413280 (924430 ignored)
+BP Flag cells: 3413280 (924430 ignored)
+
+XCAT FLag cells: 0 (4337710 failed)
+BP Flag cells: 0 (4337710 failed)
+ELA Flag cells: 0 (4337710 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13013130
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+XCAT FLag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280 (924430 ignored)
+ELA Flag cells: 3413280 (924430 ignored)
+BP Flag cells: 3413280 (924430 ignored)
+
+XCAT FLag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280
+ELA Flag cells: 3413280
+BP Flag cells: 3413280
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+XCAT FLag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280 (924430 ignored)
+ELA Flag cells: 3413280 (924430 ignored)
+BP Flag cells: 3413280 (924430 ignored)
+
+XCAT FLag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280
+ELA Flag cells: 3413280
+BP Flag cells: 3413280
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280 (924430 ignored)
+ELA Flag cells: 3413280 (924430 ignored)
+BP Flag cells: 3413280 (924430 ignored)
+
+XCAT FLag cells: 0 (4337710 failed)
+BP Flag cells: 0 (4337710 failed)
+ELA Flag cells: 0 (4337710 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13013130
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280 (924430 ignored)
+ELA Flag cells: 3413280 (924430 ignored)
+BP Flag cells: 3413280 (924430 ignored)
+
+XCAT FLag cells: 0 (4337710 failed)
+BP Flag cells: 0 (4337710 failed)
+ELA Flag cells: 0 (4337710 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13013130
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 924430 (3413280 ignored)
+ELA Flag cells: 924430 (3413280 ignored)
+BP Flag cells: 924430 (3413280 ignored)
+
+XCAT FLag cells: 3413280 (924430 ignored)
+ELA Flag cells: 3413280 (924430 ignored)
+BP Flag cells: 3413280 (924430 ignored)
+
+XCAT FLag cells: 0 (4337710 failed)
+BP Flag cells: 0 (4337710 failed)
+ELA Flag cells: 0 (4337710 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13013130
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936
+ELA Flag cells: 3423936
+BP Flag cells: 3423936
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1034314 (3423936 ignored)
+ELA Flag cells: 1034314 (3423936 ignored)
+BP Flag cells: 1034314 (3423936 ignored)
+
+XCAT FLag cells: 3423936 (1034314 ignored)
+ELA Flag cells: 3423936 (1034314 ignored)
+BP Flag cells: 3423936 (1034314 ignored)
+
+XCAT FLag cells: 0 (4458250 failed)
+BP Flag cells: 0 (4458250 failed)
+ELA Flag cells: 0 (4458250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13374750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 0 (4447250 failed)
+BP Flag cells: 0 (4447250 failed)
+ELA Flag cells: 0 (4447250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13341750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488
+ELA Flag cells: 3415488
+BP Flag cells: 3415488
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488
+ELA Flag cells: 3415488
+BP Flag cells: 3415488
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 0 (4447250 failed)
+BP Flag cells: 0 (4447250 failed)
+ELA Flag cells: 0 (4447250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13341750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 0 (4447250 failed)
+BP Flag cells: 0 (4447250 failed)
+ELA Flag cells: 0 (4447250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13341750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 0 (4447250 failed)
+BP Flag cells: 0 (4447250 failed)
+ELA Flag cells: 0 (4447250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13341750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Xcat Flags import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation failed.
+XCAT FLag cells: 1031762 (3415488 ignored)
+ELA Flag cells: 1031762 (3415488 ignored)
+BP Flag cells: 1031762 (3415488 ignored)
+
+XCAT FLag cells: 3415488 (1031762 ignored)
+ELA Flag cells: 3415488 (1031762 ignored)
+BP Flag cells: 3415488 (1031762 ignored)
+
+XCAT FLag cells: 0 (4447250 failed)
+BP Flag cells: 0 (4447250 failed)
+ELA Flag cells: 0 (4447250 failed)
+Import into Planning - Old module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Week Identifier list: 13341750
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/xcat_flags_import/2-112000000073-Failures for Import 73"

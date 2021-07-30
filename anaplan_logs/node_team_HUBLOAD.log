@@ -1,0 +1,16 @@
+20210728152306
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -action 'Delete Node Team Key' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/node_team_delete.err'
+The operation was successful.
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file xxg2c_node_teams.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/xxg2c_node_teams.csv' -import 'Node Team Key from xxg2c_node_teams.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/node_team_list.err' -import 'Node Team Info from xxg2c_node_teams.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/node_team_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/xxg2c_node_teams.csv" has been uploaded as xxg2c_node_teams.csv.
+The operation was successful.
+Node Team Key: 2318 (2318/0) rows successful, 0 ignored 
+
+The operation was successful.
+NODE_ID cells: 2318
+TEAM_ID cells: 2318
+TEAM_NAME cells: 2318
+

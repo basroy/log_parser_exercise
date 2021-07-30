@@ -1,0 +1,1000 @@
+CONFLICT_GROUP_ACCT_ID cells: 1510180
+CONFLICT_TYPE cells: 1509435
+PARTY_ID cells: 1510180
+SPLIT_PCT cells: 1510180
+LINK_PARTY_ID cells: 1510180
+LINK_PARTY_TYPE cells: 1510180
+SALES_ACCT_ID cells: 1510180
+OWNER_ID cells: 1510180
+OWNERSHIP_STATUS cells: 1510180
+FULL_NAME cells: 1479431
+START_DATE cells: 1510180
+END_DATE cells: 1510180
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1513227 (0/1513227) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1513227
+CONFLICT_GROUP_ACCT_ID cells: 1513227
+CONFLICT_TYPE cells: 1512719
+PARTY_ID cells: 1513227
+SPLIT_PCT cells: 1513227
+LINK_PARTY_ID cells: 1513227
+LINK_PARTY_TYPE cells: 1513227
+SALES_ACCT_ID cells: 1513227
+OWNER_ID cells: 1513227
+OWNERSHIP_STATUS cells: 1513227
+FULL_NAME cells: 1494203
+START_DATE cells: 1513227
+END_DATE cells: 1513227
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1531640 (0/1531640) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1531640
+CONFLICT_GROUP_ACCT_ID cells: 1531640
+CONFLICT_TYPE cells: 1531132
+PARTY_ID cells: 1531640
+SPLIT_PCT cells: 1531640
+LINK_PARTY_ID cells: 1531640
+LINK_PARTY_TYPE cells: 1531640
+SALES_ACCT_ID cells: 1531640
+OWNER_ID cells: 1531640
+OWNERSHIP_STATUS cells: 1531640
+FULL_NAME cells: 1511640
+START_DATE cells: 1531640
+END_DATE cells: 1531640
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1531607 (0/1531607) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1531607
+CONFLICT_GROUP_ACCT_ID cells: 1531607
+CONFLICT_TYPE cells: 1531107
+PARTY_ID cells: 1531607
+SPLIT_PCT cells: 1531607
+LINK_PARTY_ID cells: 1531607
+LINK_PARTY_TYPE cells: 1531607
+SALES_ACCT_ID cells: 1531607
+OWNER_ID cells: 1531607
+OWNERSHIP_STATUS cells: 1531607
+FULL_NAME cells: 1513994
+START_DATE cells: 1531607
+END_DATE cells: 1531607
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1531542 (0/1531542) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1531542
+CONFLICT_GROUP_ACCT_ID cells: 1531542
+CONFLICT_TYPE cells: 1531043
+PARTY_ID cells: 1531542
+SPLIT_PCT cells: 1531542
+LINK_PARTY_ID cells: 1531542
+LINK_PARTY_TYPE cells: 1531542
+SALES_ACCT_ID cells: 1531542
+OWNER_ID cells: 1531542
+OWNERSHIP_STATUS cells: 1531542
+FULL_NAME cells: 1514061
+START_DATE cells: 1531542
+END_DATE cells: 1531542
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1532593 (0/1532593) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1532593
+CONFLICT_GROUP_ACCT_ID cells: 1532593
+CONFLICT_TYPE cells: 1532094
+PARTY_ID cells: 1532593
+SPLIT_PCT cells: 1532593
+LINK_PARTY_ID cells: 1532593
+LINK_PARTY_TYPE cells: 1532593
+SALES_ACCT_ID cells: 1532593
+OWNER_ID cells: 1532593
+OWNERSHIP_STATUS cells: 1532593
+FULL_NAME cells: 1514865
+START_DATE cells: 1532593
+END_DATE cells: 1532593
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1535480 (0/1535480) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1535480
+CONFLICT_GROUP_ACCT_ID cells: 1535480
+CONFLICT_TYPE cells: 1534981
+PARTY_ID cells: 1535480
+SPLIT_PCT cells: 1535480
+LINK_PARTY_ID cells: 1535480
+LINK_PARTY_TYPE cells: 1535480
+SALES_ACCT_ID cells: 1535480
+OWNER_ID cells: 1535480
+OWNERSHIP_STATUS cells: 1535480
+FULL_NAME cells: 1517412
+START_DATE cells: 1535480
+END_DATE cells: 1535480
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1536425 (0/1536425) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1536425
+CONFLICT_GROUP_ACCT_ID cells: 1536425
+CONFLICT_TYPE cells: 1535926
+PARTY_ID cells: 1536425
+SPLIT_PCT cells: 1536425
+LINK_PARTY_ID cells: 1536425
+LINK_PARTY_TYPE cells: 1536425
+SALES_ACCT_ID cells: 1536425
+OWNER_ID cells: 1536425
+OWNERSHIP_STATUS cells: 1536425
+FULL_NAME cells: 1518063
+START_DATE cells: 1536425
+END_DATE cells: 1536425
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1537869 (0/1537869) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1537869
+CONFLICT_GROUP_ACCT_ID cells: 1537869
+CONFLICT_TYPE cells: 1537370
+PARTY_ID cells: 1537869
+SPLIT_PCT cells: 1537869
+LINK_PARTY_ID cells: 1537869
+LINK_PARTY_TYPE cells: 1537869
+SALES_ACCT_ID cells: 1537869
+OWNER_ID cells: 1537869
+OWNERSHIP_STATUS cells: 1537869
+FULL_NAME cells: 1519630
+START_DATE cells: 1537869
+END_DATE cells: 1537869
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1537875 (0/1537875) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1537875
+CONFLICT_GROUP_ACCT_ID cells: 1537875
+CONFLICT_TYPE cells: 1537376
+PARTY_ID cells: 1537875
+SPLIT_PCT cells: 1537875
+LINK_PARTY_ID cells: 1537875
+LINK_PARTY_TYPE cells: 1537875
+SALES_ACCT_ID cells: 1537875
+OWNER_ID cells: 1537875
+OWNERSHIP_STATUS cells: 1537875
+FULL_NAME cells: 1519636
+START_DATE cells: 1537875
+END_DATE cells: 1537875
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1534083 (0/1534083) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1534083
+CONFLICT_GROUP_ACCT_ID cells: 1534083
+CONFLICT_TYPE cells: 1533584
+PARTY_ID cells: 1534083
+SPLIT_PCT cells: 1534083
+LINK_PARTY_ID cells: 1534083
+LINK_PARTY_TYPE cells: 1534083
+SALES_ACCT_ID cells: 1534083
+OWNER_ID cells: 1534081
+OWNERSHIP_STATUS cells: 1534083
+FULL_NAME cells: 1516761
+START_DATE cells: 1534083
+END_DATE cells: 1534083
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1533944 (0/1533944) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1533944
+CONFLICT_GROUP_ACCT_ID cells: 1533944
+CONFLICT_TYPE cells: 1533445
+PARTY_ID cells: 1533944
+SPLIT_PCT cells: 1533944
+LINK_PARTY_ID cells: 1533944
+LINK_PARTY_TYPE cells: 1533944
+SALES_ACCT_ID cells: 1533944
+OWNER_ID cells: 1533944
+OWNERSHIP_STATUS cells: 1533944
+FULL_NAME cells: 1514529
+START_DATE cells: 1533944
+END_DATE cells: 1533944
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1537638 (0/1537638) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1537638
+CONFLICT_GROUP_ACCT_ID cells: 1537638
+CONFLICT_TYPE cells: 1537139
+PARTY_ID cells: 1537638
+SPLIT_PCT cells: 1537638
+LINK_PARTY_ID cells: 1537638
+LINK_PARTY_TYPE cells: 1537638
+SALES_ACCT_ID cells: 1537638
+OWNER_ID cells: 1537638
+OWNERSHIP_STATUS cells: 1537638
+FULL_NAME cells: 1517155
+START_DATE cells: 1537638
+END_DATE cells: 1537638
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1534594 (0/1534594) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1534594
+CONFLICT_GROUP_ACCT_ID cells: 1534594
+CONFLICT_TYPE cells: 1534088
+PARTY_ID cells: 1534594
+SPLIT_PCT cells: 1534594
+LINK_PARTY_ID cells: 1534594
+LINK_PARTY_TYPE cells: 1534594
+SALES_ACCT_ID cells: 1534594
+OWNER_ID cells: 1534594
+OWNERSHIP_STATUS cells: 1534594
+FULL_NAME cells: 1517183
+START_DATE cells: 1534594
+END_DATE cells: 1534594
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1533296 (0/1533296) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1533296
+CONFLICT_GROUP_ACCT_ID cells: 1533296
+CONFLICT_TYPE cells: 1532790
+PARTY_ID cells: 1533296
+SPLIT_PCT cells: 1533296
+LINK_PARTY_ID cells: 1533296
+LINK_PARTY_TYPE cells: 1533296
+SALES_ACCT_ID cells: 1533296
+OWNER_ID cells: 1533295
+OWNERSHIP_STATUS cells: 1533296
+FULL_NAME cells: 1516187
+START_DATE cells: 1533296
+END_DATE cells: 1533296
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1533005 (0/1533005) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1533005
+CONFLICT_GROUP_ACCT_ID cells: 1533005
+CONFLICT_TYPE cells: 1532506
+PARTY_ID cells: 1533005
+SPLIT_PCT cells: 1533005
+LINK_PARTY_ID cells: 1533005
+LINK_PARTY_TYPE cells: 1533005
+SALES_ACCT_ID cells: 1533005
+OWNER_ID cells: 1533005
+OWNERSHIP_STATUS cells: 1533005
+FULL_NAME cells: 1516123
+START_DATE cells: 1533005
+END_DATE cells: 1533005
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1533571 (0/1533571) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1533571
+CONFLICT_GROUP_ACCT_ID cells: 1533571
+CONFLICT_TYPE cells: 1533072
+PARTY_ID cells: 1533571
+SPLIT_PCT cells: 1533571
+LINK_PARTY_ID cells: 1533571
+LINK_PARTY_TYPE cells: 1533571
+SALES_ACCT_ID cells: 1533571
+OWNER_ID cells: 1533571
+OWNERSHIP_STATUS cells: 1533571
+FULL_NAME cells: 1516400
+START_DATE cells: 1533571
+END_DATE cells: 1533571
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1532925 (0/1532925) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1532925
+CONFLICT_GROUP_ACCT_ID cells: 1532925
+CONFLICT_TYPE cells: 1532402
+PARTY_ID cells: 1532925
+SPLIT_PCT cells: 1532925
+LINK_PARTY_ID cells: 1532925
+LINK_PARTY_TYPE cells: 1532925
+SALES_ACCT_ID cells: 1532925
+OWNER_ID cells: 1532925
+OWNERSHIP_STATUS cells: 1532925
+FULL_NAME cells: 1516334
+START_DATE cells: 1532925
+END_DATE cells: 1532925
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1532728 (0/1532728) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1532728
+CONFLICT_GROUP_ACCT_ID cells: 1532728
+CONFLICT_TYPE cells: 1532205
+PARTY_ID cells: 1532728
+SPLIT_PCT cells: 1532728
+LINK_PARTY_ID cells: 1532728
+LINK_PARTY_TYPE cells: 1532728
+SALES_ACCT_ID cells: 1532728
+OWNER_ID cells: 1532728
+OWNERSHIP_STATUS cells: 1532728
+FULL_NAME cells: 1516112
+START_DATE cells: 1532728
+END_DATE cells: 1532728
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1534340 (0/1534340) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1534340
+CONFLICT_GROUP_ACCT_ID cells: 1534340
+CONFLICT_TYPE cells: 1533841
+PARTY_ID cells: 1534340
+SPLIT_PCT cells: 1534340
+LINK_PARTY_ID cells: 1534340
+LINK_PARTY_TYPE cells: 1534340
+SALES_ACCT_ID cells: 1534340
+OWNER_ID cells: 1534340
+OWNERSHIP_STATUS cells: 1534340
+FULL_NAME cells: 1517051
+START_DATE cells: 1534340
+END_DATE cells: 1534340
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1534218 (0/1534218) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1534218
+CONFLICT_GROUP_ACCT_ID cells: 1534218
+CONFLICT_TYPE cells: 1533719
+PARTY_ID cells: 1534218
+SPLIT_PCT cells: 1534218
+LINK_PARTY_ID cells: 1534218
+LINK_PARTY_TYPE cells: 1534218
+SALES_ACCT_ID cells: 1534218
+OWNER_ID cells: 1534218
+OWNERSHIP_STATUS cells: 1534218
+FULL_NAME cells: 1516984
+START_DATE cells: 1534218
+END_DATE cells: 1534218
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1534441 (0/1534441) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1534441
+CONFLICT_GROUP_ACCT_ID cells: 1534441
+CONFLICT_TYPE cells: 1533918
+PARTY_ID cells: 1534441
+SPLIT_PCT cells: 1534441
+LINK_PARTY_ID cells: 1534441
+LINK_PARTY_TYPE cells: 1534441
+SALES_ACCT_ID cells: 1534441
+OWNER_ID cells: 1534441
+OWNERSHIP_STATUS cells: 1534441
+FULL_NAME cells: 1517279
+START_DATE cells: 1534441
+END_DATE cells: 1534441
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1534384 (0/1534384) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1534384
+CONFLICT_GROUP_ACCT_ID cells: 1534384
+CONFLICT_TYPE cells: 1533861
+PARTY_ID cells: 1534384
+SPLIT_PCT cells: 1534384
+LINK_PARTY_ID cells: 1534384
+LINK_PARTY_TYPE cells: 1534384
+SALES_ACCT_ID cells: 1534384
+OWNER_ID cells: 1534384
+OWNERSHIP_STATUS cells: 1534384
+FULL_NAME cells: 1516788
+START_DATE cells: 1534384
+END_DATE cells: 1534384
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1538791 (0/1538791) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1538791
+CONFLICT_GROUP_ACCT_ID cells: 1538791
+CONFLICT_TYPE cells: 1538258
+PARTY_ID cells: 1538791
+SPLIT_PCT cells: 1538791
+LINK_PARTY_ID cells: 1538791
+LINK_PARTY_TYPE cells: 1538791
+SALES_ACCT_ID cells: 1538791
+OWNER_ID cells: 1538791
+OWNERSHIP_STATUS cells: 1538791
+FULL_NAME cells: 1517277
+START_DATE cells: 1538791
+END_DATE cells: 1538791
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1543092 (0/1543092) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1543092
+CONFLICT_GROUP_ACCT_ID cells: 1543092
+CONFLICT_TYPE cells: 1542560
+PARTY_ID cells: 1543092
+SPLIT_PCT cells: 1543092
+LINK_PARTY_ID cells: 1543092
+LINK_PARTY_TYPE cells: 1543092
+SALES_ACCT_ID cells: 1543092
+OWNER_ID cells: 1543092
+OWNERSHIP_STATUS cells: 1543092
+FULL_NAME cells: 1521659
+START_DATE cells: 1543092
+END_DATE cells: 1543092
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1522605 (0/1522605) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1522605
+CONFLICT_GROUP_ACCT_ID cells: 1522605
+CONFLICT_TYPE cells: 1522083
+PARTY_ID cells: 1522605
+SPLIT_PCT cells: 1522605
+LINK_PARTY_ID cells: 1522605
+LINK_PARTY_TYPE cells: 1522605
+SALES_ACCT_ID cells: 1522605
+OWNER_ID cells: 1522605
+OWNERSHIP_STATUS cells: 1522605
+FULL_NAME cells: 1501123
+START_DATE cells: 1522605
+END_DATE cells: 1522605
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1522013 (0/1522013) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1522013
+CONFLICT_GROUP_ACCT_ID cells: 1522013
+CONFLICT_TYPE cells: 1521491
+PARTY_ID cells: 1522013
+SPLIT_PCT cells: 1522013
+LINK_PARTY_ID cells: 1522013
+LINK_PARTY_TYPE cells: 1522013
+SALES_ACCT_ID cells: 1522013
+OWNER_ID cells: 1522013
+OWNERSHIP_STATUS cells: 1522013
+FULL_NAME cells: 1501742
+START_DATE cells: 1522013
+END_DATE cells: 1522013
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1535685 (0/1535685) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1535685
+CONFLICT_GROUP_ACCT_ID cells: 1535685
+CONFLICT_TYPE cells: 1535187
+PARTY_ID cells: 1535685
+SPLIT_PCT cells: 1535685
+LINK_PARTY_ID cells: 1535685
+LINK_PARTY_TYPE cells: 1535685
+SALES_ACCT_ID cells: 1535685
+OWNER_ID cells: 1535685
+OWNERSHIP_STATUS cells: 1535685
+FULL_NAME cells: 1513703
+START_DATE cells: 1535685
+END_DATE cells: 1535685
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1521351 (0/1521351) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1521351
+CONFLICT_GROUP_ACCT_ID cells: 1521351
+CONFLICT_TYPE cells: 1520853
+PARTY_ID cells: 1521351
+SPLIT_PCT cells: 1521351
+LINK_PARTY_ID cells: 1521351
+LINK_PARTY_TYPE cells: 1521351
+SALES_ACCT_ID cells: 1521351
+OWNER_ID cells: 1521351
+OWNERSHIP_STATUS cells: 1521351
+FULL_NAME cells: 1500825
+START_DATE cells: 1521351
+END_DATE cells: 1521351
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1517924 (0/1517924) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1517924
+CONFLICT_GROUP_ACCT_ID cells: 1517924
+CONFLICT_TYPE cells: 1517426
+PARTY_ID cells: 1517924
+SPLIT_PCT cells: 1517924
+LINK_PARTY_ID cells: 1517924
+LINK_PARTY_TYPE cells: 1517924
+SALES_ACCT_ID cells: 1517924
+OWNER_ID cells: 1517924
+OWNERSHIP_STATUS cells: 1517924
+FULL_NAME cells: 1501098
+START_DATE cells: 1517924
+END_DATE cells: 1517924
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1521712 (0/1521712) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1521712
+CONFLICT_GROUP_ACCT_ID cells: 1521712
+CONFLICT_TYPE cells: 1521214
+PARTY_ID cells: 1521712
+SPLIT_PCT cells: 1521712
+LINK_PARTY_ID cells: 1521712
+LINK_PARTY_TYPE cells: 1521712
+SALES_ACCT_ID cells: 1521712
+OWNER_ID cells: 1521712
+OWNERSHIP_STATUS cells: 1521712
+FULL_NAME cells: 1501123
+START_DATE cells: 1521712
+END_DATE cells: 1521712
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1520953 (0/1520953) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1520953
+CONFLICT_GROUP_ACCT_ID cells: 1520953
+CONFLICT_TYPE cells: 1520454
+PARTY_ID cells: 1520953
+SPLIT_PCT cells: 1520953
+LINK_PARTY_ID cells: 1520953
+LINK_PARTY_TYPE cells: 1520953
+SALES_ACCT_ID cells: 1520953
+OWNER_ID cells: 1520953
+OWNERSHIP_STATUS cells: 1520953
+FULL_NAME cells: 1502470
+START_DATE cells: 1520953
+END_DATE cells: 1520953
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518677 (0/1518677) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518677
+CONFLICT_GROUP_ACCT_ID cells: 1518677
+CONFLICT_TYPE cells: 1518178
+PARTY_ID cells: 1518677
+SPLIT_PCT cells: 1518677
+LINK_PARTY_ID cells: 1518677
+LINK_PARTY_TYPE cells: 1518677
+SALES_ACCT_ID cells: 1518677
+OWNER_ID cells: 1518677
+OWNERSHIP_STATUS cells: 1518677
+FULL_NAME cells: 1501518
+START_DATE cells: 1518677
+END_DATE cells: 1518677
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1517977 (0/1517977) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1517977
+CONFLICT_GROUP_ACCT_ID cells: 1517977
+CONFLICT_TYPE cells: 1517478
+PARTY_ID cells: 1517977
+SPLIT_PCT cells: 1517977
+LINK_PARTY_ID cells: 1517977
+LINK_PARTY_TYPE cells: 1517977
+SALES_ACCT_ID cells: 1517977
+OWNER_ID cells: 1517977
+OWNERSHIP_STATUS cells: 1517977
+FULL_NAME cells: 1501079
+START_DATE cells: 1517977
+END_DATE cells: 1517977
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1517298 (0/1517298) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1517298
+CONFLICT_GROUP_ACCT_ID cells: 1517298
+CONFLICT_TYPE cells: 1516799
+PARTY_ID cells: 1517298
+SPLIT_PCT cells: 1517298
+LINK_PARTY_ID cells: 1517298
+LINK_PARTY_TYPE cells: 1517298
+SALES_ACCT_ID cells: 1517298
+OWNER_ID cells: 1517298
+OWNERSHIP_STATUS cells: 1517298
+FULL_NAME cells: 1500504
+START_DATE cells: 1517298
+END_DATE cells: 1517298
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518853 (0/1518853) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518853
+CONFLICT_GROUP_ACCT_ID cells: 1518853
+CONFLICT_TYPE cells: 1518351
+PARTY_ID cells: 1518853
+SPLIT_PCT cells: 1518853
+LINK_PARTY_ID cells: 1518853
+LINK_PARTY_TYPE cells: 1518853
+SALES_ACCT_ID cells: 1518853
+OWNER_ID cells: 1518853
+OWNERSHIP_STATUS cells: 1518853
+FULL_NAME cells: 1501995
+START_DATE cells: 1518853
+END_DATE cells: 1518853
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1516137 (0/1516137) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1516137
+CONFLICT_GROUP_ACCT_ID cells: 1516137
+CONFLICT_TYPE cells: 1515635
+PARTY_ID cells: 1516137
+SPLIT_PCT cells: 1516137
+LINK_PARTY_ID cells: 1516137
+LINK_PARTY_TYPE cells: 1516137
+SALES_ACCT_ID cells: 1516137
+OWNER_ID cells: 1516137
+OWNERSHIP_STATUS cells: 1516137
+FULL_NAME cells: 1499898
+START_DATE cells: 1516137
+END_DATE cells: 1516137
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1526618 (0/1526618) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1526618
+CONFLICT_GROUP_ACCT_ID cells: 1526618
+CONFLICT_TYPE cells: 1526116
+PARTY_ID cells: 1526618
+SPLIT_PCT cells: 1526618
+LINK_PARTY_ID cells: 1526618
+LINK_PARTY_TYPE cells: 1526618
+SALES_ACCT_ID cells: 1526618
+OWNER_ID cells: 1526618
+OWNERSHIP_STATUS cells: 1526618
+FULL_NAME cells: 1508051
+START_DATE cells: 1526618
+END_DATE cells: 1526618
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1526919 (0/1526919) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1526919
+CONFLICT_GROUP_ACCT_ID cells: 1526919
+CONFLICT_TYPE cells: 1526417
+PARTY_ID cells: 1526919
+SPLIT_PCT cells: 1526919
+LINK_PARTY_ID cells: 1526919
+LINK_PARTY_TYPE cells: 1526919
+SALES_ACCT_ID cells: 1526919
+OWNER_ID cells: 1526919
+OWNERSHIP_STATUS cells: 1526919
+FULL_NAME cells: 1508260
+START_DATE cells: 1526919
+END_DATE cells: 1526919
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1519433 (0/1519433) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1519433
+CONFLICT_GROUP_ACCT_ID cells: 1519433
+CONFLICT_TYPE cells: 1518924
+PARTY_ID cells: 1519433
+SPLIT_PCT cells: 1519433
+LINK_PARTY_ID cells: 1519433
+LINK_PARTY_TYPE cells: 1519433
+SALES_ACCT_ID cells: 1519433
+OWNER_ID cells: 1519433
+OWNERSHIP_STATUS cells: 1519433
+FULL_NAME cells: 1502921
+START_DATE cells: 1519433
+END_DATE cells: 1519433
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1517911 (0/1517911) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1517911
+CONFLICT_GROUP_ACCT_ID cells: 1517911
+CONFLICT_TYPE cells: 1517402
+PARTY_ID cells: 1517911
+SPLIT_PCT cells: 1517911
+LINK_PARTY_ID cells: 1517911
+LINK_PARTY_TYPE cells: 1517911
+SALES_ACCT_ID cells: 1517911
+OWNER_ID cells: 1517911
+OWNERSHIP_STATUS cells: 1517911
+FULL_NAME cells: 1501463
+START_DATE cells: 1517911
+END_DATE cells: 1517911
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518045 (0/1518045) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518045
+CONFLICT_GROUP_ACCT_ID cells: 1518045
+CONFLICT_TYPE cells: 1517536
+PARTY_ID cells: 1518045
+SPLIT_PCT cells: 1518045
+LINK_PARTY_ID cells: 1518045
+LINK_PARTY_TYPE cells: 1518045
+SALES_ACCT_ID cells: 1518045
+OWNER_ID cells: 1518045
+OWNERSHIP_STATUS cells: 1518045
+FULL_NAME cells: 1501631
+START_DATE cells: 1518045
+END_DATE cells: 1518045
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518576 (0/1518576) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518576
+CONFLICT_GROUP_ACCT_ID cells: 1518576
+CONFLICT_TYPE cells: 1518067
+PARTY_ID cells: 1518576
+SPLIT_PCT cells: 1518576
+LINK_PARTY_ID cells: 1518576
+LINK_PARTY_TYPE cells: 1518576
+SALES_ACCT_ID cells: 1518576
+OWNER_ID cells: 1518576
+OWNERSHIP_STATUS cells: 1518576
+FULL_NAME cells: 1502169
+START_DATE cells: 1518576
+END_DATE cells: 1518576
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518371 (0/1518371) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518371
+CONFLICT_GROUP_ACCT_ID cells: 1518371
+CONFLICT_TYPE cells: 1517042
+PARTY_ID cells: 1518371
+SPLIT_PCT cells: 1518371
+LINK_PARTY_ID cells: 1518371
+LINK_PARTY_TYPE cells: 1518371
+SALES_ACCT_ID cells: 1518371
+OWNER_ID cells: 1518371
+OWNERSHIP_STATUS cells: 1518371
+FULL_NAME cells: 1501855
+START_DATE cells: 1518371
+END_DATE cells: 1518371
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518761 (0/1518761) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518761
+CONFLICT_GROUP_ACCT_ID cells: 1518761
+CONFLICT_TYPE cells: 1517431
+PARTY_ID cells: 1518761
+SPLIT_PCT cells: 1518761
+LINK_PARTY_ID cells: 1518761
+LINK_PARTY_TYPE cells: 1518761
+SALES_ACCT_ID cells: 1518761
+OWNER_ID cells: 1518761
+OWNERSHIP_STATUS cells: 1518761
+FULL_NAME cells: 1502234
+START_DATE cells: 1518761
+END_DATE cells: 1518761
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518196 (0/1518196) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518196
+CONFLICT_GROUP_ACCT_ID cells: 1518196
+CONFLICT_TYPE cells: 1517697
+PARTY_ID cells: 1518196
+SPLIT_PCT cells: 1518196
+LINK_PARTY_ID cells: 1518196
+LINK_PARTY_TYPE cells: 1518196
+SALES_ACCT_ID cells: 1518196
+OWNER_ID cells: 1518196
+OWNERSHIP_STATUS cells: 1518196
+FULL_NAME cells: 1502290
+START_DATE cells: 1518196
+END_DATE cells: 1518196
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518510 (0/1518510) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518510
+CONFLICT_GROUP_ACCT_ID cells: 1518510
+CONFLICT_TYPE cells: 1518011
+PARTY_ID cells: 1518510
+SPLIT_PCT cells: 1518510
+LINK_PARTY_ID cells: 1518510
+LINK_PARTY_TYPE cells: 1518510
+SALES_ACCT_ID cells: 1518510
+OWNER_ID cells: 1518510
+OWNERSHIP_STATUS cells: 1518510
+FULL_NAME cells: 1502447
+START_DATE cells: 1518510
+END_DATE cells: 1518510
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file ff_xxanp_party_conflict_rpt.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv' -import 'Conflict Party ID from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/conflict_party_list.err' -import 'Conflict Report from ff_xxanp_party_conflict_rpt.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/conflict_party_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_party_conflict_rpt.csv" has been uploaded as ff_xxanp_party_conflict_rpt.csv.
+The operation was successful.
+Conflict Party ID: 1518775 (0/1518775) rows successful, 0 ignored 
+
+The operation was successful.
+CONFLICT_ID cells: 1518775
+CONFLICT_GROUP_ACCT_ID cells: 1518775
+CONFLICT_TYPE cells: 1518276
+PARTY_ID cells: 1518775
+SPLIT_PCT cells: 1518775
+LINK_PARTY_ID cells: 1518775
+LINK_PARTY_TYPE cells: 1518775
+SALES_ACCT_ID cells: 1518775
+OWNER_ID cells: 1518775
+OWNERSHIP_STATUS cells: 1518775
+FULL_NAME cells: 1502793
+START_DATE cells: 1518775
+END_DATE cells: 1518775
+

@@ -1,0 +1,1000 @@
+Named Party: 90289 (296/89993) rows successful, 261933 ignored 
+Another row has already been processed with this key: 261933
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 160448 (160448/0) rows successful, 352470 ignored 
+
+
+SFDC Party ID: 160448 (160448/0) rows successful, 352482 ignored 
+
+
+GTM Pipeline Key: 140573 (140573/0) rows successful, 218725 ignored 
+
+Link Party Id: 779 (41/745) rows successful, 0 (0/0) rows has warnings, 79954 failed, 277317 ignored
+Another row has already been processed with this key: 277317
+Invalid name: 79954
+
+SAV ID: 62829 (120/62709) rows successful, 295407 ignored 
+Another row has already been processed with this key: 295407
+
+Non Named Party: 99588 (5611/93977) rows successful, 53844 ignored 
+Another row has already been processed with this key: 53844
+
+Named Party: 91329 (562/90767) rows successful, 266907 ignored 
+Another row has already been processed with this key: 266907
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 161816 (161816/0) rows successful, 356784 ignored 
+
+
+SFDC Party ID: 161816 (161816/0) rows successful, 356785 ignored 
+
+
+GTM Pipeline Key: 142490 (142490/0) rows successful, 221053 ignored 
+
+Link Party Id: 814 (46/780) rows successful, 0 (0/0) rows has warnings, 80320 failed, 280073 ignored
+Another row has already been processed with this key: 280073
+Invalid name: 80320
+
+SAV ID: 63116 (145/62971) rows successful, 298404 ignored 
+Another row has already been processed with this key: 298404
+
+Non Named Party: 100666 (1357/99309) rows successful, 55158 ignored 
+Another row has already been processed with this key: 55158
+
+Named Party: 91825 (391/91434) rows successful, 269695 ignored 
+Another row has already been processed with this key: 269695
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 162908 (162908/0) rows successful, 360838 ignored 
+
+
+SFDC Party ID: 162908 (162908/0) rows successful, 360839 ignored 
+
+
+GTM Pipeline Key: 144122 (144122/0) rows successful, 222720 ignored 
+
+Link Party Id: 831 (24/813) rows successful, 0 (0/0) rows has warnings, 80528 failed, 282364 ignored
+Another row has already been processed with this key: 282364
+Invalid name: 80528
+
+SAV ID: 63257 (81/63176) rows successful, 300547 ignored 
+Another row has already been processed with this key: 300547
+
+Non Named Party: 102182 (1458/100724) rows successful, 56496 ignored 
+Another row has already been processed with this key: 56496
+
+Named Party: 92060 (237/91823) rows successful, 271744 ignored 
+Another row has already been processed with this key: 271744
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 162896 (162896/0) rows successful, 360781 ignored 
+
+
+SFDC Party ID: 162896 (162896/0) rows successful, 360782 ignored 
+
+
+GTM Pipeline Key: 143533 (143533/0) rows successful, 221213 ignored 
+
+Link Party Id: 845 (19/830) rows successful, 0 (0/0) rows has warnings, 80426 failed, 281567 ignored
+Another row has already been processed with this key: 281567
+Invalid name: 80426
+
+SAV ID: 63210 (23/63187) rows successful, 299756 ignored 
+Another row has already been processed with this key: 299756
+
+Non Named Party: 102407 (504/101903) rows successful, 57039 ignored 
+Another row has already been processed with this key: 57039
+
+Named Party: 91947 (91/91856) rows successful, 271019 ignored 
+Another row has already been processed with this key: 271019
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 162933 (162933/0) rows successful, 360795 ignored 
+
+
+SFDC Party ID: 162933 (162933/0) rows successful, 360796 ignored 
+
+
+GTM Pipeline Key: 142951 (142951/0) rows successful, 218663 ignored 
+
+Link Party Id: 853 (14/842) rows successful, 0 (0/0) rows has warnings, 80408 failed, 280594 ignored
+Another row has already been processed with this key: 280594
+Invalid name: 80408
+
+SAV ID: 63160 (23/63137) rows successful, 298713 ignored 
+Another row has already been processed with this key: 298713
+
+Non Named Party: 102643 (849/101794) rows successful, 57948 ignored 
+Another row has already been processed with this key: 57948
+
+Named Party: 91902 (90/91812) rows successful, 269971 ignored 
+Another row has already been processed with this key: 269971
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 168227 (168227/0) rows successful, 381663 ignored 
+
+
+SFDC Party ID: 168227 (168227/0) rows successful, 381664 ignored 
+
+
+GTM Pipeline Key: 151463 (151463/0) rows successful, 231034 ignored 
+
+Link Party Id: 936 (108/854) rows successful, 0 (0/0) rows has warnings, 81590 failed, 293309 ignored
+Another row has already been processed with this key: 293309
+Invalid name: 81590
+
+SAV ID: 64089 (354/63735) rows successful, 311757 ignored 
+Another row has already been processed with this key: 311757
+
+Non Named Party: 108503 (5365/103138) rows successful, 64242 ignored 
+Another row has already been processed with this key: 64242
+
+Named Party: 93564 (960/92604) rows successful, 282282 ignored 
+Another row has already been processed with this key: 282282
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 169308 (169308/0) rows successful, 386281 ignored 
+
+
+SFDC Party ID: 169308 (169308/0) rows successful, 386282 ignored 
+
+
+GTM Pipeline Key: 152982 (152982/0) rows successful, 233669 ignored 
+
+Link Party Id: 958 (31/932) rows successful, 0 (0/0) rows has warnings, 81744 failed, 295783 ignored
+Another row has already been processed with this key: 295783
+Invalid name: 81744
+
+SAV ID: 64225 (68/64157) rows successful, 314292 ignored 
+Another row has already been processed with this key: 314292
+
+Non Named Party: 109992 (1134/108858) rows successful, 65775 ignored 
+Another row has already been processed with this key: 65775
+
+Named Party: 93797 (170/93627) rows successful, 284720 ignored 
+Another row has already been processed with this key: 284720
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 170462 (170462/0) rows successful, 391152 ignored 
+
+
+SFDC Party ID: 170462 (170462/0) rows successful, 391153 ignored 
+
+
+GTM Pipeline Key: 154476 (154476/0) rows successful, 235774 ignored 
+
+Link Party Id: 978 (23/957) rows successful, 0 (0/0) rows has warnings, 81967 failed, 298311 ignored
+Another row has already been processed with this key: 298311
+Invalid name: 81967
+
+SAV ID: 64394 (76/64318) rows successful, 316959 ignored 
+Another row has already been processed with this key: 316959
+
+Non Named Party: 111382 (1656/109726) rows successful, 67573 ignored 
+Another row has already been processed with this key: 67573
+
+Named Party: 94086 (211/93875) rows successful, 287267 ignored 
+Another row has already been processed with this key: 287267
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 178964 (178964/0) rows successful, 439150 ignored 
+
+
+SFDC Party ID: 178964 (178964/0) rows successful, 439151 ignored 
+
+
+GTM Pipeline Key: 160355 (160355/0) rows successful, 259057 ignored 
+
+Link Party Id: 1039 (84/980) rows successful, 0 (0/0) rows has warnings, 85093 failed, 328693 ignored
+Another row has already been processed with this key: 328693
+Invalid name: 85093
+
+SAV ID: 66304 (320/65984) rows successful, 348554 ignored 
+Another row has already been processed with this key: 348554
+
+Non Named Party: 120846 (5815/115031) rows successful, 81038 ignored 
+Another row has already been processed with this key: 81038
+
+Named Party: 97932 (829/97103) rows successful, 316926 ignored 
+Another row has already been processed with this key: 316926
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 130290 (130290/0) rows successful, 256009 ignored 
+
+
+SFDC Party ID: 130290 (130290/0) rows successful, 256010 ignored 
+
+
+GTM Pipeline Key: 108507 (108507/0) rows successful, 168997 ignored 
+
+Link Party Id: 825 (30/803) rows successful, 0 (0/0) rows has warnings, 71721 failed, 211291 ignored
+Another row has already been processed with this key: 211291
+Invalid name: 71721
+
+SAV ID: 57489 (109/57380) rows successful, 226361 ignored 
+Another row has already been processed with this key: 226361
+
+Non Named Party: 70147 (1532/68615) rows successful, 31638 ignored 
+Another row has already been processed with this key: 31638
+
+Named Party: 81492 (329/81163) rows successful, 202358 ignored 
+Another row has already been processed with this key: 202358
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 134575 (134575/0) rows successful, 268196 ignored 
+
+
+SFDC Party ID: 134575 (134575/0) rows successful, 268197 ignored 
+
+
+GTM Pipeline Key: 113261 (113261/0) rows successful, 175984 ignored 
+
+Link Party Id: 873 (64/826) rows successful, 0 (0/0) rows has warnings, 73224 failed, 221669 ignored
+Another row has already been processed with this key: 221669
+Invalid name: 73224
+
+SAV ID: 58669 (191/58478) rows successful, 237106 ignored 
+Another row has already been processed with this key: 237106
+
+Non Named Party: 73309 (2114/71195) rows successful, 33002 ignored 
+Another row has already been processed with this key: 33002
+
+Named Party: 83355 (452/82903) rows successful, 212420 ignored 
+Another row has already been processed with this key: 212420
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 138399 (138399/0) rows successful, 281316 ignored 
+
+
+SFDC Party ID: 138399 (138399/0) rows successful, 281317 ignored 
+
+
+GTM Pipeline Key: 117851 (117851/0) rows successful, 181815 ignored 
+
+Link Party Id: 907 (46/871) rows successful, 0 (0/0) rows has warnings, 74172 failed, 229491 ignored
+Another row has already been processed with this key: 229491
+Invalid name: 74172
+
+SAV ID: 59357 (139/59218) rows successful, 245219 ignored 
+Another row has already been processed with this key: 245219
+
+Non Named Party: 77610 (2752/74858) rows successful, 36804 ignored 
+Another row has already been processed with this key: 36804
+
+Named Party: 84539 (401/84138) rows successful, 220037 ignored 
+Another row has already been processed with this key: 220037
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 140035 (140035/0) rows successful, 286829 ignored 
+
+
+SFDC Party ID: 140035 (140035/0) rows successful, 286831 ignored 
+
+
+GTM Pipeline Key: 119872 (119872/0) rows successful, 185456 ignored 
+
+Link Party Id: 940 (34/911) rows successful, 0 (0/0) rows has warnings, 74547 failed, 233985 ignored
+Another row has already been processed with this key: 233985
+Invalid name: 74547
+
+SAV ID: 59632 (68/59564) rows successful, 249857 ignored 
+Another row has already been processed with this key: 249857
+
+Non Named Party: 79104 (1146/77958) rows successful, 37522 ignored 
+Another row has already been processed with this key: 37522
+
+Named Party: 85136 (212/84924) rows successful, 224353 ignored 
+Another row has already been processed with this key: 224353
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 141493 (141493/0) rows successful, 291998 ignored 
+
+
+SFDC Party ID: 141493 (141493/0) rows successful, 292000 ignored 
+
+
+GTM Pipeline Key: 121477 (121477/0) rows successful, 187822 ignored 
+
+Link Party Id: 29530 (52166/0) rows successful, 0 (0/0) rows has warnings, 46339 failed, 237596 ignored
+Another row has already been processed with this key: 237596
+Invalid name: 46339
+
+SAV ID: 59951 (81/59870) rows successful, 253546 ignored 
+Another row has already been processed with this key: 253546
+
+Non Named Party: 80619 (1061/79558) rows successful, 38608 ignored 
+Another row has already been processed with this key: 38608
+
+Named Party: 85585 (192/85393) rows successful, 227912 ignored 
+Another row has already been processed with this key: 227912
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 142999 (142999/0) rows successful, 297530 ignored 
+
+
+SFDC Party ID: 142999 (142999/0) rows successful, 297532 ignored 
+
+
+GTM Pipeline Key: 123183 (123183/0) rows successful, 191184 ignored 
+
+Link Party Id: 29747 (502/29444) rows successful, 0 (0/0) rows has warnings, 46554 failed, 241656 ignored
+Another row has already been processed with this key: 241656
+Invalid name: 46554
+
+SAV ID: 60257 (62/60195) rows successful, 257748 ignored 
+Another row has already been processed with this key: 257748
+
+Non Named Party: 82091 (1128/80963) rows successful, 39658 ignored 
+Another row has already been processed with this key: 39658
+
+Named Party: 86143 (202/85941) rows successful, 231862 ignored 
+Another row has already been processed with this key: 231862
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 144618 (144618/0) rows successful, 303977 ignored 
+
+
+SFDC Party ID: 144618 (144618/0) rows successful, 303979 ignored 
+
+
+GTM Pipeline Key: 125089 (125089/0) rows successful, 193503 ignored 
+
+Link Party Id: 29928 (563/29590) rows successful, 0 (0/0) rows has warnings, 46755 failed, 245532 ignored
+Another row has already been processed with this key: 245532
+Invalid name: 46755
+
+SAV ID: 60527 (71/60456) rows successful, 261726 ignored 
+Another row has already been processed with this key: 261726
+
+Non Named Party: 84035 (1524/82511) rows successful, 41513 ignored 
+Another row has already been processed with this key: 41513
+
+Named Party: 86587 (210/86377) rows successful, 235666 ignored 
+Another row has already been processed with this key: 235666
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 145975 (145975/0) rows successful, 305431 ignored 
+
+
+SFDC Party ID: 145975 (145975/0) rows successful, 305433 ignored 
+
+
+GTM Pipeline Key: 126557 (126557/0) rows successful, 193527 ignored 
+
+Link Party Id: 7 (9/0) rows successful, 0 (0/0) rows has warnings, 76892 failed, 245953 ignored
+Another row has already been processed with this key: 245953
+Invalid name: 76892
+
+SAV ID: 60718 (60/60658) rows successful, 262195 ignored 
+Another row has already been processed with this key: 262195
+
+Non Named Party: 85594 (1220/84374) rows successful, 42104 ignored 
+Another row has already been processed with this key: 42104
+
+Named Party: 86893 (161/86732) rows successful, 236020 ignored 
+Another row has already been processed with this key: 236020
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 147080 (147080/0) rows successful, 309762 ignored 
+
+
+SFDC Party ID: 147080 (147080/0) rows successful, 309764 ignored 
+
+
+GTM Pipeline Key: 127774 (127774/0) rows successful, 195213 ignored 
+
+Link Party Id: 19 (14/7) rows successful, 0 (0/0) rows has warnings, 77276 failed, 248994 ignored
+Another row has already been processed with this key: 248994
+Invalid name: 77276
+
+SAV ID: 60997 (68/60929) rows successful, 265335 ignored 
+Another row has already been processed with this key: 265335
+
+Non Named Party: 86666 (1010/85656) rows successful, 43043 ignored 
+Another row has already been processed with this key: 43043
+
+Named Party: 87328 (197/87131) rows successful, 239004 ignored 
+Another row has already been processed with this key: 239004
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 148869 (148869/0) rows successful, 315789 ignored 
+
+
+SFDC Party ID: 148869 (148869/0) rows successful, 315791 ignored 
+
+
+GTM Pipeline Key: 129689 (129689/0) rows successful, 199093 ignored 
+
+Link Party Id: 38 (21/18) rows successful, 0 (0/0) rows has warnings, 77762 failed, 254150 ignored
+Another row has already been processed with this key: 254150
+Invalid name: 77762
+
+SAV ID: 61329 (83/61246) rows successful, 270656 ignored 
+Another row has already been processed with this key: 270656
+
+Non Named Party: 87919 (1219/86700) rows successful, 43929 ignored 
+Another row has already been processed with this key: 43929
+
+Named Party: 87977 (249/87728) rows successful, 244008 ignored 
+Another row has already been processed with this key: 244008
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 149981 (149981/0) rows successful, 321324 ignored 
+
+
+SFDC Party ID: 149981 (149981/0) rows successful, 321326 ignored 
+
+
+GTM Pipeline Key: 131004 (131004/0) rows successful, 200805 ignored 
+
+Link Party Id: 55 (25/37) rows successful, 0 (0/0) rows has warnings, 77851 failed, 257206 ignored
+Another row has already been processed with this key: 257206
+Invalid name: 77851
+
+SAV ID: 61369 (77/61292) rows successful, 273772 ignored 
+Another row has already been processed with this key: 273772
+
+Non Named Party: 89632 (1315/88317) rows successful, 45690 ignored 
+Another row has already been processed with this key: 45690
+
+Named Party: 88169 (213/87956) rows successful, 246972 ignored 
+Another row has already been processed with this key: 246972
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 151636 (151636/0) rows successful, 327110 ignored 
+
+
+SFDC Party ID: 151636 (151636/0) rows successful, 327112 ignored 
+
+
+GTM Pipeline Key: 132697 (132697/0) rows successful, 203888 ignored 
+
+Link Party Id: 79 (33/53) rows successful, 0 (0/0) rows has warnings, 78245 failed, 261469 ignored
+Another row has already been processed with this key: 261469
+Invalid name: 78245
+
+SAV ID: 61632 (65/61567) rows successful, 278190 ignored 
+Another row has already been processed with this key: 278190
+
+Non Named Party: 91276 (1402/89874) rows successful, 46793 ignored 
+Another row has already been processed with this key: 46793
+
+Named Party: 88657 (197/88460) rows successful, 251165 ignored 
+Another row has already been processed with this key: 251165
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 152684 (152684/0) rows successful, 330676 ignored 
+
+
+SFDC Party ID: 152684 (152684/0) rows successful, 330678 ignored 
+
+
+GTM Pipeline Key: 133472 (133472/0) rows successful, 204480 ignored 
+
+Link Party Id: 85 (7/79) rows successful, 0 (0/0) rows has warnings, 78444 failed, 263361 ignored
+Another row has already been processed with this key: 263361
+Invalid name: 78444
+
+SAV ID: 61785 (67/61718) rows successful, 280141 ignored 
+Another row has already been processed with this key: 280141
+
+Non Named Party: 92500 (1011/91489) rows successful, 48096 ignored 
+Another row has already been processed with this key: 48096
+
+Named Party: 88893 (164/88729) rows successful, 253033 ignored 
+Another row has already been processed with this key: 253033
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 154090 (154090/0) rows successful, 336640 ignored 
+
+
+SFDC Party ID: 154090 (154090/0) rows successful, 336642 ignored 
+
+
+GTM Pipeline Key: 135319 (135319/0) rows successful, 207780 ignored 
+
+Link Party Id: 117 (48/85) rows successful, 0 (0/0) rows has warnings, 78733 failed, 267559 ignored
+Another row has already been processed with this key: 267559
+Invalid name: 78733
+
+SAV ID: 61992 (79/61913) rows successful, 284445 ignored 
+Another row has already been processed with this key: 284445
+
+Non Named Party: 93964 (1188/92776) rows successful, 49475 ignored 
+Another row has already been processed with this key: 49475
+
+Named Party: 89374 (261/89113) rows successful, 257063 ignored 
+Another row has already been processed with this key: 257063
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 155569 (155569/0) rows successful, 341593 ignored 
+
+
+SFDC Party ID: 155569 (155569/0) rows successful, 341595 ignored 
+
+
+GTM Pipeline Key: 136714 (136714/0) rows successful, 208614 ignored 
+
+Link Party Id: 133 (23/114) rows successful, 0 (0/0) rows has warnings, 79003 failed, 269998 ignored
+Another row has already been processed with this key: 269998
+Invalid name: 79003
+
+SAV ID: 62237 (76/62161) rows successful, 286919 ignored 
+Another row has already been processed with this key: 286919
+
+Non Named Party: 95781 (1513/94268) rows successful, 51367 ignored 
+Another row has already been processed with this key: 51367
+
+Named Party: 89683 (214/89469) rows successful, 259473 ignored 
+Another row has already been processed with this key: 259473
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 156965 (156965/0) rows successful, 346186 ignored 
+
+
+SFDC Party ID: 156965 (156965/0) rows successful, 346189 ignored 
+
+
+GTM Pipeline Key: 138362 (138362/0) rows successful, 211607 ignored 
+
+Link Party Id: 146 (15/133) rows successful, 0 (0/0) rows has warnings, 79252 failed, 273528 ignored
+Another row has already been processed with this key: 273528
+Invalid name: 79252
+
+SAV ID: 62452 (68/62384) rows successful, 290492 ignored 
+Another row has already been processed with this key: 290492
+
+Non Named Party: 97076 (1284/95792) rows successful, 52267 ignored 
+Another row has already been processed with this key: 52267
+
+Named Party: 90004 (235/89769) rows successful, 262940 ignored 
+Another row has already been processed with this key: 262940
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 158007 (158007/0) rows successful, 350230 ignored 
+
+
+SFDC Party ID: 158007 (158007/0) rows successful, 350232 ignored 
+
+
+GTM Pipeline Key: 139536 (139536/0) rows successful, 212973 ignored 
+
+Link Party Id: 160 (28/142) rows successful, 0 (0/0) rows has warnings, 79396 failed, 275563 ignored
+Another row has already been processed with this key: 275563
+Invalid name: 79396
+
+SAV ID: 62585 (73/62512) rows successful, 292553 ignored 
+Another row has already been processed with this key: 292553
+
+Non Named Party: 98389 (1329/97060) rows successful, 53836 ignored 
+Another row has already been processed with this key: 53836
+
+Named Party: 90214 (189/90025) rows successful, 264924 ignored 
+Another row has already been processed with this key: 264924
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 160616 (160616/0) rows successful, 369595 ignored 
+
+
+SFDC Party ID: 160616 (160616/0) rows successful, 369597 ignored 
+
+
+GTM Pipeline Key: 145135 (145135/0) rows successful, 227733 ignored 
+
+Link Party Id: 182 (36/159) rows successful, 0 (0/0) rows has warnings, 80725 failed, 289371 ignored
+Another row has already been processed with this key: 289371
+Invalid name: 80725
+
+SAV ID: 63594 (133/63461) rows successful, 306703 ignored 
+Another row has already been processed with this key: 306703
+
+Non Named Party: 101368 (1812/99556) rows successful, 57646 ignored 
+Another row has already been processed with this key: 57646
+
+Named Party: 91711 (313/91398) rows successful, 278586 ignored 
+Another row has already been processed with this key: 278586
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 161961 (161961/0) rows successful, 375858 ignored 
+
+
+SFDC Party ID: 161961 (161961/0) rows successful, 375860 ignored 
+
+
+GTM Pipeline Key: 146241 (146241/0) rows successful, 228573 ignored 
+
+Link Party Id: 201 (23/182) rows successful, 0 (0/0) rows has warnings, 80866 failed, 291283 ignored
+Another row has already been processed with this key: 291283
+Invalid name: 80866
+
+SAV ID: 63751 (72/63679) rows successful, 308618 ignored 
+Another row has already been processed with this key: 308618
+
+Non Named Party: 103623 (1580/102043) rows successful, 60917 ignored 
+Another row has already been processed with this key: 60917
+
+Named Party: 91889 (210/91679) rows successful, 280480 ignored 
+Another row has already been processed with this key: 280480
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 163577 (163577/0) rows successful, 384188 ignored 
+
+
+SFDC Party ID: 163577 (163577/0) rows successful, 384190 ignored 
+
+
+GTM Pipeline Key: 148200 (148200/0) rows successful, 232516 ignored 
+
+Link Party Id: 210 (19/195) rows successful, 0 (0/0) rows has warnings, 81166 failed, 295126 ignored
+Another row has already been processed with this key: 295126
+Invalid name: 81166
+
+SAV ID: 64007 (75/63932) rows successful, 312516 ignored 
+Another row has already been processed with this key: 312516
+
+Non Named Party: 105903 (1935/103968) rows successful, 64422 ignored 
+Another row has already been processed with this key: 64422
+
+Named Party: 92268 (205/92063) rows successful, 284255 ignored 
+Another row has already been processed with this key: 284255
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 165077 (165077/0) rows successful, 390284 ignored 
+
+
+SFDC Party ID: 165077 (165077/0) rows successful, 390286 ignored 
+
+
+GTM Pipeline Key: 149807 (149807/0) rows successful, 235061 ignored 
+
+Link Party Id: 217 (13/206) rows successful, 0 (0/0) rows has warnings, 81614 failed, 299271 ignored
+Another row has already been processed with this key: 299271
+Invalid name: 81614
+
+SAV ID: 64390 (89/64301) rows successful, 316732 ignored 
+Another row has already been processed with this key: 316732
+
+Non Named Party: 107371 (1354/106017) rows successful, 65941 ignored 
+Another row has already been processed with this key: 65941
+
+Named Party: 92821 (252/92569) rows successful, 288301 ignored 
+Another row has already been processed with this key: 288301
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 166608 (166608/0) rows successful, 396030 ignored 
+
+
+SFDC Party ID: 166608 (166608/0) rows successful, 396033 ignored 
+
+
+GTM Pipeline Key: 151531 (151531/0) rows successful, 238545 ignored 
+
+Link Party Id: 241 (35/217) rows successful, 0 (0/0) rows has warnings, 82021 failed, 303661 ignored
+Another row has already been processed with this key: 303661
+Invalid name: 82021
+
+SAV ID: 64690 (81/64609) rows successful, 321254 ignored 
+Another row has already been processed with this key: 321254
+
+Non Named Party: 108560 (1343/107217) rows successful, 67198 ignored 
+Another row has already been processed with this key: 67198
+
+Named Party: 93345 (242/93103) rows successful, 292599 ignored 
+Another row has already been processed with this key: 292599
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 167582 (167582/0) rows successful, 399881 ignored 
+
+
+SFDC Party ID: 167582 (167582/0) rows successful, 399884 ignored 
+
+
+GTM Pipeline Key: 152378 (152378/0) rows successful, 239387 ignored 
+
+Link Party Id: 253 (22/237) rows successful, 0 (0/0) rows has warnings, 82120 failed, 305602 ignored
+Another row has already been processed with this key: 305602
+Invalid name: 82120
+
+SAV ID: 64771 (65/64706) rows successful, 323225 ignored 
+Another row has already been processed with this key: 323225
+
+Non Named Party: 109841 (1144/108697) rows successful, 68675 ignored 
+Another row has already been processed with this key: 68675
+
+Named Party: 93536 (181/93355) rows successful, 294460 ignored 
+Another row has already been processed with this key: 294460
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -process 'Set up SFDC Feed and GTM Pipeline' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+The operation was successful.
+
+SFDC Account ID: 181325 (181325/0) rows successful, 491303 ignored 
+
+
+SFDC Party ID: 181325 (181325/0) rows successful, 491312 ignored 
+
+
+GTM Pipeline Key: 155692 (155692/0) rows successful, 254201 ignored 
+
+Link Party Id: 268 (28/249) rows successful, 0 (0/0) rows has warnings, 84117 failed, 328105 ignored
+Another row has already been processed with this key: 328105
+Invalid name: 84117
+
+SAV ID: 65993 (201/65792) rows successful, 346673 ignored 
+Another row has already been processed with this key: 346673
+
+Non Named Party: 135245 (13094/122151) rows successful, 123744 ignored 
+Another row has already been processed with this key: 123744
+
+Named Party: 96223 (650/95573) rows successful, 316443 ignored 
+Another row has already been processed with this key: 316443
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/6-112000000320-Failures for Import 320"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/7-112000000321-Failures for Import 321"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/8-112000000322-Failures for Import 322"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/9-112000000323-Failures for Import 323"

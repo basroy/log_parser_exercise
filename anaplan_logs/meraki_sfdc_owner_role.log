@@ -1,0 +1,1000 @@
+Role cells: 2516
+Last_Modified_Date cells: 2533
+Cisco_Alias__c cells: 2251
+EmployeeNumber cells: 122
+IsActive cells: 2533
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2516
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2533 (0/2533) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2533
+Full Name cells: 2533
+Profile cells: 2533
+Role cells: 2516
+Last_Modified_Date cells: 2533
+Cisco_Alias__c cells: 2251
+EmployeeNumber cells: 122
+IsActive cells: 2533
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2516
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2533 (0/2533) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2533
+Full Name cells: 2533
+Profile cells: 2533
+Role cells: 2516
+Last_Modified_Date cells: 2533
+Cisco_Alias__c cells: 2251
+EmployeeNumber cells: 122
+IsActive cells: 2533
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2516
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2533 (0/2533) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2533
+Full Name cells: 2533
+Profile cells: 2533
+Role cells: 2516
+Last_Modified_Date cells: 2533
+Cisco_Alias__c cells: 2251
+EmployeeNumber cells: 122
+IsActive cells: 2533
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2516
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (1/2533) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2534 (0/2534) rows successful, 0 ignored 
+
+Employee ID cells: 1895
+Cisco Email cells: 2534
+Full Name cells: 2534
+Profile cells: 2534
+Role cells: 2517
+Last_Modified_Date cells: 2534
+Cisco_Alias__c cells: 2252
+EmployeeNumber cells: 122
+IsActive cells: 2534
+ManagerId cells: 1804
+Manager_Name__c cells: 1804
+UserRoleId cells: 2517
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2559 (27/2532) rows successful, 0 ignored 
+
+Employee ID cells: 1913
+Cisco Email cells: 2559
+Full Name cells: 2559
+Profile cells: 2559
+Role cells: 2542
+Last_Modified_Date cells: 2559
+Cisco_Alias__c cells: 2297
+EmployeeNumber cells: 122
+IsActive cells: 2559
+ManagerId cells: 1819
+Manager_Name__c cells: 1819
+UserRoleId cells: 2542
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2604 (45/2559) rows successful, 0 ignored 
+
+Employee ID cells: 1935
+Cisco Email cells: 2604
+Full Name cells: 2604
+Profile cells: 2604
+Role cells: 2587
+Last_Modified_Date cells: 2604
+Cisco_Alias__c cells: 2309
+EmployeeNumber cells: 122
+IsActive cells: 2604
+ManagerId cells: 1837
+Manager_Name__c cells: 1837
+UserRoleId cells: 2587
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2680 (77/2603) rows successful, 0 ignored 
+
+Employee ID cells: 1990
+Cisco Email cells: 2680
+Full Name cells: 2680
+Profile cells: 2680
+Role cells: 2663
+Last_Modified_Date cells: 2680
+Cisco_Alias__c cells: 2344
+EmployeeNumber cells: 124
+IsActive cells: 2680
+ManagerId cells: 1879
+Manager_Name__c cells: 1879
+UserRoleId cells: 2663
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2713 (35/2678) rows successful, 0 ignored 
+
+Employee ID cells: 2018
+Cisco Email cells: 2713
+Full Name cells: 2713
+Profile cells: 2713
+Role cells: 2696
+Last_Modified_Date cells: 2713
+Cisco_Alias__c cells: 2367
+EmployeeNumber cells: 126
+IsActive cells: 2713
+ManagerId cells: 1874
+Manager_Name__c cells: 1874
+UserRoleId cells: 2696
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2770 (59/2711) rows successful, 0 ignored 
+
+Employee ID cells: 2064
+Cisco Email cells: 2770
+Full Name cells: 2770
+Profile cells: 2770
+Role cells: 2750
+Last_Modified_Date cells: 2770
+Cisco_Alias__c cells: 2397
+EmployeeNumber cells: 127
+IsActive cells: 2770
+ManagerId cells: 1912
+Manager_Name__c cells: 1912
+UserRoleId cells: 2750
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2770 (0/2770) rows successful, 0 ignored 
+
+Employee ID cells: 2064
+Cisco Email cells: 2770
+Full Name cells: 2770
+Profile cells: 2770
+Role cells: 2750
+Last_Modified_Date cells: 2770
+Cisco_Alias__c cells: 2397
+EmployeeNumber cells: 127
+IsActive cells: 2770
+ManagerId cells: 1912
+Manager_Name__c cells: 1912
+UserRoleId cells: 2750
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2824 (58/2766) rows successful, 0 ignored 
+
+Employee ID cells: 2097
+Cisco Email cells: 2824
+Full Name cells: 2824
+Profile cells: 2824
+Role cells: 2808
+Last_Modified_Date cells: 2824
+Cisco_Alias__c cells: 2419
+EmployeeNumber cells: 127
+IsActive cells: 2824
+ManagerId cells: 1930
+Manager_Name__c cells: 1930
+UserRoleId cells: 2808
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_owner_role_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv' -process 'SFDC Owner Role Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_owner_role_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_owner_role_report.csv" has been uploaded as ff_meraki_sfdc_owner_role_report.csv.
+The operation was successful.
+SFDC Owner Role List: 2854 (33/2821) rows successful, 0 ignored 
+
+Employee ID cells: 2113
+Cisco Email cells: 2854
+Full Name cells: 2854
+Profile cells: 2854
+Role cells: 2837
+Last_Modified_Date cells: 2854
+Cisco_Alias__c cells: 2436
+EmployeeNumber cells: 128
+IsActive cells: 2854
+ManagerId cells: 1948
+Manager_Name__c cells: 1948
+UserRoleId cells: 2837
+
+

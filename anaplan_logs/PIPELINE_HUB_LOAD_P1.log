@@ -1,0 +1,53 @@
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file FF_PIPELINE.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_PIPELINE_P1.csv' -import 'Opportunity_Int_ID from FF_PIPELINE.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/Oppurtunity_Int_ID.err' -import 'Opportunity from FF_PIPELINE.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/Opportunity.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_PIPELINE_P1.csv" has been uploaded as FF_PIPELINE.csv.
+The operation was successful.
+Opportunity_Int_ID: 672636 (672636/0) rows successful, 0 ignored 
+
+The operation was successful.
+OPPORTUNITY_ID cells: 672636
+OPPORTUNITY_NUMBER cells: 671704
+OPPORTUNITY_NAME cells: 672636
+OPPORTUNITY_STATUS cells: 672636
+OPPORTUNITY_STAGE cells: 672636
+SHARE_NODE_NAME cells: 669880
+SHARE_TERRITORY_TYPE cells: 665818
+SHARE_NODE_ID cells: 670457
+SFDC_TERRITORY_NAME cells: 672636
+DERIVED_SEGMENT cells: 670456
+SALES_COVERAGE_MARKET_SEGMENT cells: 670457
+SALES_COVERAGE_MARKET_SUB_SEG cells: 670457
+OPPORTUNITY_TEAM_OR_AM_TYPE cells: 670748
+FISCAL_QUARTER cells: 262675 (409961 failed)
+CURRENCY_CODE cells: 672636
+PRODUCT_AMOUNT cells: 672636
+SERVICE_AMOUNT cells: 672636
+FORECAST_STATUS cells: 672636
+SAV_ID cells: 412666
+SAV_GROUP_NAME cells: 337797
+MULTIYEAR_INDICATOR cells: 100
+SERVICE_SOURCE cells: 672636
+TECHNOLOGY_MERGED_NAME cells: 445857
+SERVICE_MERGED_NAME cells: 336834
+CR_PARTY_ID cells: 671655
+VERTICAL_SUB cells: 608867
+VERTICAL_DETAIL cells: 606541
+VERTICAL_TOP cells: 608893
+SFDC_ACCT_ID cells: 672628
+SFDC_ACCOUNT_NAME cells: 672628
+ADDRESS_LINE1 cells: 672285
+CITY cells: 536900
+COUNTRY cells: 672481
+LINE_OF_BUSINESS cells: 215311
+TOTAL_NO_OF_EMPLOYEES cells: 416039
+NO_OF_PC_S cells: 120679
+NO_OF_PHONES cells: 111698
+SFDC_ACCOUNT_OWNER_USERID cells: 672565
+SERVICE_AS_S cells: 672636
+SERVICE_AS_T cells: 672636
+SERVICE_TSS cells: 672636
+Link Party Id cells: 412490
+FUTURE_FLAG cells: 672636
+Item not located in Forecast Quarter list: 409961
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/Opportunity.err"

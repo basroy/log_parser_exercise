@@ -1,0 +1,1000 @@
+
+Distributor__r_Name cells: 27014
+CSM_Owner__r_Employee_Id cells: 48041
+Reseller__r_Type cells: 46727
+Reseller__r_Name cells: 46727
+LastModifiedBy_Name cells: 48197
+Owner_Employee_Id cells: 48177
+Account_Name cells: 48197
+Opportunity_ID_Case_Safe__c cells: 48197
+CloseDate cells: 48197
+Amount cells: 48171
+StageName cells: 48197
+Name cells: 48197
+Id cells: 48197
+LastModifiedDate cells: 48197
+Booked Date cells: 64
+ORDER Number cells: 47831
+Commission Booked Date cells: 48196
+DistiPOS cells: 48197
+CurrencyCode cells: 48197
+ExchangeRate cells: 48197
+LC_Amount cells: 48197
+Shipped Date cells: 47914
+Owner_Division cells: 48120
+Exclude_from_Compensation__c cells: 48197
+Opportunity Record Type cells: 48197
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 48197 (48197/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 27014
+CSM_Owner__r_Employee_Id cells: 48041
+Reseller__r_Type cells: 46727
+Reseller__r_Name cells: 46727
+LastModifiedBy_Name cells: 48197
+Owner_Employee_Id cells: 48177
+Account_Name cells: 48197
+Opportunity_ID_Case_Safe__c cells: 48197
+CloseDate cells: 48197
+Amount cells: 48171
+StageName cells: 48197
+Name cells: 48197
+Id cells: 48197
+LastModifiedDate cells: 48197
+Booked Date cells: 64
+ORDER Number cells: 47831
+Commission Booked Date cells: 48196
+DistiPOS cells: 48197
+CurrencyCode cells: 48197
+ExchangeRate cells: 48197
+LC_Amount cells: 48197
+Shipped Date cells: 47914
+Owner_Division cells: 48120
+Exclude_from_Compensation__c cells: 48197
+Opportunity Record Type cells: 48197
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 47927 (47927/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 26864
+CSM_Owner__r_Employee_Id cells: 47773
+Reseller__r_Type cells: 46510
+Reseller__r_Name cells: 46510
+LastModifiedBy_Name cells: 47927
+Owner_Employee_Id cells: 47909
+Account_Name cells: 47927
+Opportunity_ID_Case_Safe__c cells: 47927
+CloseDate cells: 47927
+Amount cells: 47901
+StageName cells: 47927
+Name cells: 47927
+Id cells: 47927
+LastModifiedDate cells: 47927
+Booked Date cells: 64
+ORDER Number cells: 47561
+Commission Booked Date cells: 47926
+DistiPOS cells: 47927
+CurrencyCode cells: 47927
+ExchangeRate cells: 47927
+LC_Amount cells: 47927
+Shipped Date cells: 47658
+Owner_Division cells: 47852
+Exclude_from_Compensation__c cells: 47927
+Opportunity Record Type cells: 47927
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19918 (19918/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12887
+CSM_Owner__r_Employee_Id cells: 19030
+Reseller__r_Type cells: 17867
+Reseller__r_Name cells: 17867
+LastModifiedBy_Name cells: 19918
+Owner_Employee_Id cells: 18695
+Account_Name cells: 19918
+Opportunity_ID_Case_Safe__c cells: 19918
+CloseDate cells: 19918
+Amount cells: 19883
+StageName cells: 19918
+Name cells: 19918
+Id cells: 19918
+LastModifiedDate cells: 19918
+Booked Date cells: 433
+ORDER Number cells: 17454
+Commission Booked Date cells: 19918
+DistiPOS cells: 19918
+CurrencyCode cells: 19918
+ExchangeRate cells: 19918
+LC_Amount cells: 19918
+Shipped Date cells: 19768
+Owner_Division cells: 18636
+Exclude_from_Compensation__c cells: 19918
+Opportunity Record Type cells: 19918
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19932 (19932/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12890
+CSM_Owner__r_Employee_Id cells: 19043
+Reseller__r_Type cells: 17880
+Reseller__r_Name cells: 17880
+LastModifiedBy_Name cells: 19932
+Owner_Employee_Id cells: 18708
+Account_Name cells: 19932
+Opportunity_ID_Case_Safe__c cells: 19932
+CloseDate cells: 19932
+Amount cells: 19897
+StageName cells: 19932
+Name cells: 19932
+Id cells: 19932
+LastModifiedDate cells: 19932
+Booked Date cells: 434
+ORDER Number cells: 17456
+Commission Booked Date cells: 19932
+DistiPOS cells: 19932
+CurrencyCode cells: 19932
+ExchangeRate cells: 19932
+LC_Amount cells: 19932
+Shipped Date cells: 19783
+Owner_Division cells: 18638
+Exclude_from_Compensation__c cells: 19932
+Opportunity Record Type cells: 19932
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19932 (19932/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12890
+CSM_Owner__r_Employee_Id cells: 19043
+Reseller__r_Type cells: 17880
+Reseller__r_Name cells: 17880
+LastModifiedBy_Name cells: 19932
+Owner_Employee_Id cells: 18708
+Account_Name cells: 19932
+Opportunity_ID_Case_Safe__c cells: 19932
+CloseDate cells: 19932
+Amount cells: 19897
+StageName cells: 19932
+Name cells: 19932
+Id cells: 19932
+LastModifiedDate cells: 19932
+Booked Date cells: 434
+ORDER Number cells: 17456
+Commission Booked Date cells: 19932
+DistiPOS cells: 19932
+CurrencyCode cells: 19932
+ExchangeRate cells: 19932
+LC_Amount cells: 19932
+Shipped Date cells: 19783
+Owner_Division cells: 18638
+Exclude_from_Compensation__c cells: 19932
+Opportunity Record Type cells: 19932
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19935 (19935/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12892
+CSM_Owner__r_Employee_Id cells: 19046
+Reseller__r_Type cells: 17883
+Reseller__r_Name cells: 17883
+LastModifiedBy_Name cells: 19935
+Owner_Employee_Id cells: 18711
+Account_Name cells: 19935
+Opportunity_ID_Case_Safe__c cells: 19935
+CloseDate cells: 19935
+Amount cells: 19900
+StageName cells: 19935
+Name cells: 19935
+Id cells: 19935
+LastModifiedDate cells: 19935
+Booked Date cells: 434
+ORDER Number cells: 17459
+Commission Booked Date cells: 19935
+DistiPOS cells: 19935
+CurrencyCode cells: 19935
+ExchangeRate cells: 19935
+LC_Amount cells: 19935
+Shipped Date cells: 19786
+Owner_Division cells: 18641
+Exclude_from_Compensation__c cells: 19935
+Opportunity Record Type cells: 19935
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20054 (20054/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12938
+CSM_Owner__r_Employee_Id cells: 19165
+Reseller__r_Type cells: 18000
+Reseller__r_Name cells: 18000
+LastModifiedBy_Name cells: 20054
+Owner_Employee_Id cells: 18829
+Account_Name cells: 20054
+Opportunity_ID_Case_Safe__c cells: 20054
+CloseDate cells: 20054
+Amount cells: 20018
+StageName cells: 20054
+Name cells: 20054
+Id cells: 20054
+LastModifiedDate cells: 20054
+Booked Date cells: 434
+ORDER Number cells: 17588
+Commission Booked Date cells: 20054
+DistiPOS cells: 20054
+CurrencyCode cells: 20054
+ExchangeRate cells: 20054
+LC_Amount cells: 20054
+Shipped Date cells: 19894
+Owner_Division cells: 18769
+Exclude_from_Compensation__c cells: 20054
+Opportunity Record Type cells: 20054
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20156 (20156/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12992
+CSM_Owner__r_Employee_Id cells: 19267
+Reseller__r_Type cells: 18076
+Reseller__r_Name cells: 18076
+LastModifiedBy_Name cells: 20156
+Owner_Employee_Id cells: 18931
+Account_Name cells: 20156
+Opportunity_ID_Case_Safe__c cells: 20156
+CloseDate cells: 20156
+Amount cells: 20121
+StageName cells: 20156
+Name cells: 20156
+Id cells: 20156
+LastModifiedDate cells: 20156
+Booked Date cells: 434
+ORDER Number cells: 17690
+Commission Booked Date cells: 20156
+DistiPOS cells: 20156
+CurrencyCode cells: 20156
+ExchangeRate cells: 20156
+LC_Amount cells: 20156
+Shipped Date cells: 19978
+Owner_Division cells: 18874
+Exclude_from_Compensation__c cells: 20156
+Opportunity Record Type cells: 20156
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20158 (20158/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12996
+CSM_Owner__r_Employee_Id cells: 19269
+Reseller__r_Type cells: 18078
+Reseller__r_Name cells: 18078
+LastModifiedBy_Name cells: 20158
+Owner_Employee_Id cells: 18933
+Account_Name cells: 20158
+Opportunity_ID_Case_Safe__c cells: 20158
+CloseDate cells: 20158
+Amount cells: 20123
+StageName cells: 20158
+Name cells: 20158
+Id cells: 20158
+LastModifiedDate cells: 20158
+Booked Date cells: 434
+ORDER Number cells: 17690
+Commission Booked Date cells: 20158
+DistiPOS cells: 20158
+CurrencyCode cells: 20158
+ExchangeRate cells: 20158
+LC_Amount cells: 20158
+Shipped Date cells: 19981
+Owner_Division cells: 18876
+Exclude_from_Compensation__c cells: 20158
+Opportunity Record Type cells: 20158
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20161 (20161/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12996
+CSM_Owner__r_Employee_Id cells: 19272
+Reseller__r_Type cells: 18081
+Reseller__r_Name cells: 18081
+LastModifiedBy_Name cells: 20161
+Owner_Employee_Id cells: 18936
+Account_Name cells: 20161
+Opportunity_ID_Case_Safe__c cells: 20161
+CloseDate cells: 20161
+Amount cells: 20126
+StageName cells: 20161
+Name cells: 20161
+Id cells: 20161
+LastModifiedDate cells: 20161
+Booked Date cells: 434
+ORDER Number cells: 17693
+Commission Booked Date cells: 20161
+DistiPOS cells: 20161
+CurrencyCode cells: 20161
+ExchangeRate cells: 20161
+LC_Amount cells: 20161
+Shipped Date cells: 19987
+Owner_Division cells: 18879
+Exclude_from_Compensation__c cells: 20161
+Opportunity Record Type cells: 20161
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20160 (20160/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12995
+CSM_Owner__r_Employee_Id cells: 19271
+Reseller__r_Type cells: 18080
+Reseller__r_Name cells: 18080
+LastModifiedBy_Name cells: 20160
+Owner_Employee_Id cells: 18935
+Account_Name cells: 20160
+Opportunity_ID_Case_Safe__c cells: 20160
+CloseDate cells: 20160
+Amount cells: 20125
+StageName cells: 20160
+Name cells: 20160
+Id cells: 20160
+LastModifiedDate cells: 20160
+Booked Date cells: 434
+ORDER Number cells: 17692
+Commission Booked Date cells: 20160
+DistiPOS cells: 20160
+CurrencyCode cells: 20160
+ExchangeRate cells: 20160
+LC_Amount cells: 20160
+Shipped Date cells: 19990
+Owner_Division cells: 18878
+Exclude_from_Compensation__c cells: 20160
+Opportunity Record Type cells: 20160
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20182 (20182/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 13006
+CSM_Owner__r_Employee_Id cells: 19293
+Reseller__r_Type cells: 18100
+Reseller__r_Name cells: 18100
+LastModifiedBy_Name cells: 20182
+Owner_Employee_Id cells: 18957
+Account_Name cells: 20182
+Opportunity_ID_Case_Safe__c cells: 20182
+CloseDate cells: 20182
+Amount cells: 20147
+StageName cells: 20182
+Name cells: 20182
+Id cells: 20182
+LastModifiedDate cells: 20182
+Booked Date cells: 434
+ORDER Number cells: 17714
+Commission Booked Date cells: 20182
+DistiPOS cells: 20182
+CurrencyCode cells: 20182
+ExchangeRate cells: 20182
+LC_Amount cells: 20182
+Shipped Date cells: 20003
+Owner_Division cells: 18900
+Exclude_from_Compensation__c cells: 20182
+Opportunity Record Type cells: 20182
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20686 (20686/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 13336
+CSM_Owner__r_Employee_Id cells: 19606
+Reseller__r_Type cells: 18400
+Reseller__r_Name cells: 18400
+LastModifiedBy_Name cells: 20686
+Owner_Employee_Id cells: 19111
+Account_Name cells: 20686
+Opportunity_ID_Case_Safe__c cells: 20686
+CloseDate cells: 20686
+Amount cells: 20645
+StageName cells: 20686
+Name cells: 20686
+Id cells: 20686
+LastModifiedDate cells: 20686
+Booked Date cells: 446
+ORDER Number cells: 17867
+Commission Booked Date cells: 20686
+DistiPOS cells: 20686
+CurrencyCode cells: 20686
+ExchangeRate cells: 20686
+LC_Amount cells: 20686
+Shipped Date cells: 20477
+Owner_Division cells: 19053
+Exclude_from_Compensation__c cells: 20686
+Opportunity Record Type cells: 20686
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 20686 (20686/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 13336
+CSM_Owner__r_Employee_Id cells: 19606
+Reseller__r_Type cells: 18400
+Reseller__r_Name cells: 18400
+LastModifiedBy_Name cells: 20686
+Owner_Employee_Id cells: 19111
+Account_Name cells: 20686
+Opportunity_ID_Case_Safe__c cells: 20686
+CloseDate cells: 20686
+Amount cells: 20645
+StageName cells: 20686
+Name cells: 20686
+Id cells: 20686
+LastModifiedDate cells: 20686
+Booked Date cells: 446
+ORDER Number cells: 17867
+Commission Booked Date cells: 20686
+DistiPOS cells: 20686
+CurrencyCode cells: 20686
+ExchangeRate cells: 20686
+LC_Amount cells: 20686
+Shipped Date cells: 20477
+Owner_Division cells: 19053
+Exclude_from_Compensation__c cells: 20686
+Opportunity Record Type cells: 20686
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19679 (19679/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12754
+CSM_Owner__r_Employee_Id cells: 18599
+Reseller__r_Type cells: 17506
+Reseller__r_Name cells: 17506
+LastModifiedBy_Name cells: 19679
+Owner_Employee_Id cells: 18102
+Account_Name cells: 19679
+Opportunity_ID_Case_Safe__c cells: 19679
+CloseDate cells: 19679
+Amount cells: 19638
+StageName cells: 19679
+Name cells: 19679
+Id cells: 19679
+LastModifiedDate cells: 19679
+Booked Date cells: 449
+ORDER Number cells: 16857
+Commission Booked Date cells: 19679
+DistiPOS cells: 19679
+CurrencyCode cells: 19679
+ExchangeRate cells: 19679
+LC_Amount cells: 19679
+Shipped Date cells: 19594
+Owner_Division cells: 18048
+Exclude_from_Compensation__c cells: 19679
+Opportunity Record Type cells: 19679
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19679 (19679/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12754
+CSM_Owner__r_Employee_Id cells: 18599
+Reseller__r_Type cells: 17506
+Reseller__r_Name cells: 17506
+LastModifiedBy_Name cells: 19679
+Owner_Employee_Id cells: 18102
+Account_Name cells: 19679
+Opportunity_ID_Case_Safe__c cells: 19679
+CloseDate cells: 19679
+Amount cells: 19638
+StageName cells: 19679
+Name cells: 19679
+Id cells: 19679
+LastModifiedDate cells: 19679
+Booked Date cells: 449
+ORDER Number cells: 16857
+Commission Booked Date cells: 19679
+DistiPOS cells: 19679
+CurrencyCode cells: 19679
+ExchangeRate cells: 19679
+LC_Amount cells: 19679
+Shipped Date cells: 19594
+Owner_Division cells: 18048
+Exclude_from_Compensation__c cells: 19679
+Opportunity Record Type cells: 19679
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19679 (19679/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12754
+CSM_Owner__r_Employee_Id cells: 18599
+Reseller__r_Type cells: 17506
+Reseller__r_Name cells: 17506
+LastModifiedBy_Name cells: 19679
+Owner_Employee_Id cells: 18102
+Account_Name cells: 19679
+Opportunity_ID_Case_Safe__c cells: 19679
+CloseDate cells: 19679
+Amount cells: 19638
+StageName cells: 19679
+Name cells: 19679
+Id cells: 19679
+LastModifiedDate cells: 19679
+Booked Date cells: 449
+ORDER Number cells: 16857
+Commission Booked Date cells: 19679
+DistiPOS cells: 19679
+CurrencyCode cells: 19679
+ExchangeRate cells: 19679
+LC_Amount cells: 19679
+Shipped Date cells: 19594
+Owner_Division cells: 18048
+Exclude_from_Compensation__c cells: 19679
+Opportunity Record Type cells: 19679
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19678 (19678/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12753
+CSM_Owner__r_Employee_Id cells: 18598
+Reseller__r_Type cells: 17505
+Reseller__r_Name cells: 17505
+LastModifiedBy_Name cells: 19678
+Owner_Employee_Id cells: 18101
+Account_Name cells: 19678
+Opportunity_ID_Case_Safe__c cells: 19678
+CloseDate cells: 19678
+Amount cells: 19637
+StageName cells: 19678
+Name cells: 19678
+Id cells: 19678
+LastModifiedDate cells: 19678
+Booked Date cells: 449
+ORDER Number cells: 16856
+Commission Booked Date cells: 19678
+DistiPOS cells: 19678
+CurrencyCode cells: 19678
+ExchangeRate cells: 19678
+LC_Amount cells: 19678
+Shipped Date cells: 19593
+Owner_Division cells: 18047
+Exclude_from_Compensation__c cells: 19678
+Opportunity Record Type cells: 19678
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19678 (19678/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12753
+CSM_Owner__r_Employee_Id cells: 18598
+Reseller__r_Type cells: 17505
+Reseller__r_Name cells: 17505
+LastModifiedBy_Name cells: 19678
+Owner_Employee_Id cells: 18101
+Account_Name cells: 19678
+Opportunity_ID_Case_Safe__c cells: 19678
+CloseDate cells: 19678
+Amount cells: 19637
+StageName cells: 19678
+Name cells: 19678
+Id cells: 19678
+LastModifiedDate cells: 19678
+Booked Date cells: 449
+ORDER Number cells: 16856
+Commission Booked Date cells: 19678
+DistiPOS cells: 19678
+CurrencyCode cells: 19678
+ExchangeRate cells: 19678
+LC_Amount cells: 19678
+Shipped Date cells: 19593
+Owner_Division cells: 18047
+Exclude_from_Compensation__c cells: 19678
+Opportunity Record Type cells: 19678
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19678 (19678/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12753
+CSM_Owner__r_Employee_Id cells: 18598
+Reseller__r_Type cells: 17505
+Reseller__r_Name cells: 17505
+LastModifiedBy_Name cells: 19678
+Owner_Employee_Id cells: 18101
+Account_Name cells: 19678
+Opportunity_ID_Case_Safe__c cells: 19678
+CloseDate cells: 19678
+Amount cells: 19637
+StageName cells: 19678
+Name cells: 19678
+Id cells: 19678
+LastModifiedDate cells: 19678
+Booked Date cells: 449
+ORDER Number cells: 16856
+Commission Booked Date cells: 19678
+DistiPOS cells: 19678
+CurrencyCode cells: 19678
+ExchangeRate cells: 19678
+LC_Amount cells: 19678
+Shipped Date cells: 19593
+Owner_Division cells: 18047
+Exclude_from_Compensation__c cells: 19678
+Opportunity Record Type cells: 19678
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19667 (19667/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12753
+CSM_Owner__r_Employee_Id cells: 18587
+Reseller__r_Type cells: 17494
+Reseller__r_Name cells: 17494
+LastModifiedBy_Name cells: 19667
+Owner_Employee_Id cells: 18090
+Account_Name cells: 19667
+Opportunity_ID_Case_Safe__c cells: 19667
+CloseDate cells: 19667
+Amount cells: 19626
+StageName cells: 19667
+Name cells: 19667
+Id cells: 19667
+LastModifiedDate cells: 19667
+Booked Date cells: 449
+ORDER Number cells: 16845
+Commission Booked Date cells: 19667
+DistiPOS cells: 19667
+CurrencyCode cells: 19667
+ExchangeRate cells: 19667
+LC_Amount cells: 19667
+Shipped Date cells: 19582
+Owner_Division cells: 18036
+Exclude_from_Compensation__c cells: 19667
+Opportunity Record Type cells: 19667
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19614 (19614/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12748
+CSM_Owner__r_Employee_Id cells: 18534
+Reseller__r_Type cells: 17441
+Reseller__r_Name cells: 17441
+LastModifiedBy_Name cells: 19614
+Owner_Employee_Id cells: 18037
+Account_Name cells: 19614
+Opportunity_ID_Case_Safe__c cells: 19614
+CloseDate cells: 19614
+Amount cells: 19573
+StageName cells: 19614
+Name cells: 19614
+Id cells: 19614
+LastModifiedDate cells: 19614
+Booked Date cells: 449
+ORDER Number cells: 16792
+Commission Booked Date cells: 19614
+DistiPOS cells: 19614
+CurrencyCode cells: 19614
+ExchangeRate cells: 19614
+LC_Amount cells: 19614
+Shipped Date cells: 19529
+Owner_Division cells: 17983
+Exclude_from_Compensation__c cells: 19614
+Opportunity Record Type cells: 19614
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19883 (19883/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12363
+CSM_Owner__r_Employee_Id cells: 19590
+Reseller__r_Type cells: 17785
+Reseller__r_Name cells: 17785
+LastModifiedBy_Name cells: 19883
+Owner_Employee_Id cells: 19447
+Account_Name cells: 19883
+Opportunity_ID_Case_Safe__c cells: 19883
+CloseDate cells: 19883
+Amount cells: 19850
+StageName cells: 19883
+Name cells: 19883
+Id cells: 19883
+LastModifiedDate cells: 19883
+Booked Date cells: 29
+ORDER Number cells: 18823
+Commission Booked Date cells: 19883
+DistiPOS cells: 19883
+CurrencyCode cells: 19883
+ExchangeRate cells: 19883
+LC_Amount cells: 19883
+Shipped Date cells: 17673
+Owner_Division cells: 19377
+Exclude_from_Compensation__c cells: 19883
+Opportunity Record Type cells: 19883
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19906 (19906/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12363
+CSM_Owner__r_Employee_Id cells: 19613
+Reseller__r_Type cells: 17786
+Reseller__r_Name cells: 17786
+LastModifiedBy_Name cells: 19906
+Owner_Employee_Id cells: 19470
+Account_Name cells: 19906
+Opportunity_ID_Case_Safe__c cells: 19906
+CloseDate cells: 19906
+Amount cells: 19873
+StageName cells: 19906
+Name cells: 19906
+Id cells: 19906
+LastModifiedDate cells: 19906
+Booked Date cells: 29
+ORDER Number cells: 18846
+Commission Booked Date cells: 19906
+DistiPOS cells: 19906
+CurrencyCode cells: 19906
+ExchangeRate cells: 19906
+LC_Amount cells: 19906
+Shipped Date cells: 17695
+Owner_Division cells: 19399
+Exclude_from_Compensation__c cells: 19906
+Opportunity Record Type cells: 19906
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19906 (19906/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12363
+CSM_Owner__r_Employee_Id cells: 19613
+Reseller__r_Type cells: 17786
+Reseller__r_Name cells: 17786
+LastModifiedBy_Name cells: 19906
+Owner_Employee_Id cells: 19470
+Account_Name cells: 19906
+Opportunity_ID_Case_Safe__c cells: 19906
+CloseDate cells: 19906
+Amount cells: 19873
+StageName cells: 19906
+Name cells: 19906
+Id cells: 19906
+LastModifiedDate cells: 19906
+Booked Date cells: 29
+ORDER Number cells: 18846
+Commission Booked Date cells: 19906
+DistiPOS cells: 19906
+CurrencyCode cells: 19906
+ExchangeRate cells: 19906
+LC_Amount cells: 19906
+Shipped Date cells: 17695
+Owner_Division cells: 19399
+Exclude_from_Compensation__c cells: 19906
+Opportunity Record Type cells: 19906
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19906 (19906/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12363
+CSM_Owner__r_Employee_Id cells: 19613
+Reseller__r_Type cells: 17786
+Reseller__r_Name cells: 17786
+LastModifiedBy_Name cells: 19906
+Owner_Employee_Id cells: 19470
+Account_Name cells: 19906
+Opportunity_ID_Case_Safe__c cells: 19906
+CloseDate cells: 19906
+Amount cells: 19873
+StageName cells: 19906
+Name cells: 19906
+Id cells: 19906
+LastModifiedDate cells: 19906
+Booked Date cells: 29
+ORDER Number cells: 18846
+Commission Booked Date cells: 19906
+DistiPOS cells: 19906
+CurrencyCode cells: 19906
+ExchangeRate cells: 19906
+LC_Amount cells: 19906
+Shipped Date cells: 17695
+Owner_Division cells: 19399
+Exclude_from_Compensation__c cells: 19906
+Opportunity Record Type cells: 19906
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_transfer.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv' -process 'SFDC Transfer Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_opportunity_transfer.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_transfer.csv" has been uploaded as ff_meraki_opportunity_transfer.csv.
+The operation was successful.
+
+Transfer Booking Key: 19903 (19903/0) rows successful, 0 ignored 
+
+Distributor__r_Name cells: 12361
+CSM_Owner__r_Employee_Id cells: 19610
+Reseller__r_Type cells: 17783
+Reseller__r_Name cells: 17783
+LastModifiedBy_Name cells: 19903
+Owner_Employee_Id cells: 19467
+Account_Name cells: 19903
+Opportunity_ID_Case_Safe__c cells: 19903
+CloseDate cells: 19903
+Amount cells: 19870
+StageName cells: 19903
+Name cells: 19903
+Id cells: 19903
+LastModifiedDate cells: 19903
+Booked Date cells: 29
+ORDER Number cells: 18843
+Commission Booked Date cells: 19903
+DistiPOS cells: 19903
+CurrencyCode cells: 19903
+ExchangeRate cells: 19903
+LC_Amount cells: 19903
+Shipped Date cells: 17697
+Owner_Division cells: 19400
+Exclude_from_Compensation__c cells: 19903
+Opportunity Record Type cells: 19903
+
+

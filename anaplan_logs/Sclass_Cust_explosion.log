@@ -1,0 +1,79 @@
+ Script Start Time:  Thu Jul 29 12:00: PDT 2021
+ ====> Running action - NLG export refresh for 2H
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Customer Explosion updated S-Class' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_Cust_explosion
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Customer Explosion Output import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_Cust_explosion
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Exploded Customer Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+ Script End Time:  Thu Jul 29 12:04: PDT 2021
+  ******  Total Job Run time is 4 minutes and 10 seconds elapsed for Script Execution. ******

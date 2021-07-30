@@ -1,0 +1,109 @@
+20210728235402
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_RRP data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_rrp_key_delete.err'
+The operation was successful.
+
+8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'FF_CX_TS_RR_PROG.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv' -import 'TS_RR_Key from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_rrp_list.err' -import 'TSS_RRP from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_rrp_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv" has been uploaded as FF_CX_TS_RR_PROG.csv.
+The operation was successful.
+TS_RR_Key: 43847 (43847/0) rows successful, 0 ignored 
+
+The operation was successful.
+REFRESH_DATE cells: 43847
+IN_QTR_DNR cells: 43762
+FUTURE_SHARE_NODE_ID cells: 43847
+FUTURE_SALES_LEVEL_6 cells: 43847
+FUTURE_SALES_LEVEL_5 cells: 43847
+FUTURE_SALES_LEVEL_4 cells: 43847
+FUTURE_SALES_LEVEL_3 cells: 43847
+FUTURE_SALES_LEVEL_2 cells: 43847
+FUTURE_SALES_LEVEL_1 cells: 43847
+CONTRACT_END_QUARTER cells: 43847
+-2 Qtr Nmr Annualized cells: 43847
+-1 Qtr Nmr Annualized cells: 43847
+In  Qtr Nmr Annualized cells: 43847
++1 Qtr Nmr Annualized cells: 43847
++2 Qtr Nmr Annualized cells: 43847
++3 Qtr Nmr Annualized cells: 43847
++4 Qtr Nmr Annualized cells: 43847
+
+WEEKLY REFRESH 07/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_RR_PROG.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv' -import 'TS_RR_Key from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_rrp_list.err' -import 'TSS_RRP from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_rrp_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv" has been uploaded as FF_CX_TS_RR_PROG.csv.
+The operation was successful.
+TS_RR_Key: 42655 (42655/0) rows successful, 0 ignored 
+
+The operation was successful.
+REFRESH_DATE cells: 42655
+IN_QTR_DNR cells: 42633
+FUTURE_SHARE_NODE_ID cells: 42655
+FUTURE_SALES_LEVEL_6 cells: 42655
+FUTURE_SALES_LEVEL_5 cells: 42655
+FUTURE_SALES_LEVEL_4 cells: 42655
+FUTURE_SALES_LEVEL_3 cells: 42655
+FUTURE_SALES_LEVEL_2 cells: 42655
+FUTURE_SALES_LEVEL_1 cells: 42655
+CONTRACT_END_QUARTER cells: 42655
+-2 Qtr Nmr Annualized cells: 42655
+-1 Qtr Nmr Annualized cells: 42655
+In  Qtr Nmr Annualized cells: 42655
++1 Qtr Nmr Annualized cells: 42655
++2 Qtr Nmr Annualized cells: 42655
++3 Qtr Nmr Annualized cells: 42655
++4 Qtr Nmr Annualized cells: 42655
+
+WEEKLY REFRESH 07/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_RR_PROG.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv' -import 'TS_RR_Key from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_rrp_list.err' -import 'TSS_RRP from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_rrp_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv" has been uploaded as FF_CX_TS_RR_PROG.csv.
+The operation was successful.
+TS_RR_Key: 43263 (43263/0) rows successful, 0 ignored 
+
+The operation was successful.
+REFRESH_DATE cells: 43263
+IN_QTR_DNR cells: 43257
+FUTURE_SHARE_NODE_ID cells: 43263
+FUTURE_SALES_LEVEL_6 cells: 43263
+FUTURE_SALES_LEVEL_5 cells: 43263
+FUTURE_SALES_LEVEL_4 cells: 43263
+FUTURE_SALES_LEVEL_3 cells: 43263
+FUTURE_SALES_LEVEL_2 cells: 43263
+FUTURE_SALES_LEVEL_1 cells: 43263
+CONTRACT_END_QUARTER cells: 43263
+-2 Qtr Nmr Annualized cells: 43263
+-1 Qtr Nmr Annualized cells: 43263
+In  Qtr Nmr Annualized cells: 43263
++1 Qtr Nmr Annualized cells: 43263
++2 Qtr Nmr Annualized cells: 43263
++3 Qtr Nmr Annualized cells: 43263
++4 Qtr Nmr Annualized cells: 43263
+
+WEEKLY REFRESH 07/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_RR_PROG.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv' -import 'TS_RR_Key from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_rrp_list.err' -import 'TSS_RRP from FF_CX_TS_RR_PROG.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_rrp_module.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_RR_PROG.csv" has been uploaded as FF_CX_TS_RR_PROG.csv.
+The operation was successful.
+TS_RR_Key: 41861 (41861/0) rows successful, 0 ignored 
+
+The operation was successful.
+REFRESH_DATE cells: 41861
+IN_QTR_DNR cells: 41858
+FUTURE_SHARE_NODE_ID cells: 41861
+FUTURE_SALES_LEVEL_6 cells: 41861
+FUTURE_SALES_LEVEL_5 cells: 41861
+FUTURE_SALES_LEVEL_4 cells: 41861
+FUTURE_SALES_LEVEL_3 cells: 41861
+FUTURE_SALES_LEVEL_2 cells: 41861
+FUTURE_SALES_LEVEL_1 cells: 41861
+CONTRACT_END_QUARTER cells: 41861
+-2 Qtr Nmr Annualized cells: 41861
+-1 Qtr Nmr Annualized cells: 41861
+In  Qtr Nmr Annualized cells: 41861
++1 Qtr Nmr Annualized cells: 41861
++2 Qtr Nmr Annualized cells: 41861
++3 Qtr Nmr Annualized cells: 41861
++4 Qtr Nmr Annualized cells: 41861
+

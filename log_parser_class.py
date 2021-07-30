@@ -60,17 +60,13 @@ class Regex:
 
 class Log_Parse:
 
-    def __int__(self):
-        #  api_status_list: List):
-        # self.curr_api_name = ''
-        # self.curr_api_index: int = 1
-        # self.status_api_index: int = 0
-        # self.api_status_list: List = api_status_list
-        # self.is_execution_start: bool = false
-        # self.is_operation_success: bool = false
-        # self.is_operation_fail: bool = false
-        # self.is_operation_unavail: bool = false
-        pass
+    def __int__(self,
+                path_to_log_files: str = 'anaplan_logs',
+                path_to_result_files: str = 'log_review'
+                ):
+
+        self.path_to_log_files = path_to_log_files
+        self.path_to_return_files = path_to_return_files
 
     # api_status_list: List = []
     log_parse_dict: Dict = {}

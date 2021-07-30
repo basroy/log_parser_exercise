@@ -1,0 +1,32 @@
+20210728204407
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -action 'DEL Forecast Monthly' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/Del_ForecastMonthly.err.err'
+The operation failed.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_FORECAST_MONTHLY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_FORECAST_MONTHLY.csv' -import 'FCAST_MONTHLY_INT_ID from FF_FORECAST_MONTHLY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Forecast_MonthlyList.err' -import 'Forecast Monthly from FF_FORECAST_MONTHLY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Forecast_MonthlyModule.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_FORECAST_MONTHLY.csv" has been uploaded as FF_FORECAST_MONTHLY.csv.
+The operation failed.
+Import into FCAST_MONTHLY_INT_ID list failed: Deployed Mode is enabled for this model. You do not have permission to change structural data.
+
+The operation was successful.
+Forecast_ID cells: 39752
+Position_ID cells: 39752
+SHARE_Node_Name cells: 39995 (16113 failed)
+SHARE_Territory_Type cells: 39995 (16306 failed)
+SHARE_Node_ID cells: 39995 (16306 failed)
+Derived_Segment cells: 39752
+Opportunity_Team_or_AM_type cells: 35046 (16306 failed)
+Fiscal_Quarter cells: 39995 (16306 failed)
+Currency_Code cells: 39995 (16306 failed)
+Amount_Type cells: 39995 (16306 failed)
+Product_Amount cells: 39995 (16306 failed)
+Service_Amount cells: 39995 (16306 failed)
+Service_AS_S cells: 34801
+Service_AS_T cells: 34801
+Service_TSS cells: 34801
+Period_ID cells: 39995 (16306 failed)
+Item not located in FCAST_MONTHLY_INT_ID list: 162867
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Forecast_MonthlyModule.err"

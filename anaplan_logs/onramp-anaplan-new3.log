@@ -1,0 +1,300 @@
+Jul 29, 2021 4:31:08 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619983 Started***********
+Jul 29, 2021 4:31:08 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:10 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:10 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619983 Completed***********
+Jul 29, 2021 4:31:10 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132620039 Started***********
+Jul 29, 2021 4:31:10 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:11 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:11 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132620039 Completed***********
+Jul 29, 2021 4:31:11 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132620038 Started***********
+Jul 29, 2021 4:31:11 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:12 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:12 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132620038 Completed***********
+Jul 29, 2021 4:31:12 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619943 Started***********
+Jul 29, 2021 4:31:12 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:13 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:13 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619943 Completed***********
+Jul 29, 2021 4:31:13 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619980 Started***********
+Jul 29, 2021 4:31:13 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:15 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:15 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619980 Completed***********
+Jul 29, 2021 4:31:15 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619963 Started***********
+Jul 29, 2021 4:31:15 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:17 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:17 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619963 Completed***********
+Jul 29, 2021 4:31:17 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619960 Started***********
+Jul 29, 2021 4:31:17 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:18 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:18 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619960 Completed***********
+Jul 29, 2021 4:31:18 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619942 Started***********
+Jul 29, 2021 4:31:18 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:19 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:19 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619942 Completed***********
+Jul 29, 2021 4:31:19 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132619998 Started***********
+Jul 29, 2021 4:31:19 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:20 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:20 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132619998 Completed***********
+Jul 29, 2021 4:31:20 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032440499 Started***********
+Jul 29, 2021 4:31:20 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:21 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:21 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032440499 Completed***********
+Jul 29, 2021 4:31:21 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324410 Started***********
+Jul 29, 2021 4:31:21 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324410 Completed***********
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032390299 Started***********
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032390299 Completed***********
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324445 Started***********
+Jul 29, 2021 4:31:22 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:23 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:23 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324445 Completed***********
+Jul 29, 2021 4:31:23 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324434 Started***********
+Jul 29, 2021 4:31:23 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:25 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:25 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324434 Completed***********
+Jul 29, 2021 4:31:25 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324464 Started***********
+Jul 29, 2021 4:31:25 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:26 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:26 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324464 Completed***********
+Jul 29, 2021 4:31:26 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324564 Started***********
+Jul 29, 2021 4:31:26 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324564 Completed***********
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032460199 Started***********
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032460199 Completed***********
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324721 Started***********
+Jul 29, 2021 4:31:28 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:29 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:29 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324721 Completed***********
+Jul 29, 2021 4:31:29 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324404 Started***********
+Jul 29, 2021 4:31:29 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:30 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:30 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324404 Completed***********
+Jul 29, 2021 4:31:30 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032441099 Started***********
+Jul 29, 2021 4:31:30 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:31 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:31 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032441099 Completed***********
+Jul 29, 2021 4:31:31 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160323902 Started***********
+Jul 29, 2021 4:31:31 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:32 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:32 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160323902 Completed***********
+Jul 29, 2021 4:31:32 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032444599 Started***********
+Jul 29, 2021 4:31:32 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032444599 Completed***********
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032443499 Started***********
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032443499 Completed***********
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032446499 Started***********
+Jul 29, 2021 4:31:33 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032446499 Completed***********
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032456499 Started***********
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032456499 Completed***********
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-160324601 Started***********
+Jul 29, 2021 4:31:34 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:35 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:35 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-160324601 Completed***********
+Jul 29, 2021 4:31:35 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-16032472199 Started***********
+Jul 29, 2021 4:31:35 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:36 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:36 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-16032472199 Completed***********
+Jul 29, 2021 4:31:36 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132620072 Started***********
+Jul 29, 2021 4:31:36 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:37 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:37 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132620072 Completed***********
+Jul 29, 2021 4:31:37 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-1326202789 Started***********
+Jul 29, 2021 4:31:37 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:38 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:38 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-1326202789 Completed***********
+Jul 29, 2021 4:31:38 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132620260 Started***********
+Jul 29, 2021 4:31:38 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:39 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:39 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132620260 Completed***********
+Jul 29, 2021 4:31:39 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132620238 Started***********
+Jul 29, 2021 4:31:39 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:40 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:40 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132620238 Completed***********
+Jul 29, 2021 4:31:40 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-1326202399 Started***********
+Jul 29, 2021 4:31:40 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:41 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:41 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-1326202399 Completed***********
+Jul 29, 2021 4:31:41 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-132620220 Started***********
+Jul 29, 2021 4:31:41 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-132620220 Completed***********
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-1326202189 Started***********
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-1326202189 Completed***********
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-1326202199 Started***********
+Jul 29, 2021 4:31:42 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:43 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:43 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-1326202199 Completed***********
+Jul 29, 2021 4:31:43 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ***********Onramp Operation for Resoure:-1326200719 Started***********
+Jul 29, 2021 4:31:43 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Invoking Onramp Service...
+Jul 29, 2021 4:31:44 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService invokeOnrampService
+INFO: Request Status: HTTP/1.1 200 OK
+Jul 29, 2021 4:31:44 PM com.cisco.g2c.onramp.anaplan.service.OnrampAnaplanService performWsOperation
+INFO: ************Onramp Operation for Resoure:-1326200719 Completed***********
+Jul 29, 2021 4:31:44 PM com.cisco.g2c.onramp.anaplan.DAO.OnrampAnaplanDAO parseOnRampResponse
+INFO: ****************Parsing Method Start****************
+Jul 29, 2021 4:31:44 PM com.cisco.g2c.onramp.anaplan.DAO.OnrampAnaplanDAO parseOnRampResponse
+INFO: ****************Parsing Method End****************
+Jul 29, 2021 4:31:44 PM AppMain main
+INFO: No. Of Userdetails records to be processed=3106
+Jul 29, 2021 4:31:44 PM com.cisco.g2c.onramp.anaplan.DAO.OnrampAnaplanDAO dbConn
+INFO: Connecting to jdbc:oracle:thin:@ldap://ldap-ldprd.cisco.com:5000/cn=OracleContext,dc=cisco,dc=com/G2CPRD
+Jul 29, 2021 4:31:44 PM com.cisco.g2c.onramp.anaplan.DAO.OnrampAnaplanDAO populateInterface
+INFO: 3106 records added
+Jul 29, 2021 4:31:44 PM AppMain main
+INFO: Process Completed

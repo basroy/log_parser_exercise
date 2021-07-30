@@ -1,0 +1,1000 @@
+Active Nodes cells: 35651
+Node Property cells: 35651
+Property cells: 33323
+SHARE Node ID cells: 35651
+Level cells: 35651 (1 ignored)
+Parent cells: 35650
+Dummy Node Flag cells: 35651
+Misc Nodes check cells: 35651
+Orginal Node ID cells: 2328
+
+
+Share FLAT: 35902 (0/35902) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35652 (0/35652) rows successful, 0 ignored 
+
+Share Node ID: 35650 (0/35650) rows successful, 0 (0/0) rows has warnings, 2 failed, 0 ignored
+Cannot change code for list's top level item: 1
+Invalid name: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35651
+Node Property cells: 35651
+Property cells: 33323
+SHARE Node ID cells: 35651
+Level cells: 35651 (1 ignored)
+Parent cells: 35650
+Dummy Node Flag cells: 35651
+Misc Nodes check cells: 35651
+Orginal Node ID cells: 2328
+
+
+Share FLAT: 35902 (0/35902) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35652 (0/35652) rows successful, 0 ignored 
+
+Share Node ID: 35650 (0/35650) rows successful, 0 (0/0) rows has warnings, 2 failed, 0 ignored
+Cannot change code for list's top level item: 1
+Invalid name: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35651
+Node Property cells: 35651
+Property cells: 33323
+SHARE Node ID cells: 35651
+Level cells: 35651 (1 ignored)
+Parent cells: 35650
+Dummy Node Flag cells: 35651
+Misc Nodes check cells: 35651
+Orginal Node ID cells: 2328
+
+
+Share FLAT: 35902 (0/35902) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35652 (0/35652) rows successful, 0 ignored 
+
+Share Node ID: 35650 (0/35650) rows successful, 0 (0/0) rows has warnings, 2 failed, 0 ignored
+Cannot change code for list's top level item: 1
+Invalid name: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35651
+Node Property cells: 35651
+Property cells: 33323
+SHARE Node ID cells: 35651
+Level cells: 35651 (1 ignored)
+Parent cells: 35650
+Dummy Node Flag cells: 35651
+Misc Nodes check cells: 35651
+Orginal Node ID cells: 2328
+
+
+Share FLAT: 35902 (0/35902) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35652 (0/35652) rows successful, 0 ignored 
+
+Share Node ID: 35650 (0/35650) rows successful, 0 (0/0) rows has warnings, 2 failed, 0 ignored
+Cannot change code for list's top level item: 1
+Invalid name: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35651
+Node Property cells: 35651
+Property cells: 33323
+SHARE Node ID cells: 35651
+Level cells: 35651 (1 ignored)
+Parent cells: 35650
+Dummy Node Flag cells: 35651
+Misc Nodes check cells: 35651
+Orginal Node ID cells: 2328
+
+
+Share FLAT: 35902 (0/35902) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35550 (0/35550) rows successful, 0 ignored 
+
+Share Node ID: 35546 (0/35546) rows successful, 0 (0/0) rows has warnings, 4 failed, 0 ignored
+Invalid name: 3
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35549
+Node Property cells: 35548
+Property cells: 33323
+SHARE Node ID cells: 35549
+Level cells: 35549 (1 ignored)
+Parent cells: 35548
+Dummy Node Flag cells: 35549
+Misc Nodes check cells: 35549
+Orginal Node ID cells: 2225
+
+
+Share FLAT: 35922 (0/35922) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35550 (0/35550) rows successful, 0 ignored 
+
+Share Node ID: 35546 (0/35546) rows successful, 0 (0/0) rows has warnings, 4 failed, 0 ignored
+Invalid name: 3
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35549
+Node Property cells: 35548
+Property cells: 33323
+SHARE Node ID cells: 35549
+Level cells: 35549 (1 ignored)
+Parent cells: 35548
+Dummy Node Flag cells: 35549
+Misc Nodes check cells: 35549
+Orginal Node ID cells: 2225
+
+
+Share FLAT: 35922 (0/35922) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35550 (0/35550) rows successful, 0 ignored 
+
+Share Node ID: 35546 (0/35546) rows successful, 0 (0/0) rows has warnings, 4 failed, 0 ignored
+Invalid name: 3
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35549
+Node Property cells: 35549
+Property cells: 33324
+SHARE Node ID cells: 35549
+Level cells: 35549 (1 ignored)
+Parent cells: 35548
+Dummy Node Flag cells: 35549
+Misc Nodes check cells: 35549
+Orginal Node ID cells: 2225
+
+
+Share FLAT: 35922 (0/35922) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35673 (22/35651) rows successful, 0 (0/0) rows has warnings, 4 failed, 0 ignored
+Invalid name: 4
+
+Share Node ID: 35667 (21/35646) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35675 (1 failed)
+Node Property cells: 35673 (1 failed)
+Property cells: 33323 (1 failed)
+SHARE Node ID cells: 35674 (1 failed)
+Level cells: 35675 (1 failed, 1 ignored)
+Parent cells: 35673 (1 failed)
+Dummy Node Flag cells: 35675 (1 failed)
+Misc Nodes check cells: 35675 (1 failed)
+Orginal Node ID cells: 2350
+Item not located in Share FLAT list: 8
+
+
+Share FLAT: 35944 (0/35944) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/1-112000000001-Failures for Import 1"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/3-112000000005-Failures for Import 5"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35674 (0/35674) rows successful, 0 (0/0) rows has warnings, 3 failed, 0 ignored
+Invalid name: 3
+
+Share Node ID: 35669 (1/35668) rows successful, 0 (0/0) rows has warnings, 7 failed, 0 ignored
+Invalid name: 6
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35675 (1 failed)
+Node Property cells: 35673 (1 failed)
+Property cells: 33323 (1 failed)
+SHARE Node ID cells: 35674 (1 failed)
+Level cells: 35675 (1 failed, 1 ignored)
+Parent cells: 35673 (1 failed)
+Dummy Node Flag cells: 35675 (1 failed)
+Misc Nodes check cells: 35675 (1 failed)
+Orginal Node ID cells: 2350
+Item not located in Share FLAT list: 8
+
+
+Share FLAT: 35944 (0/35944) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/1-112000000001-Failures for Import 1"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/3-112000000005-Failures for Import 5"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35677 (1/35676) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+Share Node ID: 35665 (0/35665) rows successful, 0 (0/0) rows has warnings, 13 failed, 0 ignored
+Invalid name: 12
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35676 (1 failed)
+Node Property cells: 35676 (1 failed)
+Property cells: 33326 (1 failed)
+SHARE Node ID cells: 35676 (1 failed)
+Level cells: 35676 (1 failed, 1 ignored)
+Parent cells: 35675 (1 failed)
+Dummy Node Flag cells: 35676 (1 failed)
+Misc Nodes check cells: 35676 (1 failed)
+Orginal Node ID cells: 2350
+Item not located in Share FLAT list: 8
+
+
+Share FLAT: 35945 (0/35945) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/1-112000000001-Failures for Import 1"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/3-112000000005-Failures for Import 5"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35678 (0/35678) rows successful, 0 ignored 
+
+Share Node ID: 35666 (0/35666) rows successful, 0 (0/0) rows has warnings, 12 failed, 0 ignored
+Invalid name: 11
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35677
+Node Property cells: 35677
+Property cells: 33327
+SHARE Node ID cells: 35677
+Level cells: 35677 (1 ignored)
+Parent cells: 35676
+Dummy Node Flag cells: 35677
+Misc Nodes check cells: 35677
+Orginal Node ID cells: 2350
+
+
+Share FLAT: 35945 (0/35945) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35678 (0/35678) rows successful, 0 ignored 
+
+Share Node ID: 35669 (1/35668) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35677
+Node Property cells: 35677
+Property cells: 33327
+SHARE Node ID cells: 35677
+Level cells: 35677 (1 ignored)
+Parent cells: 35676
+Dummy Node Flag cells: 35677
+Misc Nodes check cells: 35677
+Orginal Node ID cells: 2350
+
+
+Share FLAT: 35945 (0/35945) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35678 (0/35678) rows successful, 0 ignored 
+
+Share Node ID: 35669 (0/35669) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35677
+Node Property cells: 35677
+Property cells: 33327
+SHARE Node ID cells: 35677
+Level cells: 35677 (1 ignored)
+Parent cells: 35676
+Dummy Node Flag cells: 35677
+Misc Nodes check cells: 35677
+Orginal Node ID cells: 2350
+
+
+Share FLAT: 35945 (0/35945) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35678 (0/35678) rows successful, 0 ignored 
+
+Share Node ID: 35669 (0/35669) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35677
+Node Property cells: 35677
+Property cells: 33327
+SHARE Node ID cells: 35677
+Level cells: 35677 (1 ignored)
+Parent cells: 35676
+Dummy Node Flag cells: 35677
+Misc Nodes check cells: 35677
+Orginal Node ID cells: 2350
+
+
+Share FLAT: 35945 (0/35945) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35556 (0/35556) rows successful, 0 ignored 
+
+Share Node ID: 35547 (0/35547) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35555
+Node Property cells: 35555
+Property cells: 33327
+SHARE Node ID cells: 35555
+Level cells: 35555 (1 ignored)
+Parent cells: 35554
+Dummy Node Flag cells: 35555
+Misc Nodes check cells: 35555
+Orginal Node ID cells: 2228
+
+
+Share FLAT: 35955 (0/35955) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35556 (0/35556) rows successful, 0 ignored 
+
+Share Node ID: 35547 (0/35547) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35555
+Node Property cells: 35555
+Property cells: 33327
+SHARE Node ID cells: 35555
+Level cells: 35555 (1 ignored)
+Parent cells: 35554
+Dummy Node Flag cells: 35555
+Misc Nodes check cells: 35555
+Orginal Node ID cells: 2228
+
+
+Share FLAT: 35955 (0/35955) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35556 (0/35556) rows successful, 0 ignored 
+
+Share Node ID: 35547 (0/35547) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35555
+Node Property cells: 35555
+Property cells: 33327
+SHARE Node ID cells: 35555
+Level cells: 35555 (1 ignored)
+Parent cells: 35554
+Dummy Node Flag cells: 35555
+Misc Nodes check cells: 35555
+Orginal Node ID cells: 2228
+
+
+Share FLAT: 35955 (0/35955) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35556 (0/35556) rows successful, 0 ignored 
+
+Share Node ID: 35547 (0/35547) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35555
+Node Property cells: 35555
+Property cells: 33327
+SHARE Node ID cells: 35555
+Level cells: 35555 (1 ignored)
+Parent cells: 35554
+Dummy Node Flag cells: 35555
+Misc Nodes check cells: 35555
+Orginal Node ID cells: 2228
+
+
+Share FLAT: 35955 (0/35955) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (18/35649) rows successful, 0 ignored 
+
+Share Node ID: 35658 (18/35640) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (0/35667) rows successful, 0 ignored 
+
+Share Node ID: 35658 (0/35658) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (0/35667) rows successful, 0 ignored 
+
+Share Node ID: 35658 (0/35658) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (0/35667) rows successful, 0 ignored 
+
+Share Node ID: 35658 (0/35658) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (0/35667) rows successful, 0 ignored 
+
+Share Node ID: 35658 (0/35658) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (0/35667) rows successful, 0 ignored 
+
+Share Node ID: 35658 (0/35658) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35667 (0/35667) rows successful, 0 ignored 
+
+Share Node ID: 35658 (0/35658) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35666
+Node Property cells: 35666
+Property cells: 33327
+SHARE Node ID cells: 35666
+Level cells: 35666 (1 ignored)
+Parent cells: 35665
+Dummy Node Flag cells: 35666
+Misc Nodes check cells: 35666
+Orginal Node ID cells: 2339
+
+
+Share FLAT: 35973 (0/35973) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35579 (0/35579) rows successful, 0 ignored 
+
+Share Node ID: 35570 (0/35570) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35578
+Node Property cells: 35578
+Property cells: 33327
+SHARE Node ID cells: 35578
+Level cells: 35578 (1 ignored)
+Parent cells: 35577
+Dummy Node Flag cells: 35578
+Misc Nodes check cells: 35578
+Orginal Node ID cells: 2251
+
+
+Share FLAT: 35995 (0/35995) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35579 (0/35579) rows successful, 0 ignored 
+
+Share Node ID: 35570 (0/35570) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35578
+Node Property cells: 35578
+Property cells: 33327
+SHARE Node ID cells: 35578
+Level cells: 35578 (1 ignored)
+Parent cells: 35577
+Dummy Node Flag cells: 35578
+Misc Nodes check cells: 35578
+Orginal Node ID cells: 2251
+
+
+Share FLAT: 35995 (0/35995) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35579 (0/35579) rows successful, 0 ignored 
+
+Share Node ID: 35570 (0/35570) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35578
+Node Property cells: 35578
+Property cells: 33327
+SHARE Node ID cells: 35578
+Level cells: 35578 (1 ignored)
+Parent cells: 35577
+Dummy Node Flag cells: 35578
+Misc Nodes check cells: 35578
+Orginal Node ID cells: 2251
+
+
+Share FLAT: 35995 (0/35995) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35579 (0/35579) rows successful, 0 ignored 
+
+Share Node ID: 35570 (0/35570) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35578
+Node Property cells: 35578
+Property cells: 33327
+SHARE Node ID cells: 35578
+Level cells: 35578 (1 ignored)
+Parent cells: 35577
+Dummy Node Flag cells: 35578
+Misc Nodes check cells: 35578
+Orginal Node ID cells: 2251
+
+
+Share FLAT: 35995 (0/35995) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35579 (0/35579) rows successful, 0 ignored 
+
+Share Node ID: 35570 (0/35570) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35578
+Node Property cells: 35578
+Property cells: 33327
+SHARE Node ID cells: 35578
+Level cells: 35578 (1 ignored)
+Parent cells: 35577
+Dummy Node Flag cells: 35578
+Misc Nodes check cells: 35578
+Orginal Node ID cells: 2251
+
+
+Share FLAT: 35995 (0/35995) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Update Share Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+Share FLAT: 35579 (0/35579) rows successful, 0 ignored 
+
+Share Node ID: 35570 (0/35570) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
+Invalid name: 8
+Cannot change code for list's top level item: 1
+
+2 Line Item identifier(s) ("Check_Property?", "Original Node ID(Share Flat)") were not mapped and ignored
+Active Nodes cells: 35578
+Node Property cells: 35578
+Property cells: 33327
+SHARE Node ID cells: 35578
+Level cells: 35578 (1 ignored)
+Parent cells: 35577
+Dummy Node Flag cells: 35578
+Misc Nodes check cells: 35578
+Orginal Node ID cells: 2251
+
+
+Share FLAT: 35995 (0/35995) rows successful, 0 ignored 
+
+Share FLAT: 0 (0/0) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Update_SHARE_Sync/2-112000000003-Failures for Import 3"

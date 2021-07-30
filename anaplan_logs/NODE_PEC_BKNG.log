@@ -1,0 +1,18 @@
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NLG_NODE_PEC_BKNG.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_NODE_PEC_BKNG.csv' -import 'Node PEC Key from FF_NLG_NODE_PEC_BKNG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_PEC_BKNG_LIST.err.err' -import 'Node PEC Booking from FF_NLG_NODE_PEC_BKNG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_PEC_BKNG_MODULE.err.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_NODE_PEC_BKNG.csv" has been uploaded as FF_NLG_NODE_PEC_BKNG.csv.
+The operation was successful.
+Node PEC Key: 965298 (8762/956536) rows successful, 1273083 ignored 
+Another row has already been processed with this key: 1273083
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_PEC_BKNG_LIST.err.err"
+The operation was successful.
+Q4 cells: 2238381
+Q3 cells: 2238381
+Q2 cells: 2238381
+Q1 cells: 2238381
+PEC cells: 2238381
+Node ID cells: 2238381
+SFDC Forecast Q4 cells: 2238381
+
