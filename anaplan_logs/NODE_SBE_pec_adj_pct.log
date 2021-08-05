@@ -1,62 +1,11 @@
-20210729091203
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -action 'DELETE FMV NODE SBE ADJ PEC PCT ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/.err'
-No dump file is available.
-20210729091205
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -action 'DELETE WEBEX NODE SBE ADJ PEC PCT ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/.err'
-No dump file is available.
-20210729091206
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -action 'DELETE RB NODE SBE ADJ PEC PCT ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/.err'
-The operation was successful.
-
-8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NLG_SBE_RB_PCT.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_RB_PCT.csv' -import 'Node RB SBE PEC ID from FF_NLG_SBE_RB_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_PEC_ADJ_PCT_LIST.err.err' -import 'Node SBE PEC RB Percentage from FF_NLG_SBE_RB_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_pec_adj_MODULE.err.err'
-The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_RB_PCT.csv" has been uploaded as FF_NLG_SBE_RB_PCT.csv.
-The operation was successful.
-Node RB SBE PEC ID: 242717 (242717/0) rows successful, 0 ignored 
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_pec_adj_pct.log <==
 
 The operation was successful.
-1 Line Item identifier(s) ("ADJUSTMENT_TYPE") were not mapped and ignored
-NODE_ID cells: 242717
-PEC cells: 242717
-SUB_BUSINESS_ENTITY_DESCR cells: 242717
-Q1_SPLIT cells: 242717
-Q2_SPLIT cells: 242717
-Q3_SPLIT cells: 242717
-Q4_SPLIT cells: 242717
-
-8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NLG_SBE_WEBEX_PCT.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_WEBEX_PCT.csv' -import 'Node WebEx SBE PEC ID from FF_NLG_SBE_WEBEX_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_PEC_ADJ_PCT_LIST.err.err' -import 'Node SBE PEC Webex Percentage from FF_NLG_SBE_WEBEX_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_pec_adj_MODULE.err.err'
-The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_WEBEX_PCT.csv" has been uploaded as FF_NLG_SBE_WEBEX_PCT.csv.
-The operation was successful.
-Node WebEx SBE PEC ID: 26349 (0/26349) rows successful, 0 ignored 
-
-The operation was successful.
-NODE_ID cells: 26349
-PEC cells: 26349
-SUB_BUSINESS_ENTITY_DESCR cells: 26349
-Q1_SPLIT cells: 26349
-Q2_SPLIT cells: 26349
-Q3_SPLIT cells: 26349
-Q4_SPLIT cells: 26349
-
-8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NLG_SBE_FMV_PCT.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_FMV_PCT.csv' -import 'Node FMV SBE PEC ID from FF_NLG_SBE_FMV_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_BE_SBE_PEC_list.err.err' -import 'Node SBE PEC FMV Percentage from FF_NLG_SBE_FMV_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_pec_adj_MODULE.err.err'
-The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_FMV_PCT.csv" has been uploaded as FF_NLG_SBE_FMV_PCT.csv.
-The operation was successful.
-Node FMV SBE PEC ID: 210552 (0/210552) rows successful, 0 ignored 
-
-The operation was successful.
-NODE_ID cells: 210552
-PEC cells: 210552
-SUB_BUSINESS_ENTITY_DESCR cells: 210552
-Q1_SPLIT cells: 210552
-Q2_SPLIT cells: 210552
-Q3_SPLIT cells: 210552
-Q4_SPLIT cells: 210552
+NODE_ID cells: 236636
+PEC cells: 236636
+SUB_BUSINESS_ENTITY_DESCR cells: 236636
+Q1_SPLIT cells: 236636
+Q2_SPLIT cells: 236636
+Q3_SPLIT cells: 236636
+Q4_SPLIT cells: 236636
 

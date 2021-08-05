@@ -1,3 +1,4 @@
+import os
 import re
 from typing import Dict, List, Union
 
@@ -165,7 +166,6 @@ class Log_Parse(Regex):
             if curr_api_index > 0 and status_api_index == 1:
                 api_status_list.append(curr_api_name)
                 curr_api_index = 0
-                print(f'Bashobi...Did it come here   {curr_api_name}')
                 status_api_index = 0
                 self.model_names[
                     model_name_key] = curr_api_name
@@ -218,8 +218,7 @@ class Log_Parse(Regex):
         # workspace_token = line[e_workspace:s_model - 1]
         index_constructed_new = f'{model_name_counter}:{workspace_token_new}' \
                                 f'^{model_token_new}'
-        # print(f'New way    {index_constructed_new}')
-        # print(f' Workspace {workspace_token_new}     Model {model_token_new}')
+
         print(
             f'  Is it Process  {process_token_new}  ..or is it '
             f'Export '
@@ -229,6 +228,7 @@ class Log_Parse(Regex):
                                      or file_token_new or action_token_new \
                                      or import_token_new
         # print(self.model_names)
+        # print(index_constructed_new)  # self.model_names
         return index_constructed_new  # self.model_names
 
     def color_the_dict_output(self, log_parse_dict):
@@ -271,43 +271,39 @@ class Log_Parse(Regex):
 
 c_log_parse = Log_Parse(
 )
-# c_get_status = c_log_parse.constr_model_names_dict(lines)
-# c_get_status_colour = c_log_parse.color_the_dict_output(
+# Execute One File at a time
+# path_to_file: str = 'anaplan_logs/CENT_container.log'
+#
+# with open(file=path_to_file, mode='r') as f:
+#     lines = f.readlines()
+# f.close()
+# c_get_status_1 = c_log_parse.constr_model_names_dict(lines)
+# c_get_status_colour_1 = c_log_parse.color_the_dict_output(
 #     c_log_parse.model_names)
+# Execute One File at a time end
 
-path_to_file: str = 'anaplan_logs/xcat_import_export.log'
+path_to_file: str = 'anaplan_logs'
 # path_to_file: str = 'log_files/anp_user.txt'
 
-with open(file=path_to_file, mode='r') as f:
-    lines = f.readlines()
-f.close()
-c_get_status_1 = c_log_parse.constr_model_names_dict(lines)
-c_get_status_colour_1 = c_log_parse.color_the_dict_output(
-    c_log_parse.model_names)
+# import os
 
-# path_to_file: str = 'anaplan_logs'
-# # path_to_file: str = 'log_files/anp_user.txt'
-#
-# # import os
-#
-# subfiles = []
-# for dirpath, subdirs, files in os.walk(path_to_file):
-#     for x in files:
-#         if x.endswith(".log"):
-#             subfiles.append(os.path.join(dirpath, x))
-# c_log_parse = Log_Parse(
-# )
-#
-# for file in subfiles:
-#     with open(file=file, mode='r') as f:
-#         # while open(file=file, mode='r') as f:
-#         lines = f.readlines()
-#         # print(lines)
-#     f.close()
-#     print(file)
-#     #
-#     c_get_status = c_log_parse.constr_model_names_dict(lines)
-#     # c_get_status_colour = c_log_parse.color_the_dict_output(
-#     #     c_log_parse.model_names)
-#
+subfiles = []
+for dirpath, subdirs, files in os.walk(path_to_file):
+    for x in files:
+        if x.endswith(".log"):
+            subfiles.append(os.path.join(dirpath, x))
+
+for file in subfiles:
+    with open(file=file, mode='r') as f:
+        lines = f.readlines()
+    f.close()
+    print(f'{Colors.RED}'
+          f' LOG FILE BEING PROCESRED IS {file}'
+          f'{Colors.GREEN}')
+
+    #
+    c_get_status = c_log_parse.constr_model_names_dict(lines)
+    c_get_status_colour = c_log_parse.color_the_dict_output(
+        c_log_parse.model_names)
+
 # print(subfiles)

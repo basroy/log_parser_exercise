@@ -1,0 +1,10 @@
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Arch_p.log <==
+PARTIAL RUN 08/04/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Architecture Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_ARCH_DASHBOARD_p.csv
+The operation was successful.
+
+The server file Architecture Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_ARCH_DASHBOARD_p.csv
+PARTIAL RUN 08/04/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Architecture Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_ARCH_DASHBOARD_p.csv

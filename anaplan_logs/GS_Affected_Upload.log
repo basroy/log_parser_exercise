@@ -1,7 +1,4 @@
-20210729003012
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete GoalSheet IDCount' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/Goalsheet_count.err'
-The operation was successful.
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/GS_Affected_Upload.log <==
 
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -file ff_anaplan_nlg_node_gs_count.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_anaplan_nlg_node_gs_count.csv' -import 'Update Goalsheets ID' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Goalsheet_count_list.err' -import 'Upload Goalsheets Affected' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/GS_Affected_Upload.err'

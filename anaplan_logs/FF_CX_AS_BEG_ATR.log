@@ -1,42 +1,11 @@
-20210728231553
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete AS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/as_atr_key_delete.err'
-The operation was successful.
-
-8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'FF_CX_AS_BEG_ATR.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_BEG_ATR.csv' -import 'AS_ATR_KEY from FF_CX_AS_BEG_ATR.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/as_atr_list.err' -import 'AS_ATR from FF_CX_AS_BEG_ATR.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/as_atr_module.err'
-The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_BEG_ATR.csv" has been uploaded as FF_CX_AS_BEG_ATR.csv.
-The operation was successful.
-AS_ATR_KEY: 20230 (20230/0) rows successful, 0 ignored 
-
-The operation was successful.
-Service_Contract_End_Year cells: 20230
-Service_Contract_End_Qtr cells: 20230
-SMR_Prev_Contract_Line_End_Qtr cells: 20230
-SMR_Next_Contract_Create_Fiscal_Qtr cells: 20230
-Booked_Qtr cells: 20230
-Future_Sales_Level_1_Name cells: 20230
-Future_Sales_Level_2_Name cells: 20230
-Future_Sales_Level_3_Name cells: 20230
-Future_Sales_Level_4_Name cells: 20230
-Future_Sales_Level_5_Name cells: 20230
-Future_Sales_Level_6_Name cells: 20230
-Future_Share_Node_ID cells: 20230
-Bookings_Status cells: 20230
-Renewal_Opportunity_Status cells: 20230
-Sales_Motion_Type cells: 20230
-Total_Bookings_Amount cells: 20230
-Bookings_Amount_Annual cells: 20230
-Total_Opportunity_Amount cells: 20230
-Opportunity_Annual cells: 20230
-Future_SAV_Name cells: 20230
-Future_SAV_ID cells: 20230
-Service_Brand_Code cells: 20079
-Refresh_Date cells: 20230
-Partner_BE_GEO_ID cells: 20230
-ANNUALIZED_BOOKINGS_AMOUNT cells: 20230
-OPPORTUNITY_ANNUALIZED cells: 20230
-CX_PRODUCT_PORTFOLIO cells: 20230
-CX_PRODUCT_CATEGORY cells: 20230
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_BEG_ATR.log <==
+Future_SAV_Name cells: 20439
+Future_SAV_ID cells: 20439
+Service_Brand_Code cells: 20285
+Refresh_Date cells: 20439
+Partner_BE_GEO_ID cells: 20439
+ANNUALIZED_BOOKINGS_AMOUNT cells: 20439
+OPPORTUNITY_ANNUALIZED cells: 20439
+CX_PRODUCT_PORTFOLIO cells: 20439
+CX_PRODUCT_CATEGORY cells: 20439
 

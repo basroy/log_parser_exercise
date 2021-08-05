@@ -1,0 +1,11 @@
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh.log <==
+Sub Segment cells: 71438
+Segment Name cells: 71438
+Account Type cells: 167214
+SAV Name cells: 167214
+SAV ID cells: 167214
+
+SAV FLAT: 167214 (3/167211) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"

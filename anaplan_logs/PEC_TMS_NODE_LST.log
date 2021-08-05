@@ -1,7 +1,8 @@
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/PEC_TMS_NODE_LST.log <==
 8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_PEC_TMS_NODE.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_PEC_TMS_NODE.csv' -import 'AT Level 3 Key from FF_PEC_TMS_NODE.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/PEC_TMS_NODE_LST.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_PEC_TMS_NODE.csv" has been uploaded as FF_PEC_TMS_NODE.csv.
 The operation was successful.
-AT Level 3 Key: 306 (306/0) rows successful, 5491 ignored 
+AT Level 3 Key: 298 (298/0) rows successful, 5445 ignored 
 

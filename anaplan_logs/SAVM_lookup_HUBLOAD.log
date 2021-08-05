@@ -1,12 +1,4 @@
-20210728150636
-cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -action 'Del SAVM Lookup' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/SAVM_lookup_delete.err'
-The operation was successful.
-
-cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -file FF_ANAPLAN_SAVM_LOOKUP.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_ANAPLAN_SAVM_LOOKUP.csv' -import 'SAVM_LOOKUP_KEY from FF_ANAPLAN_SAVM_LOOKUP.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/SAVM_lookup_list.err' -import 'SAVM Lookup from FF_ANAPLAN_SAVM_LOOKUP.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/SAVM_lookup_module.err'
-The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_ANAPLAN_SAVM_LOOKUP.csv" has been uploaded as FF_ANAPLAN_SAVM_LOOKUP.csv.
-The operation was successful.
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/SAVM_lookup_HUBLOAD.log <==
 SAVM_LOOKUP_KEY: 167 (167/0) rows successful, 0 ignored 
 
 The operation was successful.

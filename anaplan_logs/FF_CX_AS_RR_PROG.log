@@ -1,31 +1,11 @@
-20210728231630
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete AS_RRP data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/as_rrp_key_delete.err'
-The operation was successful.
-
-8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'FF_CX_AS_RR_PROG.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_RR_PROG.csv' -import 'AS_RR_KEY from FF_CX_AS_RR_PROG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/as_rrp_list.err' -import 'AS_RRP from FF_CX_AS_RR_PROG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/as_rrp_module.err'
-The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_RR_PROG.csv" has been uploaded as FF_CX_AS_RR_PROG.csv.
-The operation was successful.
-AS_RR_KEY: 21121 (21121/0) rows successful, 0 ignored 
-
-The operation was successful.
-REFRESH_DATE cells: 21121
-IN_QTR_DNR cells: 21121
-FUTURE_SHARE_NODE_ID cells: 21121
-FUTURE_SALES_LEVEL_6 cells: 21121
-FUTURE_SALES_LEVEL_5 cells: 21121
-FUTURE_SALES_LEVEL_4 cells: 21121
-FUTURE_SALES_LEVEL_3 cells: 21121
-FUTURE_SALES_LEVEL_2 cells: 21121
-FUTURE_SALES_LEVEL_1 cells: 21121
-CONTRACT_END_QUARTER cells: 21121
--2 Qtr Nmr Annualized cells: 21121
--1 Qtr Nmr Annualized cells: 21121
-In Qtr Nmr Annualized cells: 21121
-+1 Qtr Nmr Annualized cells: 21121
-+2 Qtr Nmr Annualized cells: 21121
-+3 Qtr Nmr Annualized cells: 21121
-+4 Qtr Nmr Annualized cells: 21121
+==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_RR_PROG.log <==
+FUTURE_SALES_LEVEL_1 cells: 21044
+CONTRACT_END_QUARTER cells: 21044
+-2 Qtr Nmr Annualized cells: 21044
+-1 Qtr Nmr Annualized cells: 21044
+In Qtr Nmr Annualized cells: 21044
++1 Qtr Nmr Annualized cells: 21044
++2 Qtr Nmr Annualized cells: 21044
++3 Qtr Nmr Annualized cells: 21044
++4 Qtr Nmr Annualized cells: 21044
 
