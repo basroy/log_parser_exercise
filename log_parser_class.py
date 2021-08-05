@@ -268,6 +268,15 @@ class Log_Parse(Regex):
                 else:
                     pass
 
+    def file_write_dict_output(self, log_parse_dict):
+        path_to_out_file: str = 'anaplan_logs/api_status_log.txt'
+        with open(file=path_to_out_file, mode='a') as f:
+            for key, value in log_parse_dict.items():
+                # print(key, value)
+                value += '\n'
+                f.write(value)
+        f.close()
+
 
 c_log_parse = Log_Parse(
 )
@@ -304,6 +313,8 @@ for file in subfiles:
     #
     c_get_status = c_log_parse.constr_model_names_dict(lines)
     c_get_status_colour = c_log_parse.color_the_dict_output(
+        c_log_parse.model_names)
+    c_write_status = c_log_parse.file_write_dict_output(
         c_log_parse.model_names)
 
 # print(subfiles)
