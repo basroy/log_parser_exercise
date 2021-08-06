@@ -1,4 +1,993 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh.log <==
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180298 (63/180235) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180301
+Coverage GB ID cells: 180301
+Coverage Level cells: 180301
+Owner ID cells: 61683
+Vertical Sub cells: 100971
+Vertical Top cells: 126686
+Sub Segment cells: 71382
+Segment Name cells: 71382
+Account Type cells: 180301
+SAV Name cells: 180301
+SAV ID cells: 180301
+
+SAV FLAT: 180301 (63/180238) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180311 (37/180274) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180314
+Coverage GB ID cells: 180314
+Coverage Level cells: 180314
+Owner ID cells: 61712
+Vertical Sub cells: 100964
+Vertical Top cells: 126677
+Sub Segment cells: 71384
+Segment Name cells: 71384
+Account Type cells: 180314
+SAV Name cells: 180314
+SAV ID cells: 180314
+
+SAV FLAT: 180314 (37/180277) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180376 (90/180286) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180379
+Coverage GB ID cells: 180379
+Coverage Level cells: 180379
+Owner ID cells: 61633
+Vertical Sub cells: 101622
+Vertical Top cells: 127356
+Sub Segment cells: 71388
+Segment Name cells: 71388
+Account Type cells: 180379
+SAV Name cells: 180379
+SAV ID cells: 180379
+
+SAV FLAT: 180379 (90/180289) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180405 (41/180364) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180408
+Coverage GB ID cells: 180340
+Coverage Level cells: 180408
+Owner ID cells: 61399
+Vertical Sub cells: 101817
+Vertical Top cells: 127550
+Sub Segment cells: 71417
+Segment Name cells: 71417
+Account Type cells: 180408
+SAV Name cells: 180408
+SAV ID cells: 180408
+
+SAV FLAT: 180408 (41/180367) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180695 (356/180339) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180698
+Coverage GB ID cells: 180627
+Coverage Level cells: 180649
+Owner ID cells: 61416
+Vertical Sub cells: 101786
+Vertical Top cells: 127510
+Sub Segment cells: 71410
+Segment Name cells: 71410
+Account Type cells: 180698
+SAV Name cells: 180698
+SAV ID cells: 180698
+
+SAV FLAT: 180698 (356/180342) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180686 (5/180681) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180689
+Coverage GB ID cells: 180634
+Coverage Level cells: 180634
+Owner ID cells: 61318
+Vertical Sub cells: 101776
+Vertical Top cells: 127500
+Sub Segment cells: 71403
+Segment Name cells: 71403
+Account Type cells: 180689
+SAV Name cells: 180689
+SAV ID cells: 180689
+
+SAV FLAT: 180689 (5/180684) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180399 (24/180375) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180402
+Coverage GB ID cells: 180393
+Coverage Level cells: 180402
+Owner ID cells: 61239
+Vertical Sub cells: 101636
+Vertical Top cells: 127355
+Sub Segment cells: 71406
+Segment Name cells: 71406
+Account Type cells: 180402
+SAV Name cells: 180402
+SAV ID cells: 180402
+
+SAV FLAT: 180402 (24/180378) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180393 (10/180383) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180396
+Coverage GB ID cells: 180396
+Coverage Level cells: 180396
+Owner ID cells: 61160
+Vertical Sub cells: 101635
+Vertical Top cells: 127346
+Sub Segment cells: 71407
+Segment Name cells: 71407
+Account Type cells: 180396
+SAV Name cells: 180396
+SAV ID cells: 180396
+
+SAV FLAT: 180396 (10/180386) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180404 (27/180377) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180407
+Coverage GB ID cells: 180404
+Coverage Level cells: 180405
+Owner ID cells: 61115
+Vertical Sub cells: 101653
+Vertical Top cells: 127361
+Sub Segment cells: 71425
+Segment Name cells: 71425
+Account Type cells: 180407
+SAV Name cells: 180407
+SAV ID cells: 180407
+
+SAV FLAT: 180407 (27/180380) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180490 (94/180396) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180493
+Coverage GB ID cells: 180493
+Coverage Level cells: 180493
+Owner ID cells: 61137
+Vertical Sub cells: 101662
+Vertical Top cells: 127370
+Sub Segment cells: 71439
+Segment Name cells: 71439
+Account Type cells: 180493
+SAV Name cells: 180493
+SAV ID cells: 180493
+
+SAV FLAT: 180493 (94/180399) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180504 (19/180485) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180507
+Coverage GB ID cells: 180507
+Coverage Level cells: 180507
+Owner ID cells: 61118
+Vertical Sub cells: 101676
+Vertical Top cells: 127384
+Sub Segment cells: 71453
+Segment Name cells: 71453
+Account Type cells: 180507
+SAV Name cells: 180507
+SAV ID cells: 180507
+
+SAV FLAT: 180507 (19/180488) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180509 (19/180490) rows successful, 3 (0/3) rows has warnings, 0 ignored 
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180512
+Coverage GB ID cells: 180512
+Coverage Level cells: 180512
+Owner ID cells: 61112
+Vertical Sub cells: 101668
+Vertical Top cells: 127376
+Sub Segment cells: 71453
+Segment Name cells: 71453
+Account Type cells: 180512
+SAV Name cells: 180512
+SAV ID cells: 180512
+
+SAV FLAT: 180512 (19/180493) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180533 (34/180499) rows successful, 3 (0/3) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+Invalid parent: 3
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180537
+Coverage GB ID cells: 180537
+Coverage Level cells: 180537
+Owner ID cells: 61206
+Vertical Sub cells: 101687
+Vertical Top cells: 127395
+Sub Segment cells: 71473
+Segment Name cells: 71473
+Account Type cells: 180537
+SAV Name cells: 180537
+SAV ID cells: 180537
+
+SAV FLAT: 180537 (34/180503) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180604 (76/180528) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180605
+Coverage GB ID cells: 180605
+Coverage Level cells: 180605
+Owner ID cells: 61200
+Vertical Sub cells: 101698
+Vertical Top cells: 127406
+Sub Segment cells: 71488
+Segment Name cells: 71488
+Account Type cells: 180605
+SAV Name cells: 180605
+SAV ID cells: 180605
+
+SAV FLAT: 180605 (76/180529) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180657 (66/180591) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180658
+Coverage GB ID cells: 180658
+Coverage Level cells: 180658
+Owner ID cells: 61215
+Vertical Sub cells: 101706
+Vertical Top cells: 127414
+Sub Segment cells: 71496
+Segment Name cells: 71496
+Account Type cells: 180658
+SAV Name cells: 180658
+SAV ID cells: 180658
+
+SAV FLAT: 180658 (66/180592) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180656 (57/180599) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180656
+Coverage GB ID cells: 180656
+Coverage Level cells: 180656
+Owner ID cells: 61103
+Vertical Sub cells: 101695
+Vertical Top cells: 127394
+Sub Segment cells: 71503
+Segment Name cells: 71503
+Account Type cells: 180656
+SAV Name cells: 180656
+SAV ID cells: 180656
+
+SAV FLAT: 180656 (57/180599) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180712 (79/180633) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180712
+Coverage GB ID cells: 180712
+Coverage Level cells: 180712
+Owner ID cells: 61029
+Vertical Sub cells: 101713
+Vertical Top cells: 127411
+Sub Segment cells: 71523
+Segment Name cells: 71523
+Account Type cells: 180712
+SAV Name cells: 180712
+SAV ID cells: 180712
+
+SAV FLAT: 180712 (79/180633) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180721 (30/180691) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180721
+Coverage GB ID cells: 180721
+Coverage Level cells: 180721
+Owner ID cells: 61046
+Vertical Sub cells: 101750
+Vertical Top cells: 127442
+Sub Segment cells: 71563
+Segment Name cells: 71563
+Account Type cells: 180721
+SAV Name cells: 180721
+SAV ID cells: 180721
+
+SAV FLAT: 180721 (30/180691) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180740 (27/180713) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180740
+Coverage GB ID cells: 180740
+Coverage Level cells: 180740
+Owner ID cells: 60656
+Vertical Sub cells: 101750
+Vertical Top cells: 127442
+Sub Segment cells: 71563
+Segment Name cells: 71563
+Account Type cells: 180740
+SAV Name cells: 180740
+SAV ID cells: 180740
+
+SAV FLAT: 180740 (27/180713) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180755 (19/180736) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180755
+Coverage GB ID cells: 180755
+Coverage Level cells: 180755
+Owner ID cells: 60676
+Vertical Sub cells: 101753
+Vertical Top cells: 127445
+Sub Segment cells: 71564
+Segment Name cells: 71564
+Account Type cells: 180755
+SAV Name cells: 180755
+SAV ID cells: 180755
+
+SAV FLAT: 180755 (19/180736) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180777 (41/180736) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180777
+Coverage GB ID cells: 180777
+Coverage Level cells: 180777
+Owner ID cells: 61026
+Vertical Sub cells: 101751
+Vertical Top cells: 127443
+Sub Segment cells: 71562
+Segment Name cells: 71562
+Account Type cells: 180777
+SAV Name cells: 180777
+SAV ID cells: 180777
+
+SAV FLAT: 180777 (41/180736) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180822 (66/180756) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180822
+Coverage GB ID cells: 180822
+Coverage Level cells: 180822
+Owner ID cells: 60993
+Vertical Sub cells: 101743
+Vertical Top cells: 127434
+Sub Segment cells: 71558
+Segment Name cells: 71558
+Account Type cells: 180822
+SAV Name cells: 180822
+SAV ID cells: 180822
+
+SAV FLAT: 180822 (66/180756) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180841 (32/180809) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180841
+Coverage GB ID cells: 180841
+Coverage Level cells: 180841
+Owner ID cells: 60954
+Vertical Sub cells: 101760
+Vertical Top cells: 127451
+Sub Segment cells: 71576
+Segment Name cells: 71576
+Account Type cells: 180841
+SAV Name cells: 180841
+SAV ID cells: 180841
+
+SAV FLAT: 180841 (32/180809) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180812 (21/180791) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180812
+Coverage GB ID cells: 180812
+Coverage Level cells: 180812
+Owner ID cells: 60912
+Vertical Sub cells: 101752
+Vertical Top cells: 127441
+Sub Segment cells: 71579
+Segment Name cells: 71579
+Account Type cells: 180812
+SAV Name cells: 180812
+SAV ID cells: 180812
+
+SAV FLAT: 180812 (21/180791) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180923 (113/180810) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180923
+Coverage GB ID cells: 180923
+Coverage Level cells: 180923
+Owner ID cells: 60859
+Vertical Sub cells: 101763
+Vertical Top cells: 127452
+Sub Segment cells: 71590
+Segment Name cells: 71590
+Account Type cells: 180923
+SAV Name cells: 180923
+SAV ID cells: 180923
+
+SAV FLAT: 180923 (113/180810) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180962 (47/180915) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180962
+Coverage GB ID cells: 180962
+Coverage Level cells: 180962
+Owner ID cells: 60974
+Vertical Sub cells: 101759
+Vertical Top cells: 127447
+Sub Segment cells: 71586
+Segment Name cells: 71586
+Account Type cells: 180962
+SAV Name cells: 180962
+SAV ID cells: 180962
+
+SAV FLAT: 180962 (47/180915) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 180970 (17/180953) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 180970
+Coverage GB ID cells: 180970
+Coverage Level cells: 180970
+Owner ID cells: 60973
+Vertical Sub cells: 101755
+Vertical Top cells: 127443
+Sub Segment cells: 71582
+Segment Name cells: 71582
+Account Type cells: 180970
+SAV Name cells: 180970
+SAV ID cells: 180970
+
+SAV FLAT: 180970 (17/180953) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181029 (66/180963) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181029
+Coverage GB ID cells: 181029
+Coverage Level cells: 181029
+Owner ID cells: 60951
+Vertical Sub cells: 101759
+Vertical Top cells: 127447
+Sub Segment cells: 71587
+Segment Name cells: 71587
+Account Type cells: 181029
+SAV Name cells: 181029
+SAV ID cells: 181029
+
+SAV FLAT: 181029 (66/180963) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181026 (11/181015) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181026
+Coverage GB ID cells: 181026
+Coverage Level cells: 181026
+Owner ID cells: 60909
+Vertical Sub cells: 101752
+Vertical Top cells: 127440
+Sub Segment cells: 71580
+Segment Name cells: 71580
+Account Type cells: 181026
+SAV Name cells: 181026
+SAV ID cells: 181026
+
+SAV FLAT: 181026 (11/181015) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181046 (28/181018) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181046
+Coverage GB ID cells: 181046
+Coverage Level cells: 181046
+Owner ID cells: 60918
+Vertical Sub cells: 101752
+Vertical Top cells: 127440
+Sub Segment cells: 71580
+Segment Name cells: 71580
+Account Type cells: 181046
+SAV Name cells: 181046
+SAV ID cells: 181046
+
+SAV FLAT: 181046 (28/181018) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181094 (49/181045) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181094
+Coverage GB ID cells: 181094
+Coverage Level cells: 181094
+Owner ID cells: 60898
+Vertical Sub cells: 101753
+Vertical Top cells: 127441
+Sub Segment cells: 71582
+Segment Name cells: 71582
+Account Type cells: 181094
+SAV Name cells: 181094
+SAV ID cells: 181094
+
+SAV FLAT: 181094 (49/181045) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181079 (41/181038) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181079
+Coverage GB ID cells: 181079
+Coverage Level cells: 181079
+Owner ID cells: 60778
+Vertical Sub cells: 101726
+Vertical Top cells: 127413
+Sub Segment cells: 71580
+Segment Name cells: 71580
+Account Type cells: 181079
+SAV Name cells: 181079
+SAV ID cells: 181079
+
+SAV FLAT: 181079 (41/181038) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181116 (39/181077) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181116
+Coverage GB ID cells: 181116
+Coverage Level cells: 181116
+Owner ID cells: 60737
+Vertical Sub cells: 101728
+Vertical Top cells: 127415
+Sub Segment cells: 71583
+Segment Name cells: 71583
+Account Type cells: 181116
+SAV Name cells: 181116
+SAV ID cells: 181116
+
+SAV FLAT: 181116 (39/181077) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181131 (21/181110) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181131
+Coverage GB ID cells: 181131
+Coverage Level cells: 181131
+Owner ID cells: 60810
+Vertical Sub cells: 101730
+Vertical Top cells: 127417
+Sub Segment cells: 71588
+Segment Name cells: 71588
+Account Type cells: 181131
+SAV Name cells: 181131
+SAV ID cells: 181131
+
+SAV FLAT: 181131 (21/181110) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181200 (73/181127) rows successful, 0 ignored 
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181200
+Coverage GB ID cells: 181200
+Coverage Level cells: 181200
+Owner ID cells: 60865
+Vertical Sub cells: 101731
+Vertical Top cells: 127418
+Sub Segment cells: 71589
+Segment Name cells: 71589
+Account Type cells: 181200
+SAV Name cells: 181200
+SAV ID cells: 181200
+
+SAV FLAT: 181200 (73/181127) rows successful, 0 ignored 
+
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181205 (11/181194) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181206
+Coverage GB ID cells: 181206
+Coverage Level cells: 181206
+Owner ID cells: 60909
+Vertical Sub cells: 101834
+Vertical Top cells: 127499
+Sub Segment cells: 71591
+Segment Name cells: 71591
+Account Type cells: 181206
+SAV Name cells: 181206
+SAV ID cells: 181206
+
+SAV FLAT: 181206 (11/181195) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181226 (25/181201) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181227
+Coverage GB ID cells: 181227
+Coverage Level cells: 181227
+Owner ID cells: 60947
+Vertical Sub cells: 101837
+Vertical Top cells: 127502
+Sub Segment cells: 71593
+Segment Name cells: 71593
+Account Type cells: 181227
+SAV Name cells: 181227
+SAV ID cells: 181227
+
+SAV FLAT: 181227 (25/181202) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 181322 (98/181224) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 181323
+Coverage GB ID cells: 181323
+Coverage Level cells: 181323
+Owner ID cells: 60958
+Vertical Sub cells: 101844
+Vertical Top cells: 127509
+Sub Segment cells: 71600
+Segment Name cells: 71600
+Account Type cells: 181323
+SAV Name cells: 181323
+SAV ID cells: 181323
+
+SAV FLAT: 181323 (98/181225) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 151908 (3243/148665) rows successful, 15344 (856/14488) rows has warnings, 2 failed, 0 ignored
+Invalid name: 2
+Invalid parent: 15344
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 167254
+Coverage GB ID cells: 167251
+Coverage Level cells: 167254
+Owner ID cells: 59810
+Vertical Sub cells: 99456
+Vertical Top cells: 124213
+Sub Segment cells: 71456
+Segment Name cells: 71456
+Account Type cells: 167254
+SAV Name cells: 167254
+SAV ID cells: 167254
+
+SAV FLAT: 167254 (4099/163155) rows successful, 0 ignored 
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh/0-112000000858-Failures for Import 858"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'SCLASS 2 : SAV Refresh' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Sclass_sav_refresh
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+SAV L7: 151867 (2/151865) rows successful, 15345 (1/15344) rows has warnings, 2 failed, 0 ignored
+Invalid name: 2
+Invalid parent: 15345
+
+3 Line Item identifier(s) ("SAV Name and ID Combo", "Invalid SAV?", "TYPE") were not mapped and ignored
+TEMPLATE cells: 167214
+Coverage GB ID cells: 167211
+Coverage Level cells: 167214
+Owner ID cells: 59747
+Vertical Sub cells: 99425
+Vertical Top cells: 124182
 Sub Segment cells: 71438
 Segment Name cells: 71438
 Account Type cells: 167214

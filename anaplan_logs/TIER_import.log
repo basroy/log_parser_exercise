@@ -1,4 +1,993 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/TIER_import.log <==
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh  -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -certificate '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3/'certificate-153811101942478152865011036548523946096.cer -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:coo1dud3S# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cloudanp9F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cloudanp9F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8315 (777 failed)
+Item not located in Share Node ID list: 777
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8159 (933 failed)
+Item not located in Share Node ID list: 933
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation failed.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 0 (9092 failed)
+Import into Share Nodes module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Share Node ID list: 9092
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation failed.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 0 (9092 failed)
+Import into Share Nodes module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Share Node ID list: 9092
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation failed.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 0 (9092 failed)
+Import into Share Nodes module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in Share Node ID list: 9092
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8128 (964 failed)
+Item not located in Share Node ID list: 964
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8128 (964 failed)
+Item not located in Share Node ID list: 964
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8128 (964 failed)
+Item not located in Share Node ID list: 964
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8128 (964 failed)
+Item not located in Share Node ID list: 964
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 8088 (1004 failed)
+Item not located in Share Node ID list: 1004
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
+The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
+No dump file is available.
+The operation was successful.
+2 Line Item identifier(s) ("NODE_NAME", "STRUCTURE_NODE_NAME") were not mapped and ignored
+TIER cells: 7933 (1159 failed)
+Item not located in Share Node ID list: 1159
+
+Dump file written to "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err"
 cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -file TIER_Segments.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv' -import 'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tier_list.err'
 The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/TIER_Segments.csv" has been uploaded as TIER_Segments.csv.
