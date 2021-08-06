@@ -1,4 +1,3 @@
-import os
 import re
 from typing import Dict, List, Union
 
@@ -16,6 +15,13 @@ class Operation:
     DUMPFILE_NOT_AVAILABLE: str = 'No dump file is available.'
     FAILED: str = 'The operation has failed.'
     UNREACHABLE: str = 'Anaplan Unreachable'
+
+    EXPORT_model: str = ' -export '
+    IMPORT_model: str = ' -import '
+    DEBUG_model: str = ' -debug -process '
+    FILE_cp: str = ' -file '
+    ACTION_model: str = ' -action '
+    CERT_model: str = ' -certificate '
 
 
 class Colors:
@@ -57,11 +63,11 @@ class ANP:
 
 class Regex:
     regex_workspace = r'-workspace (.+) -model'
-    regex_model_1 = r'-model (.+) -debug'
+    regex_model_1 = r'-model (.+) -debug -process'
     regex_model_2 = r'-model (.+) -action'
     regex_model_3 = r'-model (.+) -certificate'
     regex_model_4 = r'-model (.+) -file'
-    regex_model_5 = r'-model (.+) -import'
+    # regex_model_5 = r'-model (.+) -import'
     regex_model_6 = r'-model (.+) -export'
 
     regex_process = r'-process (.+)-execute'
@@ -125,24 +131,25 @@ class Log_Parse(Regex):
                 # breakpoint()
                 curr_api_index = index
                 status_api_index = 0
-                if curr_api_name[-2:] == ' ' or curr_api_name[-2:] == '**':
+                # if curr_api_name[-2:] == ' ' or curr_api_name[-2:] == '**':
+                if curr_api_name[-3:] == "**":
 
                     # curr_api_name = self.model_names[model_name_key]
                     curr_api_name: Union[str, None] = self.model_names.get(
                         model_name_key)
-                    print(f'Bashobi curr_api_name {curr_api_name}')
                     if curr_api_name == None:
                         curr_api_name = 'Model or Workspace not mapped '
                     curr_api_name += '    Anaplan Unreachable'
-                    print(f'Bashobi curr_api_name {curr_api_name}')
+                    print(f'Bashobi curr_api_name {curr_api_name[-3:]}')
+                    # print(f'Bashobi curr_api_name {curr_api_name}')
                     # api_status_list.append(curr_api_name)
 
                     self.model_names[model_name_key] = curr_api_name
 
             # print(f' Length of key name {model_name_key}')
-            if (is_operation_fail or is_operation_unavail or \
+            if (is_operation_fail or is_operation_unavail or
                     is_operation_success):
-                if len(model_name_key) > 1 and (model_name_key != 'Unknown ' \
+                if len(model_name_key) > 1 and (model_name_key != 'Unknown '
                                                                   'Model Name'):
                     status_api_index = 1
                     curr_api_name = self.model_names[
@@ -150,21 +157,20 @@ class Log_Parse(Regex):
 
             if is_operation_success:
                 curr_api_name += f'    {Operation.SUCCESS}'
-
-            if is_operation_fail:
+            elif is_operation_fail:
                 curr_api_name += f'    {Operation.FAILED}'
-            if is_operation_unavail:
+            elif is_operation_unavail:
                 curr_api_name += f'    {Operation.DUMPFILE_NOT_AVAILABLE}'
+            else:
+                curr_api_name += f'   Anaplan Unreachable'
 
             # The API Line has no follow-up lines which have Operation Status. So,
             # only append ** at the end.
             if curr_api_index > 0 and status_api_index == 0:
                 curr_api_name += '**'
-            # api_status_list.append(curr_api_name)
 
             # The api Line has a Operation Status. Add it to the list.
             if curr_api_index > 0 and status_api_index == 1:
-                api_status_list.append(curr_api_name)
                 curr_api_index = 0
                 status_api_index = 0
                 self.model_names[
@@ -179,35 +185,122 @@ class Log_Parse(Regex):
             line,
             self.regex_workspace)
 
-        model_token_new: Union[str, None] = self.xtract_with_regex(
-            line,
-            self.regex_model_1) or self.xtract_with_regex(
-            line,
-            self.regex_model_2) or self.xtract_with_regex(
-            line,
-            self.regex_model_3) or self.xtract_with_regex(
-            line,
-            self.regex_model_4) or self.xtract_with_regex(
-            line,
-            self.regex_model_5) or self.xtract_with_regex(
-            line,
-            self.regex_model_6)
+        model_token_new: str = self.regex_model_1
+        token = None
 
-        process_token_new: Union[str, None] = self.xtract_with_regex(
-            line,
-            self.regex_process)
-        export_token_new: Union[str, None] = self.xtract_with_regex(
-            line,
-            self.regex_export)
-        file_token_new: Union[str, None] = self.xtract_with_regex(
-            line,
-            self.regex_file)
-        action_token_new: Union[str, None] = self.xtract_with_regex(
-            line,
-            self.regex_action)
-        import_token_new: Union[str, None] = self.xtract_with_regex(
-            line,
-            self.regex_import)
+        if Operation.EXPORT_model in line:
+            model_token_new: Union[str, None] = (
+                self.xtract_with_regex(line,
+                                       self.regex_model_6
+                                       )
+            )
+            token: str = (
+                self.xtract_with_regex(
+                    line,
+                    self.regex_export
+                )
+            )
+            print(' Came here for EXPORT')
+            pass
+        # elif Operation.IMPORT_model in line:
+        #     model_token_new: Union[str, None] = (
+        #         self.xtract_with_regex(line,
+        #                                self.regex_model_5
+        #                                )
+        #     )
+        #     token: Union[str, None] = (
+        #         self.xtract_with_regex(
+        #             line,
+        #             self.regex_import
+        #         )
+        #     )
+        #
+        #     print(' Came here for IMPORT')
+        #     pass
+        elif Operation.FILE_cp in line:
+            model_token_new: Union[str, None] = (
+                self.xtract_with_regex(line,
+                                       self.regex_model_4
+                                       )
+            )
+            if Operation.IMPORT_model in line:
+                token: Union[str, None] = (
+                    self.xtract_with_regex(
+                        line,
+                        self.regex_import
+                    )
+                )
+            else:
+                token: Union[str, None] = (
+                    self.xtract_with_regex(
+                        line,
+                        self.regex_file
+                    )
+                )
+
+            print(' Came here for FILE')
+            pass
+        elif Operation.CERT_model in line:
+            model_token_new: Union[str, None] = (
+                self.xtract_with_regex(line,
+                                       self.regex_model_3
+                                       )
+            )
+
+            print(' Came here for CERT')
+        elif Operation.ACTION_model in line:
+            model_token_new: Union[str, None] = (
+                self.xtract_with_regex(line,
+                                       self.regex_model_2
+                                       )
+            )
+            token: Union[str, None] = (
+                self.xtract_with_regex(
+                    line,
+                    self.regex_action
+                )
+            )
+
+            print(' Came here for ACTION')
+
+        elif Operation.DEBUG_model in line:
+            model_token_new: Union[str, None] = (
+                self.xtract_with_regex(line,
+                                       self.regex_model_1
+                                       )
+            )
+            token: Union[str, None] = (
+                self.xtract_with_regex(
+                    line,
+                    self.regex_process
+                )
+            )
+
+            print(' Came here for DEBUG')
+        index_constructed_new = f'{model_name_counter}:{workspace_token_new}' \
+                                f'^{model_token_new}'
+
+        if token:
+            self.model_names[index_constructed_new] = token
+
+        else:
+            self.model_names[index_constructed_new] = 'Incorrect connector ' \
+                                                      'string to api'
+
+        #
+        # model_token_new: Union[str, None] = self.xtract_with_regex(
+        #     line,
+        #     self.regex_model_1) or self.xtract_with_regex(
+        #     line,
+        #     self.regex_model_2) or self.xtract_with_regex(
+        #     line,
+        #     self.regex_model_3) or self.xtract_with_regex(
+        #     line,
+        #     self.regex_model_4) or self.xtract_with_regex(
+        #     line,
+        #     self.regex_model_5) or self.xtract_with_regex(
+        #     line,
+        #     self.regex_model_6)
 
         # print(process_token)
         # workspace = self.xtract_with_regex(line, Regex.regex_workspace)
@@ -216,105 +309,113 @@ class Log_Parse(Regex):
         # e_workspace = workspace.end()
         #
         # workspace_token = line[e_workspace:s_model - 1]
-        index_constructed_new = f'{model_name_counter}:{workspace_token_new}' \
-                                f'^{model_token_new}'
 
+        # print(
+        #     f'  Is it Process  {process_token_new}  ..or is it '
+        #     f'Export '
+        #     f'{export_token_new} .. or is it File ')
+        # self.model_names[
+        #     index_constructed_new] = process_token_new or export_token_new \
+        #                              or file_token_new or action_token_new \
+        #                              or import_token_new
+        print(f' ModelNames Dictionary is ready {self.model_names}')
         print(
-            f'  Is it Process  {process_token_new}  ..or is it '
-            f'Export '
-            f'{export_token_new} .. or is it File ')
-        self.model_names[
-            index_constructed_new] = process_token_new or export_token_new \
-                                     or file_token_new or action_token_new \
-                                     or import_token_new
-        # print(self.model_names)
-        # print(index_constructed_new)  # self.model_names
+            f' Index for Dictionary is {index_constructed_new}')  # self.model_names
         return index_constructed_new  # self.model_names
 
     def color_the_dict_output(self, log_parse_dict):
         # print(self.anp_parm)
         for key, value in log_parse_dict.items():
             # print(key, value)
+
             if value == None:
-                pass
+                continue
+
+            is_anaplan_unreachable: bool = Operation.UNREACHABLE in value
+            DUMPFILE_NOT_AVAILABLE: bool = Operation.DUMPFILE_NOT_AVAILABLE in value
+            OPERATION_FAILED: bool = Operation.FAILED in value
+            OPERATION_SUCCESS: bool = Operation.SUCCESS in value
+
+            key_extract: str = key.split(':')[1]
+            # print(f' Second field of key : {key_extract}')
+
+            if key_extract not in ANP.parmeters:
+                continue
+
+            display_model_operation_status: str = (
+                f'{ANP.parmeters[key_extract]}   {value}'
+            )
+
+            if OPERATION_SUCCESS:
+                print(f'{Colors.BLUE}'
+                      f'{display_model_operation_status}'
+                      f'{Colors.WHITE}')
+            if is_anaplan_unreachable:
+                print(f'{Colors.GREEN}'
+                      f'{display_model_operation_status}'
+                      f'{Colors.WHITE}')
+            elif DUMPFILE_NOT_AVAILABLE:
+                print(f'{Colors.PURPLE}'
+                      f'{display_model_operation_status}'
+                      f'{Colors.WHITE}')
+            elif OPERATION_FAILED:
+                print(f'{Colors.WHITE}'
+                      f'{display_model_operation_status}'
+                      f'{Colors.WHITE}')
             else:
-                is_anaplan_unreachable: bool = Operation.UNREACHABLE in value
-                DUMPFILE_NOT_AVAILABLE: bool = Operation.DUMPFILE_NOT_AVAILABLE in value
-                OPERATION_FAILED: bool = Operation.FAILED in value
-                OPERATION_SUCCESS: bool = Operation.SUCCESS in value
-
-                key_extract: str = key.split(':')[1]
-                # print(f' Second field of key : {key_extract}')
-
-            if key_extract in ANP.parmeters:
-                display_model_operation_status: str = f'{ANP.parmeters[key_extract]}   {value}'
-
-                if OPERATION_SUCCESS:
-                    print(f'{Colors.BLUE}'
-                          f'{display_model_operation_status}'
-                          f'{Colors.WHITE}')
-                if is_anaplan_unreachable:
-                    print(f'{Colors.GREEN}'
-                          f'{display_model_operation_status}'
-                          f'{Colors.WHITE}')
-                elif DUMPFILE_NOT_AVAILABLE:
-                    print(f'{Colors.PURPLE}'
-                          f'{display_model_operation_status}'
-                          f'{Colors.WHITE}')
-                elif OPERATION_FAILED:
-                    print(f'{Colors.WHITE}'
-                          f'{display_model_operation_status}'
-                          f'{Colors.WHITE}')
-                else:
-                    pass
+                pass
 
     def file_write_dict_output(self, log_parse_dict):
         path_to_out_file: str = 'anaplan_logs/api_status_log.txt'
         with open(file=path_to_out_file, mode='a') as f:
             for key, value in log_parse_dict.items():
+                key_extract: str = key.split(':')[1]
+                # print(f' Second field of key : {key_extract}')
+
+                if key_extract in ANP.parmeters:
+                    value += '\n'
+                    display_model_operation_status: str = f'{ANP.parmeters[key_extract]}   {value}'
+
                 # print(key, value)
-                value += '\n'
-                f.write(value)
+                f.write(display_model_operation_status)
         f.close()
 
 
 c_log_parse = Log_Parse(
 )
 # Execute One File at a time
-# path_to_file: str = 'anaplan_logs/CENT_container.log'
-#
-# with open(file=path_to_file, mode='r') as f:
-#     lines = f.readlines()
-# f.close()
-# c_get_status_1 = c_log_parse.constr_model_names_dict(lines)
-# c_get_status_colour_1 = c_log_parse.color_the_dict_output(
-#     c_log_parse.model_names)
+path_to_file: str = 'anaplan_logs/DELETE_TMS_BE_SBE_BKNGS.log'
+
+with open(file=path_to_file, mode='r') as f:
+    lines = f.readlines()
+f.close()
+c_get_status_1 = c_log_parse.constr_model_names_dict(lines)
+c_get_status_colour_1 = c_log_parse.color_the_dict_output(
+    c_log_parse.model_names)
 # Execute One File at a time end
 
 path_to_file: str = 'anaplan_logs'
 # path_to_file: str = 'log_files/anp_user.txt'
 
 # import os
-
-subfiles = []
-for dirpath, subdirs, files in os.walk(path_to_file):
-    for x in files:
-        if x.endswith(".log"):
-            subfiles.append(os.path.join(dirpath, x))
-
-for file in subfiles:
-    with open(file=file, mode='r') as f:
-        lines = f.readlines()
-    f.close()
-    print(f'{Colors.RED}'
-          f' LOG FILE BEING PROCESRED IS {file}'
-          f'{Colors.GREEN}')
-
-    #
-    c_get_status = c_log_parse.constr_model_names_dict(lines)
-    c_get_status_colour = c_log_parse.color_the_dict_output(
-        c_log_parse.model_names)
-    c_write_status = c_log_parse.file_write_dict_output(
-        c_log_parse.model_names)
-
-# print(subfiles)
+#
+# subfiles = []
+# for dirpath, subdirs, files in os.walk(path_to_file):
+#     for x in files:
+#         if x.endswith(".log"):
+#             subfiles.append(os.path.join(dirpath, x))
+#
+# for file in subfiles:
+#     with open(file=file, mode='r') as f:
+#         lines = f.readlines()
+#     f.close()
+#     print(f'{Colors.RED}'
+#           f' LOG FILE BEING PROCESRED IS {file}'
+#           f'{Colors.GREEN}')
+#
+#     #
+#     c_get_status = c_log_parse.constr_model_names_dict(lines)
+#     c_get_status_colour = c_log_parse.color_the_dict_output(
+#         c_log_parse.model_names)
+#     c_write_status = c_log_parse.file_write_dict_output(
+#         c_log_parse.model_names)
