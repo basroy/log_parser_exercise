@@ -270,8 +270,9 @@ class Log_Parse(Regex):
                         display_model_operation_status: str = (
                             f'{ANP.parmeters[key_extract]}   {execution_status}'
                         )
-
-                f.write(display_model_operation_status)
+                        f.write(display_model_operation_status)
+                    else:
+                        continue
         f.close()
 
 
@@ -291,7 +292,7 @@ c_log_parse = Log_Parse(
 # # Execute One File at a time end
 
 # path_to_file: str = 'anaplan_logs'
-path_to_file: str = 'anaplan_logs'
+path_to_file: str = 'anp_logs'
 
 import os
 
@@ -301,7 +302,7 @@ for dirpath, subdirs, files in os.walk(path_to_file):
         print(f' LOG FILE IS --> {x}')
         if x.endswith(".log"):
             subfiles.append(os.path.join(dirpath, x))
-
+print(subfiles)
 for file in subfiles:
     with open(file=file, mode='r') as f:
         lines = f.readlines()
@@ -314,5 +315,7 @@ for file in subfiles:
 c_get_status_colour = c_log_parse.color_the_dict_output(
     dict_of_api_execution_status=c_log_parse.model_names)
 
+# for key, x in c_log_parse.model_names.items():
+#     print(key, x)
 c_write_status = c_log_parse.file_write_dict_output(
     dict_of_api_execution_status=c_log_parse.model_names)

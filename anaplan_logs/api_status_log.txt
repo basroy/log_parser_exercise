@@ -1,48 +1,24 @@
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-HUB   'NA' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/NA.err' -import 'Share Nodes from TIER_Segments.csv'   Anaplan Unreachable
-FY22_NLG   'Service Forecast DB - Daily 4 times Export'   Anaplan Unreachable
+ATFY21   'Import PROD Users'   Anaplan Unreachable
+USERACCESS   'Daily Reset for AT'   Anaplan Unreachable
+MERAKI   'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+USERACCESS   'Daily Reset for GEO'   Anaplan Unreachable
+ATFY21   'Import PROD Users'   Anaplan Unreachable
+USERACCESS   'Daily Reset for AT'   Anaplan Unreachable
+MERAKI   'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+USERACCESS   'Daily Reset for GEO'   Anaplan Unreachable
+ATFY21   'Import PROD Users'   Anaplan Unreachable
+USERACCESS   'Daily Reset for AT'   Anaplan Unreachable
+MERAKI   'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+USERACCESS   'Daily Reset for GEO'   Anaplan Unreachable
+ATFY21   'Import PROD Users'   Anaplan Unreachable
+USERACCESS   'Daily Reset for AT'   Anaplan Unreachable
+MERAKI   'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22   'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+USERACCESS   'Daily Reset for GEO'   Anaplan Unreachable
