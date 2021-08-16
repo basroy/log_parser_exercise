@@ -45,17 +45,17 @@ for dirpath, subdirs, files in os.walk(path_to_informat_log):
         if x.endswith(".bin"):
             subfiles.append(os.path.join(dirpath, x))
 
-for file in subfiles:
-    with open(file=file, mode='r', encoding='utf-8', errors='ignore') as f:
-        lines = f.readlines()
-    f.close()
-    print(f'{Colors.RED} LOG FILE BEING PROCESRED IS {file}{Colors.GREEN}')
-
-path_to_file: str = 'anp_informat_logs\s_m_P_FF_TO_ANAPLAN_SAV_SITE_GEO_ACCT.log.4.bin'
-
-file = open(
-    file=path_to_file,
-    encoding='utf-8', errors='ignore')
+# for file in subfiles:
+#     with open(file=file, mode='r', encoding='utf-8', errors='ignore') as f:
+#         lines = f.readlines()
+#     f.close()
+#     print(f'{Colors.RED} LOG FILE BEING PROCESRED IS {file}{Colors.GREEN}')
+#
+# path_to_file: str = 'anp_informat_logs\s_m_P_FF_TO_ANAPLAN_SAV_SITE_GEO_ACCT.log.4.bin'
+#
+# file = open(
+#     file=path_to_file,
+#     encoding='utf-8', errors='ignore')
 
 for list_file in subfiles:
     file = open(
@@ -63,14 +63,17 @@ for list_file in subfiles:
         encoding='utf-8', errors='ignore')
 
     infile = file.read()
-    for p in re.finditer(Regex.initialization, infile):
-        print(p)
-        session = infile[p.end() + 1:].split(']')[0]  # .split('[')[1]
-        print(Colors.GREEN + 'session name: ', session)
+    for initialization_session_expr in \
+            re.finditer(Regex.initialization, infile):
+        # print(p)
+        session = infile[initialization_session_expr.end() +
+                         1:].split(']')[0]  # .split('[')[1]
+        print(Colors.GREEN + 'session name: ', list_file, '   -->', session
+              + Colors.WHITE)
         break
 
     # file.close()
-    initialization_flag: bool = Regex.initialization in lines
+    initialization_flag: bool = Regex.initialization in infile
 
     print(initialization_flag)
     # for p in re.finditer(initialization, lines):
@@ -155,6 +158,6 @@ for list_file in subfiles:
     #         for n in re.finditer(standard_error, infile):
     #             z = infile[m.end() + 1:].split('bin/')
     #             err = z[1].split('PRE-SESS')
-    #             b: bool = error in err[0]
+    #             b: bool = error in err[0]  # Can be removed
     #         if b:
     #             print(B + process[0], process[1], R + err[0])
