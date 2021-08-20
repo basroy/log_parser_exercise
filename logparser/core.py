@@ -12,7 +12,6 @@ class LogParser(Regex):
             path_to_log_files: str = 'anaplan_logs',
             path_to_result_files: str = 'log_review'
     ):
-        # self.regex = Regex()
         self.path_to_log_files = path_to_log_files
         self.path_to_return_files = path_to_result_files
 
@@ -25,12 +24,12 @@ class LogParser(Regex):
         model_name_counter: int = 0
         model_name_key: str = '9999:Unknown Model Name'
         for index, line in enumerate(lines):
-
             is_execution_start: bool = Operation.START in line
             is_operation_success: bool = Operation.SUCCESS in line
             is_operation_fail: bool = Operation.FAILED in line
-            is_operation_unavail: bool = Operation.DUMPFILE_NOT_AVAILABLE in line
-
+            is_operation_unavail: bool = (
+                    Operation.DUMPFILE_NOT_AVAILABLE in line
+            )
             construct_names: bool = any([
                 is_execution_start,
                 is_operation_unavail,
@@ -38,14 +37,13 @@ class LogParser(Regex):
                 is_operation_fail
             ])
             if not construct_names:
-                # print(' Do nothing with these file lines ')
                 continue
-
             if is_execution_start:
                 model_name_counter += 1
                 model_name_key: str = self.gen_model_name_key(
                     line=line,
-                    model_name_counter=model_name_counter)
+                    model_name_counter=model_name_counter
+                )
                 curr_api_name: Union[str, None] = (
                     self.model_names.get(
                         model_name_key
@@ -66,13 +64,14 @@ class LogParser(Regex):
                     curr_api_name + f'  {api_execution_status}'
             )
 
-    def gen_model_name_key(self, line: str,
-                           model_name_counter: int) -> str:
+    def gen_model_name_key(self, line: str, model_name_counter: int) -> str:
 
-        workspace_token: Union[str, None] = self.xtract_with_regex(
-            line=line,
-            regex=self.regex_workspace)
-
+        workspace_token: Union[str, None] = (
+            self.xtract_with_regex(
+                line=line,
+                regex=self.regex_workspace
+            )
+        )
         model_token_regex: str = self.regex_model_debug_process
         api_type_token_value: str = ''
 
@@ -99,8 +98,9 @@ class LogParser(Regex):
         elif Operation.DEBUG_model in line:
             model_token_regex: str = self.regex_model_debug_process
             api_type_token_value: str = self.regex_process
-        elif (Operation.PROCESS_model in line and
-              Operation.DEBUG_model not in line
+        elif (
+                Operation.PROCESS_model in line and
+                Operation.DEBUG_model not in line
         ):
             model_token_regex: str = self.regex_model_process
             api_type_token_value: str = self.regex_process
@@ -118,7 +118,7 @@ class LogParser(Regex):
             )
         )
 
-        index_constructed = (
+        index_constructed: str = (
             f'{model_name_counter}:{workspace_token}^{model_token}'
         )
 
@@ -182,10 +182,11 @@ class LogParser(Regex):
             os.mkdir(results_dir_path)
 
         time_now: datetime.datetime = datetime.datetime.now()
-        results_file_path: str = os.path.join(
-            results_dir_path,
-            f'{log_file_name}_results_{time_now}.txt'
-        )
+        # results_file_path: str = os.path.join(
+        #     results_dir_path,
+        #     f'{log_file_name}_results_{time_now}.txt'
+        # )
+
         content: str = ''
 
         for key, execution_status in self.model_names.items():
@@ -203,7 +204,14 @@ class LogParser(Regex):
                 else:
                     continue
 
+        results_file_path1: str = os.path.join(
+            results_dir_path,
+            f'{log_file_name}_results.txt'
+        )
+
         if content:
-            with open(results_file_path, 'w')as f:
+            print(content)
+            with open(results_file_path1, 'w') as f:
+                # with open('../results/anplog_results.txt', 'w') as f:
                 f.write(content)
             f.close()

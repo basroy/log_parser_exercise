@@ -1,0 +1,85 @@
+[basroy@infor-iprd-rcdn9-31 anaplan-connect-1-3-3-3]$ tail -80 !$
+tail -80 ../NLG22_Model_refresh.log
+BP - FY21 - Q3 cells: 1001364 (3504774 ignored)
+BP - FY21 - Q4 cells: 1001364 (3504774 ignored)
+
+Level cells: 1001364 (3504774 ignored)
+XCAT- FY22 - Q1 cells: 1001364 (3504774 ignored)
+XCAT- FY22- Q2 cells: 1001364 (3504774 ignored)
+ELA - FY22 - Q1 cells: 1001364 (3504774 ignored)
+ELA - FY22 - Q2 cells: 1001364 (3504774 ignored)
+BP - FY22 - Q1 cells: 1001364 (3504774 ignored)
+BP - FY22 - Q2 cells: 1001364 (3504774 ignored)
+XCAT- FY22 - Q4 cells: 1001364 (3504774 ignored)
+XCAT- FY22 - Q3 cells: 1001364 (3504774 ignored)
+ELA - FY22 - Q3 cells: 1001364 (3504774 ignored)
+ELA - FY22 - Q4 cells: 1001364 (3504774 ignored)
+BP - FY22 - Q4 cells: 1001364 (3504774 ignored)
+BP - FY22 - Q3 cells: 1001364 (3504774 ignored)
+
+Level cells: 3504774 (1001364 ignored)
+XCAT- FY19 - Q1 cells: 3504774 (1001364 ignored)
+XCAT- FY19 - Q2 cells: 3504774 (1001364 ignored)
+XCAT- FY19 - Q3 cells: 3504774 (1001364 ignored)
+XCAT- FY19 - Q4 cells: 3504774 (1001364 ignored)
+ELA - FY19 -Q1 cells: 3504774 (1001364 ignored)
+ELA - FY19  -Q2 cells: 3504774 (1001364 ignored)
+ELA - FY19 -Q3 cells: 3504774 (1001364 ignored)
+ELA - FY19 -Q4 cells: 3504774 (1001364 ignored)
+BP - FY19 - Q1 cells: 3504774 (1001364 ignored)
+BP - FY19 - Q2 cells: 3504774 (1001364 ignored)
+BP - FY19 - Q3 cells: 3504774 (1001364 ignored)
+BP - FY19 - Q4 cells: 3504774 (1001364 ignored)
+
+Level cells: 3504774 (1001364 ignored)
+XCAT- FY20 - Q1 cells: 3504774 (1001364 ignored)
+XCAT- FY20 - Q2 cells: 3504774 (1001364 ignored)
+XCAT- FY20 - Q3 cells: 3504774 (1001364 ignored)
+XCAT- FY20 - Q4 cells: 3504774 (1001364 ignored)
+ELA - FY20 -Q1 cells: 3504774 (1001364 ignored)
+ELA - FY20 -Q2 cells: 3504774 (1001364 ignored)
+ELA - FY20 -Q3 cells: 3504774 (1001364 ignored)
+ELA - FY20 -Q4 cells: 3504774 (1001364 ignored)
+BP - FY20 - Q1 cells: 3504774 (1001364 ignored)
+BP - FY20 - Q2 cells: 3504774 (1001364 ignored)
+BP - FY20 - Q3 cells: 3504774 (1001364 ignored)
+BP - FY20 - Q4 cells: 3504774 (1001364 ignored)
+
+Level cells: 3504774 (1001364 ignored)
+XCAT- FY21 - Q1 cells: 3504774 (1001364 ignored)
+XCAT- FY21 - Q2 cells: 3504774 (1001364 ignored)
+XCAT- FY21 - Q3 cells: 3504774 (1001364 ignored)
+XCAT- FY21 - Q4 cells: 3504774 (1001364 ignored)
+ELA - FY21 -Q1 cells: 3504774 (1001364 ignored)
+ELA - FY21 -Q2 cells: 3504774 (1001364 ignored)
+ELA - FY21 -Q3 cells: 3504774 (1001364 ignored)
+ELA - FY21 -Q4 cells: 3504774 (1001364 ignored)
+BP - FY21 - Q1 cells: 3504774 (1001364 ignored)
+BP - FY21 - Q2 cells: 3504774 (1001364 ignored)
+BP - FY21 - Q3 cells: 3504774 (1001364 ignored)
+BP - FY21 - Q4 cells: 3504774 (1001364 ignored)
+
+Level cells: 3504774 (1001364 ignored)
+XCAT- FY22 - Q1 cells: 3504774 (1001364 ignored)
+XCAT- FY22 - Q2 cells: 3504774 (1001364 ignored)
+ELA - FY22 -Q1 cells: 3504774 (1001364 ignored)
+ELA - FY22 -Q2 cells: 3504774 (1001364 ignored)
+BP - FY22 - Q1 cells: 3504774 (1001364 ignored)
+BP - FY22 - Q2 cells: 3504774 (1001364 ignored)
+XCAT- FY22 - Q4 cells: 3504774 (1001364 ignored)
+XCAT- FY22 - Q3 cells: 3504774 (1001364 ignored)
+ELA - FY22 -Q4 cells: 3504774 (1001364 ignored)
+ELA - FY22 -Q3 cells: 3504774 (1001364 ignored)
+BP - FY22 - Q4 cells: 3504774 (1001364 ignored)
+BP - FY22 - Q3 cells: 3504774 (1001364 ignored)
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54d776c515d7 -model 463B0A00F8FD4FE5839943BCC68D074E -debug -process 'Daily Snapshot' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG22_Model_refresh
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+  ******  Total Job Run time is 119 minutes and 39 seconds elapsed for Script Execution. ******
+
+
+
