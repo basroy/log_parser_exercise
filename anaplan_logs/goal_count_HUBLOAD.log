@@ -1,4 +1,615 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_count_HUBLOAD.log <==
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 7758 (0/7758) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 7758
+NO_OF_GOALS_SENT_TO_NGCGI cells: 7758
+GOAL_SENT_DATE cells: 7758
+FILE_NAME cells: 7758
+PEC cells: 7758
+PLAN_PRORATION_TYPE cells: 7758
+
+8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 7758 (0/7758) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 7758
+NO_OF_GOALS_SENT_TO_NGCGI cells: 7758
+GOAL_SENT_DATE cells: 7758
+FILE_NAME cells: 7758
+PEC cells: 7758
+PLAN_PRORATION_TYPE cells: 7758
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 0 (0/0) rows successful, 0 ignored 
+
+The operation was successful.
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 2 (0/2) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 2
+NO_OF_GOALS_SENT_TO_NGCGI cells: 2
+GOAL_SENT_DATE cells: 2
+FILE_NAME cells: 2
+PEC cells: 2
+PLAN_PRORATION_TYPE cells: 2
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 4 (0/4) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 4
+NO_OF_GOALS_SENT_TO_NGCGI cells: 4
+GOAL_SENT_DATE cells: 4
+FILE_NAME cells: 4
+PEC cells: 4
+PLAN_PRORATION_TYPE cells: 4
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 6 (0/6) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 6
+NO_OF_GOALS_SENT_TO_NGCGI cells: 6
+GOAL_SENT_DATE cells: 6
+FILE_NAME cells: 6
+PEC cells: 6
+PLAN_PRORATION_TYPE cells: 6
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
 SENT_TO_NGCGI_AUDIT_ID: 14 (0/14) rows successful, 0 ignored 
 
 The operation was successful.
@@ -8,4 +619,382 @@ GOAL_SENT_DATE cells: 14
 FILE_NAME cells: 14
 PEC cells: 14
 PLAN_PRORATION_TYPE cells: 14
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 22 (0/22) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 22
+NO_OF_GOALS_SENT_TO_NGCGI cells: 22
+GOAL_SENT_DATE cells: 22
+FILE_NAME cells: 22
+PEC cells: 22
+PLAN_PRORATION_TYPE cells: 22
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 44 (0/44) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 44
+NO_OF_GOALS_SENT_TO_NGCGI cells: 44
+GOAL_SENT_DATE cells: 44
+FILE_NAME cells: 44
+PEC cells: 44
+PLAN_PRORATION_TYPE cells: 44
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 74 (0/74) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 74
+NO_OF_GOALS_SENT_TO_NGCGI cells: 74
+GOAL_SENT_DATE cells: 74
+FILE_NAME cells: 74
+PEC cells: 74
+PLAN_PRORATION_TYPE cells: 74
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 76 (0/76) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 76
+NO_OF_GOALS_SENT_TO_NGCGI cells: 76
+GOAL_SENT_DATE cells: 76
+FILE_NAME cells: 76
+PEC cells: 76
+PLAN_PRORATION_TYPE cells: 76
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 88 (0/88) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 88
+NO_OF_GOALS_SENT_TO_NGCGI cells: 88
+GOAL_SENT_DATE cells: 88
+FILE_NAME cells: 88
+PEC cells: 88
+PLAN_PRORATION_TYPE cells: 88
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 130 (0/130) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 130
+NO_OF_GOALS_SENT_TO_NGCGI cells: 130
+GOAL_SENT_DATE cells: 130
+FILE_NAME cells: 130
+PEC cells: 130
+PLAN_PRORATION_TYPE cells: 130
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 166 (0/166) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 166
+NO_OF_GOALS_SENT_TO_NGCGI cells: 166
+GOAL_SENT_DATE cells: 166
+FILE_NAME cells: 166
+PEC cells: 166
+PLAN_PRORATION_TYPE cells: 166
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 200 (0/200) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 200
+NO_OF_GOALS_SENT_TO_NGCGI cells: 200
+GOAL_SENT_DATE cells: 200
+FILE_NAME cells: 200
+PEC cells: 200
+PLAN_PRORATION_TYPE cells: 200
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 242 (0/242) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 242
+NO_OF_GOALS_SENT_TO_NGCGI cells: 242
+GOAL_SENT_DATE cells: 242
+FILE_NAME cells: 242
+PEC cells: 242
+PLAN_PRORATION_TYPE cells: 242
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 278 (0/278) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 278
+NO_OF_GOALS_SENT_TO_NGCGI cells: 278
+GOAL_SENT_DATE cells: 278
+FILE_NAME cells: 278
+PEC cells: 278
+PLAN_PRORATION_TYPE cells: 278
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 300 (0/300) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 300
+NO_OF_GOALS_SENT_TO_NGCGI cells: 300
+GOAL_SENT_DATE cells: 300
+FILE_NAME cells: 300
+PEC cells: 300
+PLAN_PRORATION_TYPE cells: 300
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 324 (0/324) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 324
+NO_OF_GOALS_SENT_TO_NGCGI cells: 324
+GOAL_SENT_DATE cells: 324
+FILE_NAME cells: 324
+PEC cells: 324
+PLAN_PRORATION_TYPE cells: 324
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 404 (0/404) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 404
+NO_OF_GOALS_SENT_TO_NGCGI cells: 404
+GOAL_SENT_DATE cells: 404
+FILE_NAME cells: 404
+PEC cells: 404
+PLAN_PRORATION_TYPE cells: 404
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 630 (0/630) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 630
+NO_OF_GOALS_SENT_TO_NGCGI cells: 630
+GOAL_SENT_DATE cells: 630
+FILE_NAME cells: 630
+PEC cells: 630
+PLAN_PRORATION_TYPE cells: 630
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 768 (0/768) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 768
+NO_OF_GOALS_SENT_TO_NGCGI cells: 768
+GOAL_SENT_DATE cells: 768
+FILE_NAME cells: 768
+PEC cells: 768
+PLAN_PRORATION_TYPE cells: 768
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 914 (0/914) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 914
+NO_OF_GOALS_SENT_TO_NGCGI cells: 914
+GOAL_SENT_DATE cells: 914
+FILE_NAME cells: 914
+PEC cells: 914
+PLAN_PRORATION_TYPE cells: 914
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 942 (0/942) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 942
+NO_OF_GOALS_SENT_TO_NGCGI cells: 942
+GOAL_SENT_DATE cells: 942
+FILE_NAME cells: 942
+PEC cells: 942
+PLAN_PRORATION_TYPE cells: 942
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 956 (0/956) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 956
+NO_OF_GOALS_SENT_TO_NGCGI cells: 956
+GOAL_SENT_DATE cells: 956
+FILE_NAME cells: 956
+PEC cells: 956
+PLAN_PRORATION_TYPE cells: 956
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1060 (0/1060) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1060
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1060
+GOAL_SENT_DATE cells: 1060
+FILE_NAME cells: 1060
+PEC cells: 1060
+PLAN_PRORATION_TYPE cells: 1060
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1126 (0/1126) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1126
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1126
+GOAL_SENT_DATE cells: 1126
+FILE_NAME cells: 1126
+PEC cells: 1126
+PLAN_PRORATION_TYPE cells: 1126
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1218 (0/1218) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1218
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1218
+GOAL_SENT_DATE cells: 1218
+FILE_NAME cells: 1218
+PEC cells: 1218
+PLAN_PRORATION_TYPE cells: 1218
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1302 (0/1302) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1302
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1302
+GOAL_SENT_DATE cells: 1302
+FILE_NAME cells: 1302
+PEC cells: 1302
+PLAN_PRORATION_TYPE cells: 1302
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1326 (0/1326) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1326
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1326
+GOAL_SENT_DATE cells: 1326
+FILE_NAME cells: 1326
+PEC cells: 1326
+PLAN_PRORATION_TYPE cells: 1326
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1326 (0/1326) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1326
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1326
+GOAL_SENT_DATE cells: 1326
+FILE_NAME cells: 1326
+PEC cells: 1326
+PLAN_PRORATION_TYPE cells: 1326
+
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'NGCGI_GOAL_AUDIT_DAILY.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv' -import 'SENT_TO_NGCGI_AUDIT_ID from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_list.err' -import 'NGCGI_GOAL_AUDIT from NGCGI_GOAL_AUDIT_DAILY.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/goal_audit_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_XXANP_NGCGI_GOAL_AUDIT_FF.csv" has been uploaded as NGCGI_GOAL_AUDIT_DAILY.csv.
+The operation was successful.
+SENT_TO_NGCGI_AUDIT_ID: 1336 (0/1336) rows successful, 0 ignored 
+
+The operation was successful.
+FISCAL_YEAR cells: 1336
+NO_OF_GOALS_SENT_TO_NGCGI cells: 1336
+GOAL_SENT_DATE cells: 1336
+FILE_NAME cells: 1336
+PEC cells: 1336
+PLAN_PRORATION_TYPE cells: 1336
 

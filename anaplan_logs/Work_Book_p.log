@@ -1,4 +1,13 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_p.log <==
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/15/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
 The operation was successful.
 
@@ -7,5 +16,985 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
 The operation was successful.
 
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/16/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/16/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/16/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/17/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/17/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/17/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/17/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/17/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/17/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/18/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/18/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/18/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/18/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/19/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/19/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/19/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/19/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/20/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/20/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/20/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/20/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/21/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/21/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/21/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/21/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/22/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/22/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/22/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/22/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/23/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/23/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/23/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/23/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/24/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/24/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/24/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/24/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/25/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/25/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/25/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/25/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/26/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/26/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/26/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/26/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/26/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/27/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/27/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/27/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/27/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/28/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/29/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/29/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/29/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/29/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/30/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/30/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+PARTIAL RUN 08/30/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Planning DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+The operation was successful.
+
+The server file Planning DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Planning_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Goaling DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+The operation was successful.
+
+The server file Goaling DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Goaling_p.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Service Forecast DB - Daily 4 times Export' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv
+The operation was successful.
+
+The server file Service Forecast DB - Daily 4 times Export has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_Service_p.csv

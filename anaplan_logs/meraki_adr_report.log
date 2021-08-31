@@ -1,4 +1,793 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report.log <==
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 251
+Account_Industry cells: 260
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 252
+Account_Industry cells: 261
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 252
+Account_Industry cells: 261
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 266 (266/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 266
+Lead_Transfer_Owner__r_Name cells: 266
+Account_Company_Size__c cells: 252
+Account_Industry cells: 261
+Account_Name cells: 266
+ADR_Lead_Transfer_Credits__c cells: 266
+Lead_Transfer_Accept_Date__c cells: 266
+Name cells: 266
+Id cells: 266
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 507 (507/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 505
+Lead_Transfer_Owner__r_Name cells: 507
+Account_Company_Size__c cells: 470
+Account_Industry cells: 490
+Account_Name cells: 507
+ADR_Lead_Transfer_Credits__c cells: 507
+Lead_Transfer_Accept_Date__c cells: 507
+Name cells: 507
+Id cells: 507
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 701 (701/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 700
+Lead_Transfer_Owner__r_Name cells: 701
+Account_Company_Size__c cells: 618
+Account_Industry cells: 668
+Account_Name cells: 701
+ADR_Lead_Transfer_Credits__c cells: 701
+Lead_Transfer_Accept_Date__c cells: 701
+Name cells: 701
+Id cells: 701
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 701 (701/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 700
+Lead_Transfer_Owner__r_Name cells: 701
+Account_Company_Size__c cells: 618
+Account_Industry cells: 668
+Account_Name cells: 701
+ADR_Lead_Transfer_Credits__c cells: 701
+Lead_Transfer_Accept_Date__c cells: 701
+Name cells: 701
+Id cells: 701
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 701 (701/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 700
+Lead_Transfer_Owner__r_Name cells: 701
+Account_Company_Size__c cells: 618
+Account_Industry cells: 668
+Account_Name cells: 701
+ADR_Lead_Transfer_Credits__c cells: 701
+Lead_Transfer_Accept_Date__c cells: 701
+Name cells: 701
+Id cells: 701
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 702 (702/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 701
+Lead_Transfer_Owner__r_Name cells: 702
+Account_Company_Size__c cells: 619
+Account_Industry cells: 669
+Account_Name cells: 702
+ADR_Lead_Transfer_Credits__c cells: 702
+Lead_Transfer_Accept_Date__c cells: 702
+Name cells: 702
+Id cells: 702
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 704 (704/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 703
+Lead_Transfer_Owner__r_Name cells: 704
+Account_Company_Size__c cells: 621
+Account_Industry cells: 671
+Account_Name cells: 704
+ADR_Lead_Transfer_Credits__c cells: 704
+Lead_Transfer_Accept_Date__c cells: 704
+Name cells: 704
+Id cells: 704
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 752 (752/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 751
+Lead_Transfer_Owner__r_Name cells: 752
+Account_Company_Size__c cells: 662
+Account_Industry cells: 715
+Account_Name cells: 752
+ADR_Lead_Transfer_Credits__c cells: 752
+Lead_Transfer_Accept_Date__c cells: 752
+Name cells: 752
+Id cells: 752
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 753 (753/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 752
+Lead_Transfer_Owner__r_Name cells: 753
+Account_Company_Size__c cells: 663
+Account_Industry cells: 716
+Account_Name cells: 753
+ADR_Lead_Transfer_Credits__c cells: 753
+Lead_Transfer_Accept_Date__c cells: 753
+Name cells: 753
+Id cells: 753
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
 Lead_Transfer_Owner__r_Name cells: 758
 Account_Company_Size__c cells: 667
 Account_Industry cells: 720
@@ -7,5 +796,205 @@ ADR_Lead_Transfer_Credits__c cells: 758
 Lead_Transfer_Accept_Date__c cells: 758
 Name cells: 758
 Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
+Lead_Transfer_Owner__r_Name cells: 758
+Account_Company_Size__c cells: 667
+Account_Industry cells: 720
+Account_Name cells: 758
+ADR_Lead_Transfer_Credits__c cells: 758
+Lead_Transfer_Accept_Date__c cells: 758
+Name cells: 758
+Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
+Lead_Transfer_Owner__r_Name cells: 758
+Account_Company_Size__c cells: 667
+Account_Industry cells: 720
+Account_Name cells: 758
+ADR_Lead_Transfer_Credits__c cells: 758
+Lead_Transfer_Accept_Date__c cells: 758
+Name cells: 758
+Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
+Lead_Transfer_Owner__r_Name cells: 758
+Account_Company_Size__c cells: 667
+Account_Industry cells: 720
+Account_Name cells: 758
+ADR_Lead_Transfer_Credits__c cells: 758
+Lead_Transfer_Accept_Date__c cells: 758
+Name cells: 758
+Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
+Lead_Transfer_Owner__r_Name cells: 758
+Account_Company_Size__c cells: 667
+Account_Industry cells: 720
+Account_Name cells: 758
+ADR_Lead_Transfer_Credits__c cells: 758
+Lead_Transfer_Accept_Date__c cells: 758
+Name cells: 758
+Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
+Lead_Transfer_Owner__r_Name cells: 758
+Account_Company_Size__c cells: 667
+Account_Industry cells: 720
+Account_Name cells: 758
+ADR_Lead_Transfer_Credits__c cells: 758
+Lead_Transfer_Accept_Date__c cells: 758
+Name cells: 758
+Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 758 (758/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 757
+Lead_Transfer_Owner__r_Name cells: 758
+Account_Company_Size__c cells: 667
+Account_Industry cells: 720
+Account_Name cells: 758
+ADR_Lead_Transfer_Credits__c cells: 758
+Lead_Transfer_Accept_Date__c cells: 758
+Name cells: 758
+Id cells: 758
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 180 (180/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 179
+Lead_Transfer_Owner__r_Name cells: 180
+Account_Company_Size__c cells: 164
+Account_Industry cells: 174
+Account_Name cells: 180
+ADR_Lead_Transfer_Credits__c cells: 180
+Lead_Transfer_Accept_Date__c cells: 180
+Name cells: 180
+Id cells: 180
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 181 (181/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 180
+Lead_Transfer_Owner__r_Name cells: 181
+Account_Company_Size__c cells: 165
+Account_Industry cells: 175
+Account_Name cells: 181
+ADR_Lead_Transfer_Credits__c cells: 181
+Lead_Transfer_Accept_Date__c cells: 181
+Name cells: 181
+Id cells: 181
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 249 (249/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 246
+Lead_Transfer_Owner__r_Name cells: 249
+Account_Company_Size__c cells: 226
+Account_Industry cells: 241
+Account_Name cells: 249
+ADR_Lead_Transfer_Credits__c cells: 249
+Lead_Transfer_Accept_Date__c cells: 249
+Name cells: 249
+Id cells: 249
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_adr_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv' -process 'SFDC ADR Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_adr_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_adr_report.csv" has been uploaded as ff_meraki_adr_report.csv.
+The operation was successful.
+
+ADR Key: 249 (249/0) rows successful, 0 ignored 
+
+Lead_Transfer_Owner__r_Employee_Id cells: 246
+Lead_Transfer_Owner__r_Name cells: 249
+Account_Company_Size__c cells: 226
+Account_Industry cells: 241
+Account_Name cells: 249
+ADR_Lead_Transfer_Credits__c cells: 249
+Lead_Transfer_Accept_Date__c cells: 249
+Name cells: 249
+Id cells: 249
 
 

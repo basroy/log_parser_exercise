@@ -1,11 +1,25 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_Architecture_Recon_NLG.log <==
-Architecture Report  FY20 - Q4 cells: 845714 (386 failed, 332629 ignored)
-Architecture Report  FY20 - FY cells: 845714 (386 failed, 332629 ignored)
-Architecture Report  FY21 - Q1 cells: 845714 (386 failed, 332629 ignored)
-Architecture Report  FY21 - Q2 cells: 845714 (386 failed, 332629 ignored)
-Architecture Report  FY21 - Q3 cells: 845714 (386 failed, 332629 ignored)
-Architecture Report  FY21 - Q4 cells: 845714 (386 failed, 332629 ignored)
-Architecture Report  FY21 - FY cells: 845714 (386 failed, 332629 ignored)
-Item not located in Non Misc Nodes list: 5790
+8a868cd87a25f4cf017a54dbb22c16e3 2FA3B2DE0B544E139FD6BB012D2DA513
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -file 'Architecture Recon_NLG.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_Architecture_recon_NLG.csv' -import 'Update Architecture Report - Architecture Recon_NLG' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_Architecture_Recon_NLG.err.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_Architecture_recon_NLG.csv" has been uploaded as Architecture Recon_NLG.csv.
+The operation was successful.
+1 Line Item identifier(s) ("#STRUCTURE_NODE_NAME") were not mapped and ignored
+Architecture Report  FY19 - Q1 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY19 - Q2 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY19 - Q3 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY19 - Q4 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY19 - FY cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY20 - Q1 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY20 - Q2 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY20 - Q3 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY20 - Q4 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY20 - FY cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY21 - Q1 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY21 - Q2 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY21 - Q3 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY21 - Q4 cells: 841020 (9502 failed, 450084 ignored)
+Architecture Report  FY21 - FY cells: 841020 (9502 failed, 450084 ignored)
+Item not located in ARCHITECTURE PEC list: 133515
+Item not located in Non Misc Nodes list: 9015
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_Architecture_Recon_NLG.err.err"

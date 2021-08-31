@@ -1,10 +1,472 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/old_pec_def_delete.log <==
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200803050723
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200803073053
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200806042913
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200810050113
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200813032640
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200817064544
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200820033411
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200824062634
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:cldanpcsco8F# -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200827035324
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200831034622
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200831115624
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200903040342
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200910042000
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200914042035
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200917041321
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200922150943
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20200928221622
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201005033623
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201012043038
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201019053730
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201026064132
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201102054019
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201109043534
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201116051641
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201123090625
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:b9v7zAeypDiJyq7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201221095342
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20201223034200
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210104052154
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210107051523
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210111042738
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210114081810
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210118031905
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210121041319
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210125064402
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210128051314
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210201050339
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210204052334
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210208053759
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210211064847
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210215052840
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210218042216
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210222070551
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:7GAVJjY34Ybnp9V -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210225052027
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210301040047
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210304060032
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210308073208
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210311053928
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210315061103
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:3Td4ZSjMyGs9ecj -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210318052155
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210322092219
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210329061611
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210405065512
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210412094841
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210419074840
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210426093814
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210503072527
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210510092122
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210517063051
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210524072505
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210531071037
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210607065537
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa7B5 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210622020042
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210630225532
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210630235209
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210705070945
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210705095716
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210705100844
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210706031937
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210706095338
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210707003324
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210707003507
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210707004546
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210708053906
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210712043523
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210712101719
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210712194924
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210714024057
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210715064450
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210715100648
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210719071117
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210722091831
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210726064211
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210729091312
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
 20210802135648
 cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
 The operation was successful.
 
 20210804020012
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210805072807
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210809202117
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210811091619
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210812090447
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210816124543
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210823102659
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210826072302
+cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
+The operation was successful.
+
+20210830084339
 cd /apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -action 'Delete Old PEC ID' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/old_pec_delete.err'
 The operation was successful.

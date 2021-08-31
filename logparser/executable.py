@@ -8,7 +8,7 @@ from core import LogParser
 from support import Colors
 
 
-def validate_arguments(argv):
+def validate_arguments(argv) -> List:
     sourceloc: str = ''
     inputtype: str = ''
     targetloc: str = ''
@@ -38,7 +38,9 @@ def validate_arguments(argv):
     elif inputtype == 'informat':
         print('Input file type is to be processed is informatica log files')
 
-    return sourceloc, targetloc
+    all_locations: List = [sourceloc, targetloc]
+    print(all_locations)
+    return all_locations
 
 
 # if __name__ == "__main__":
@@ -48,7 +50,7 @@ parser = LogParser()
 current_directory: str = os.getcwd()
 log_file_path: str = os.path.join(current_directory, '..', sourceloc, '*')
 results_dir_path: str = os.path.join(current_directory, '..', targetloc)
-# log_file_path: str = os.path.join(current_directory, '..', 'anp_logs', '*')
+# log_file_path: str = os.path.join(current_directory, '..', 'anaplan_logs', '*')
 # results_dir_path: str = os.path.join(current_directory, '..', 'results')
 log_files: List[str] = glob.glob(log_file_path)
 for log_file in log_files:
@@ -66,3 +68,4 @@ parser.write_results(
     log_file_name='anplog',
     # log_file_name=os.path.basename(log_file).split('.')[0],
     results_dir_path=results_dir_path
+)

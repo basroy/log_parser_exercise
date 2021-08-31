@@ -1,11 +1,16 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_BE_SBE_BKG.log <==
+8a81b010721f3bec01722c4420f878e0 5486F999A91246CF9D710D228864764F
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NODE_BE_PEC_PCT.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NODE_BE_SBE_BKG_PCT.csv' -import 'Node BE PEC ID from FF_NODE_BE_PEC_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_BE_SBE_BKG_list.err.err' -import 'Node BE PEC Percentage from FF_NODE_BE_PEC_PCT.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_BE_SBE_BKG_module.err.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NODE_BE_SBE_BKG_PCT.csv" has been uploaded as FF_NODE_BE_PEC_PCT.csv.
+The operation was successful.
+Node BE PEC ID: 18085 (0/18085) rows successful, 428977 ignored 
 
 The operation was successful.
-BUSINESS_ENTITY_DESCR cells: 75669 (368941 failed)
-Q1_SPLIT cells: 444610
-Q2_SPLIT cells: 444610
-Q3_SPLIT cells: 444610
-Q4_SPLIT cells: 444610
-More than one value for non-numeric cell: 368941
+BUSINESS_ENTITY_DESCR cells: 42956 (404106 failed)
+Q1_SPLIT cells: 447062
+Q2_SPLIT cells: 447062
+Q3_SPLIT cells: 447062
+Q4_SPLIT cells: 447062
+More than one value for non-numeric cell: 404106
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_BE_SBE_BKG_module.err.err"

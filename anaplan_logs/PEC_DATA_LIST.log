@@ -1,9 +1,8 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/PEC_DATA_LIST.log <==
 8a868cd87a25f4cf017a54dbb22c16e3 2FA3B2DE0B544E139FD6BB012D2DA513
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -file 'Weekly PEC refresh.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_nlg_pec_rules_def.csv' -import 'PEC ID from weekly PEC refresh.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/PEC_DATA_LIST.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_xxanp_nlg_pec_rules_def.csv" has been uploaded as Weekly PEC refresh.csv.
 The operation was successful.
-PEC ID: 4466 (4466/0) rows successful, 0 (0/0) rows has warnings, 9 failed, 0 ignored
-Error in key for this row; refers to invalid list item: SVC-NEW ANNUAL: 9
+PEC ID: 4453 (4453/0) rows successful, 0 (0/0) rows has warnings, 33 failed, 0 ignored
+Error in key for this row; refers to invalid list item: SVC-NEW ANNUAL: 33
 

@@ -1,4 +1,653 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship.log <==
+CSM_Owner__r_Employee_Id cells: 7302
+Stage cells: 7348
+Order Number cells: 7248
+Commission Booked Date cells: 7348
+CurrencyCode cells: 7348
+ExchangeRate cells: 7348
+LC_Amount cells: 7334
+Shipped Date cells: 7348
+Owner_Division cells: 7328
+Prod_Category__c cells: 7332
+Opportunity_Amount cells: 7334
+Opportunity_LC_Amount cells: 7334
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7400 (7400/0) rows successful, 0 ignored 
+
+Id cells: 7400
+Name cells: 7400
+Amount cells: 7386
+CloseDate cells: 7400
+LastModifiedDate cells: 7400
+Opportunity_ID_Case_Safe__c cells: 7400
+Account__c cells: 7400
+Owner_Name cells: 7400
+Owner_Employee_Id cells: 7400
+LastModifiedBy_Name cells: 7400
+CSM_Owner__r_Name cells: 7354
+CSM_Owner__r_Employee_Id cells: 7354
+Stage cells: 7400
+Order Number cells: 7300
+Commission Booked Date cells: 7400
+CurrencyCode cells: 7400
+ExchangeRate cells: 7400
+LC_Amount cells: 7386
+Shipped Date cells: 7400
+Owner_Division cells: 7380
+Prod_Category__c cells: 7384
+Opportunity_Amount cells: 7386
+Opportunity_LC_Amount cells: 7386
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7672 (7672/0) rows successful, 0 ignored 
+
+Id cells: 7672
+Name cells: 7672
+Amount cells: 7654
+CloseDate cells: 7672
+LastModifiedDate cells: 7672
+Opportunity_ID_Case_Safe__c cells: 7672
+Account__c cells: 7672
+Owner_Name cells: 7672
+Owner_Employee_Id cells: 7672
+LastModifiedBy_Name cells: 7672
+CSM_Owner__r_Name cells: 7626
+CSM_Owner__r_Employee_Id cells: 7626
+Stage cells: 7672
+Order Number cells: 7572
+Commission Booked Date cells: 7672
+CurrencyCode cells: 7672
+ExchangeRate cells: 7672
+LC_Amount cells: 7654
+Shipped Date cells: 7672
+Owner_Division cells: 7648
+Prod_Category__c cells: 7652
+Opportunity_Amount cells: 7654
+Opportunity_LC_Amount cells: 7654
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7672 (7672/0) rows successful, 0 ignored 
+
+Id cells: 7672
+Name cells: 7672
+Amount cells: 7654
+CloseDate cells: 7672
+LastModifiedDate cells: 7672
+Opportunity_ID_Case_Safe__c cells: 7672
+Account__c cells: 7672
+Owner_Name cells: 7672
+Owner_Employee_Id cells: 7672
+LastModifiedBy_Name cells: 7672
+CSM_Owner__r_Name cells: 7626
+CSM_Owner__r_Employee_Id cells: 7626
+Stage cells: 7672
+Order Number cells: 7572
+Commission Booked Date cells: 7672
+CurrencyCode cells: 7672
+ExchangeRate cells: 7672
+LC_Amount cells: 7654
+Shipped Date cells: 7672
+Owner_Division cells: 7648
+Prod_Category__c cells: 7652
+Opportunity_Amount cells: 7654
+Opportunity_LC_Amount cells: 7654
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 7780 (7780/0) rows successful, 0 ignored 
+
+Id cells: 7780
+Name cells: 7780
+Amount cells: 7762
+CloseDate cells: 7780
+LastModifiedDate cells: 7780
+Opportunity_ID_Case_Safe__c cells: 7780
+Account__c cells: 7780
+Owner_Name cells: 7780
+Owner_Employee_Id cells: 7780
+LastModifiedBy_Name cells: 7780
+CSM_Owner__r_Name cells: 7734
+CSM_Owner__r_Employee_Id cells: 7734
+Stage cells: 7780
+Order Number cells: 7680
+Commission Booked Date cells: 7780
+CurrencyCode cells: 7780
+ExchangeRate cells: 7780
+LC_Amount cells: 7762
+Shipped Date cells: 7780
+Owner_Division cells: 7756
+Prod_Category__c cells: 7760
+Opportunity_Amount cells: 7762
+Opportunity_LC_Amount cells: 7762
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9334 (9334/0) rows successful, 0 ignored 
+
+Id cells: 9334
+Name cells: 9334
+Amount cells: 9322
+CloseDate cells: 9334
+LastModifiedDate cells: 9334
+Opportunity_ID_Case_Safe__c cells: 9334
+Account__c cells: 9334
+Owner_Name cells: 9334
+Owner_Employee_Id cells: 9334
+LastModifiedBy_Name cells: 9334
+CSM_Owner__r_Name cells: 9234
+CSM_Owner__r_Employee_Id cells: 9234
+Stage cells: 9334
+Order Number cells: 9318
+Commission Booked Date cells: 9334
+CurrencyCode cells: 9334
+ExchangeRate cells: 9334
+LC_Amount cells: 9322
+Shipped Date cells: 9334
+Owner_Division cells: 9322
+Prod_Category__c cells: 9318
+Opportunity_Amount cells: 9322
+Opportunity_LC_Amount cells: 9322
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9428 (9428/0) rows successful, 0 ignored 
+
+Id cells: 9428
+Name cells: 9428
+Amount cells: 9416
+CloseDate cells: 9428
+LastModifiedDate cells: 9428
+Opportunity_ID_Case_Safe__c cells: 9428
+Account__c cells: 9428
+Owner_Name cells: 9428
+Owner_Employee_Id cells: 9428
+LastModifiedBy_Name cells: 9428
+CSM_Owner__r_Name cells: 9328
+CSM_Owner__r_Employee_Id cells: 9328
+Stage cells: 9428
+Order Number cells: 9412
+Commission Booked Date cells: 9428
+CurrencyCode cells: 9428
+ExchangeRate cells: 9428
+LC_Amount cells: 9416
+Shipped Date cells: 9428
+Owner_Division cells: 9416
+Prod_Category__c cells: 9412
+Opportunity_Amount cells: 9416
+Opportunity_LC_Amount cells: 9416
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9428 (9428/0) rows successful, 0 ignored 
+
+Id cells: 9428
+Name cells: 9428
+Amount cells: 9416
+CloseDate cells: 9428
+LastModifiedDate cells: 9428
+Opportunity_ID_Case_Safe__c cells: 9428
+Account__c cells: 9428
+Owner_Name cells: 9428
+Owner_Employee_Id cells: 9428
+LastModifiedBy_Name cells: 9428
+CSM_Owner__r_Name cells: 9328
+CSM_Owner__r_Employee_Id cells: 9328
+Stage cells: 9428
+Order Number cells: 9412
+Commission Booked Date cells: 9428
+CurrencyCode cells: 9428
+ExchangeRate cells: 9428
+LC_Amount cells: 9416
+Shipped Date cells: 9428
+Owner_Division cells: 9416
+Prod_Category__c cells: 9412
+Opportunity_Amount cells: 9416
+Opportunity_LC_Amount cells: 9416
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9428 (9428/0) rows successful, 0 ignored 
+
+Id cells: 9428
+Name cells: 9428
+Amount cells: 9416
+CloseDate cells: 9428
+LastModifiedDate cells: 9428
+Opportunity_ID_Case_Safe__c cells: 9428
+Account__c cells: 9428
+Owner_Name cells: 9428
+Owner_Employee_Id cells: 9428
+LastModifiedBy_Name cells: 9428
+CSM_Owner__r_Name cells: 9328
+CSM_Owner__r_Employee_Id cells: 9328
+Stage cells: 9428
+Order Number cells: 9412
+Commission Booked Date cells: 9428
+CurrencyCode cells: 9428
+ExchangeRate cells: 9428
+LC_Amount cells: 9416
+Shipped Date cells: 9428
+Owner_Division cells: 9416
+Prod_Category__c cells: 9412
+Opportunity_Amount cells: 9416
+Opportunity_LC_Amount cells: 9416
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9488 (9488/0) rows successful, 0 ignored 
+
+Id cells: 9488
+Name cells: 9488
+Amount cells: 9476
+CloseDate cells: 9488
+LastModifiedDate cells: 9488
+Opportunity_ID_Case_Safe__c cells: 9488
+Account__c cells: 9488
+Owner_Name cells: 9488
+Owner_Employee_Id cells: 9488
+LastModifiedBy_Name cells: 9488
+CSM_Owner__r_Name cells: 9388
+CSM_Owner__r_Employee_Id cells: 9388
+Stage cells: 9488
+Order Number cells: 9472
+Commission Booked Date cells: 9488
+CurrencyCode cells: 9488
+ExchangeRate cells: 9488
+LC_Amount cells: 9476
+Shipped Date cells: 9488
+Owner_Division cells: 9476
+Prod_Category__c cells: 9472
+Opportunity_Amount cells: 9476
+Opportunity_LC_Amount cells: 9476
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9970 (9970/0) rows successful, 0 ignored 
+
+Id cells: 9970
+Name cells: 9970
+Amount cells: 9958
+CloseDate cells: 9970
+LastModifiedDate cells: 9970
+Opportunity_ID_Case_Safe__c cells: 9970
+Account__c cells: 9970
+Owner_Name cells: 9970
+Owner_Employee_Id cells: 9970
+LastModifiedBy_Name cells: 9970
+CSM_Owner__r_Name cells: 9870
+CSM_Owner__r_Employee_Id cells: 9870
+Stage cells: 9970
+Order Number cells: 9954
+Commission Booked Date cells: 9970
+CurrencyCode cells: 9970
+ExchangeRate cells: 9970
+LC_Amount cells: 9958
+Shipped Date cells: 9970
+Owner_Division cells: 9958
+Prod_Category__c cells: 9952
+Opportunity_Amount cells: 9958
+Opportunity_LC_Amount cells: 9958
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 9970 (9970/0) rows successful, 0 ignored 
+
+Id cells: 9970
+Name cells: 9970
+Amount cells: 9958
+CloseDate cells: 9970
+LastModifiedDate cells: 9970
+Opportunity_ID_Case_Safe__c cells: 9970
+Account__c cells: 9970
+Owner_Name cells: 9970
+Owner_Employee_Id cells: 9970
+LastModifiedBy_Name cells: 9970
+CSM_Owner__r_Name cells: 9870
+CSM_Owner__r_Employee_Id cells: 9870
+Stage cells: 9970
+Order Number cells: 9954
+Commission Booked Date cells: 9970
+CurrencyCode cells: 9970
+ExchangeRate cells: 9970
+LC_Amount cells: 9958
+Shipped Date cells: 9970
+Owner_Division cells: 9958
+Prod_Category__c cells: 9952
+Opportunity_Amount cells: 9958
+Opportunity_LC_Amount cells: 9958
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 11932 (11932/0) rows successful, 0 ignored 
+
+Id cells: 11932
+Name cells: 11932
+Amount cells: 11916
+CloseDate cells: 11932
+LastModifiedDate cells: 11932
+Opportunity_ID_Case_Safe__c cells: 11932
+Account__c cells: 11932
+Owner_Name cells: 11932
+Owner_Employee_Id cells: 11932
+LastModifiedBy_Name cells: 11932
+CSM_Owner__r_Name cells: 11822
+CSM_Owner__r_Employee_Id cells: 11822
+Stage cells: 11932
+Order Number cells: 11914
+Commission Booked Date cells: 11932
 CurrencyCode cells: 11932
 ExchangeRate cells: 11932
 LC_Amount cells: 11916
@@ -7,5 +656,345 @@ Owner_Division cells: 11916
 Prod_Category__c cells: 11910
 Opportunity_Amount cells: 11916
 Opportunity_LC_Amount cells: 11916
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 11932 (11932/0) rows successful, 0 ignored 
+
+Id cells: 11932
+Name cells: 11932
+Amount cells: 11916
+CloseDate cells: 11932
+LastModifiedDate cells: 11932
+Opportunity_ID_Case_Safe__c cells: 11932
+Account__c cells: 11932
+Owner_Name cells: 11932
+Owner_Employee_Id cells: 11932
+LastModifiedBy_Name cells: 11932
+CSM_Owner__r_Name cells: 11822
+CSM_Owner__r_Employee_Id cells: 11822
+Stage cells: 11932
+Order Number cells: 11914
+Commission Booked Date cells: 11932
+CurrencyCode cells: 11932
+ExchangeRate cells: 11932
+LC_Amount cells: 11916
+Shipped Date cells: 11932
+Owner_Division cells: 11916
+Prod_Category__c cells: 11910
+Opportunity_Amount cells: 11916
+Opportunity_LC_Amount cells: 11916
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 12228 (12228/0) rows successful, 0 ignored 
+
+Id cells: 12228
+Name cells: 12228
+Amount cells: 12212
+CloseDate cells: 12228
+LastModifiedDate cells: 12228
+Opportunity_ID_Case_Safe__c cells: 12228
+Account__c cells: 12228
+Owner_Name cells: 12228
+Owner_Employee_Id cells: 12228
+LastModifiedBy_Name cells: 12228
+CSM_Owner__r_Name cells: 12118
+CSM_Owner__r_Employee_Id cells: 12118
+Stage cells: 12228
+Order Number cells: 12210
+Commission Booked Date cells: 12228
+CurrencyCode cells: 12228
+ExchangeRate cells: 12228
+LC_Amount cells: 12212
+Shipped Date cells: 12228
+Owner_Division cells: 12212
+Prod_Category__c cells: 12206
+Opportunity_Amount cells: 12212
+Opportunity_LC_Amount cells: 12212
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 12418 (12418/0) rows successful, 0 ignored 
+
+Id cells: 12418
+Name cells: 12418
+Amount cells: 12402
+CloseDate cells: 12418
+LastModifiedDate cells: 12418
+Opportunity_ID_Case_Safe__c cells: 12418
+Account__c cells: 12418
+Owner_Name cells: 12418
+Owner_Employee_Id cells: 12418
+LastModifiedBy_Name cells: 12418
+CSM_Owner__r_Name cells: 12308
+CSM_Owner__r_Employee_Id cells: 12308
+Stage cells: 12418
+Order Number cells: 12400
+Commission Booked Date cells: 12418
+CurrencyCode cells: 12418
+ExchangeRate cells: 12418
+LC_Amount cells: 12402
+Shipped Date cells: 12418
+Owner_Division cells: 12402
+Prod_Category__c cells: 12394
+Opportunity_Amount cells: 12402
+Opportunity_LC_Amount cells: 12402
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 12758 (12758/0) rows successful, 0 ignored 
+
+Id cells: 12758
+Name cells: 12758
+Amount cells: 12742
+CloseDate cells: 12758
+LastModifiedDate cells: 12758
+Opportunity_ID_Case_Safe__c cells: 12758
+Account__c cells: 12758
+Owner_Name cells: 12758
+Owner_Employee_Id cells: 12758
+LastModifiedBy_Name cells: 12758
+CSM_Owner__r_Name cells: 12644
+CSM_Owner__r_Employee_Id cells: 12644
+Stage cells: 12758
+Order Number cells: 12740
+Commission Booked Date cells: 12758
+CurrencyCode cells: 12758
+ExchangeRate cells: 12758
+LC_Amount cells: 12742
+Shipped Date cells: 12758
+Owner_Division cells: 12742
+Prod_Category__c cells: 12732
+Opportunity_Amount cells: 12742
+Opportunity_LC_Amount cells: 12742
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 12766 (12766/0) rows successful, 0 ignored 
+
+Id cells: 12766
+Name cells: 12766
+Amount cells: 12750
+CloseDate cells: 12766
+LastModifiedDate cells: 12766
+Opportunity_ID_Case_Safe__c cells: 12766
+Account__c cells: 12766
+Owner_Name cells: 12766
+Owner_Employee_Id cells: 12766
+LastModifiedBy_Name cells: 12766
+CSM_Owner__r_Name cells: 12652
+CSM_Owner__r_Employee_Id cells: 12652
+Stage cells: 12766
+Order Number cells: 12748
+Commission Booked Date cells: 12766
+CurrencyCode cells: 12766
+ExchangeRate cells: 12766
+LC_Amount cells: 12750
+Shipped Date cells: 12766
+Owner_Division cells: 12750
+Prod_Category__c cells: 12740
+Opportunity_Amount cells: 12750
+Opportunity_LC_Amount cells: 12750
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 12874 (12874/0) rows successful, 0 ignored 
+
+Id cells: 12874
+Name cells: 12874
+Amount cells: 12858
+CloseDate cells: 12874
+LastModifiedDate cells: 12874
+Opportunity_ID_Case_Safe__c cells: 12874
+Account__c cells: 12874
+Owner_Name cells: 12874
+Owner_Employee_Id cells: 12874
+LastModifiedBy_Name cells: 12874
+CSM_Owner__r_Name cells: 12760
+CSM_Owner__r_Employee_Id cells: 12760
+Stage cells: 12874
+Order Number cells: 12856
+Commission Booked Date cells: 12874
+CurrencyCode cells: 12874
+ExchangeRate cells: 12874
+LC_Amount cells: 12858
+Shipped Date cells: 12874
+Owner_Division cells: 12858
+Prod_Category__c cells: 12848
+Opportunity_Amount cells: 12858
+Opportunity_LC_Amount cells: 12858
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 3132 (3132/0) rows successful, 0 ignored 
+
+Id cells: 3132
+Name cells: 3132
+Amount cells: 3132
+CloseDate cells: 3132
+LastModifiedDate cells: 3132
+Opportunity_ID_Case_Safe__c cells: 3132
+Account__c cells: 3132
+Owner_Name cells: 3132
+Owner_Employee_Id cells: 3132
+LastModifiedBy_Name cells: 3132
+CSM_Owner__r_Name cells: 3112
+CSM_Owner__r_Employee_Id cells: 3112
+Stage cells: 3132
+Order Number cells: 3132
+Commission Booked Date cells: 3132
+CurrencyCode cells: 3132
+ExchangeRate cells: 3132
+LC_Amount cells: 3132
+Shipped Date cells: 3132
+Owner_Division cells: 3132
+Prod_Category__c cells: 3122
+Opportunity_Amount cells: 3132
+Opportunity_LC_Amount cells: 3132
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 3132 (3132/0) rows successful, 0 ignored 
+
+Id cells: 3132
+Name cells: 3132
+Amount cells: 3132
+CloseDate cells: 3132
+LastModifiedDate cells: 3132
+Opportunity_ID_Case_Safe__c cells: 3132
+Account__c cells: 3132
+Owner_Name cells: 3132
+Owner_Employee_Id cells: 3132
+LastModifiedBy_Name cells: 3132
+CSM_Owner__r_Name cells: 3112
+CSM_Owner__r_Employee_Id cells: 3112
+Stage cells: 3132
+Order Number cells: 3132
+Commission Booked Date cells: 3132
+CurrencyCode cells: 3132
+ExchangeRate cells: 3132
+LC_Amount cells: 3132
+Shipped Date cells: 3132
+Owner_Division cells: 3132
+Prod_Category__c cells: 3122
+Opportunity_Amount cells: 3132
+Opportunity_LC_Amount cells: 3132
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 3928 (3928/0) rows successful, 0 ignored 
+
+Id cells: 3928
+Name cells: 3928
+Amount cells: 3928
+CloseDate cells: 3928
+LastModifiedDate cells: 3928
+Opportunity_ID_Case_Safe__c cells: 3928
+Account__c cells: 3928
+Owner_Name cells: 3928
+Owner_Employee_Id cells: 3928
+LastModifiedBy_Name cells: 3928
+CSM_Owner__r_Name cells: 3904
+CSM_Owner__r_Employee_Id cells: 3904
+Stage cells: 3928
+Order Number cells: 3928
+Commission Booked Date cells: 3928
+CurrencyCode cells: 3928
+ExchangeRate cells: 3928
+LC_Amount cells: 3928
+Shipped Date cells: 3928
+Owner_Division cells: 3928
+Prod_Category__c cells: 3912
+Opportunity_Amount cells: 3928
+Opportunity_LC_Amount cells: 3928
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_opportunity_split_ship.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv' -process 'Split Closed Won Report' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_opportunity_split_ship_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_opportunity_split_ship.csv" has been uploaded as ff_meraki_opportunity_split_ship.csv.
+The operation was successful.
+
+Split Shippings: 3928 (3928/0) rows successful, 0 ignored 
+
+Id cells: 3928
+Name cells: 3928
+Amount cells: 3928
+CloseDate cells: 3928
+LastModifiedDate cells: 3928
+Opportunity_ID_Case_Safe__c cells: 3928
+Account__c cells: 3928
+Owner_Name cells: 3928
+Owner_Employee_Id cells: 3928
+LastModifiedBy_Name cells: 3928
+CSM_Owner__r_Name cells: 3904
+CSM_Owner__r_Employee_Id cells: 3904
+Stage cells: 3928
+Order Number cells: 3928
+Commission Booked Date cells: 3928
+CurrencyCode cells: 3928
+ExchangeRate cells: 3928
+LC_Amount cells: 3928
+Shipped Date cells: 3928
+Owner_Division cells: 3928
+Prod_Category__c cells: 3912
+Opportunity_Amount cells: 3928
+Opportunity_LC_Amount cells: 3928
 
 

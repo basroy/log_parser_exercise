@@ -1,4 +1,282 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report.log <==
+Tax__c cells: 149570
+Shipping_Address1__c cells: 149142
+Shipping_Address2__c cells: 68351
+Shipping_City__c cells: 149142
+Shipping_State__c cells: 134321
+Shipping_Zip_Code__c cells: 149142
+Shipping_Country__c cells: 149142
+Reseller_Region__c cells: 152666
+Account_Name cells: 153271
+Account_BillingStreet cells: 153142
+Account_BillingCity cells: 153075
+Account_BillingState cells: 135402
+Account_BillingPostalCode cells: 151194
+Account_BillingCountry cells: 153271
+Account_Industry cells: 139541
+Account_Cisco_Sales_Level_2__c cells: 143473
+Account_Cisco_Sales_Level_4__c cells: 143473
+Account_Cisco_Sales_Level_5__c cells: 143473
+Account_Cisco_Sales_Level_6__c cells: 143473
+Account_Cisco_CR_Party_ID__c cells: 148074
+Owner_Name cells: 153272
+Owner_Role__c cells: 153272
+Owner_Employee_ID__c cells: 153212
+Reseller__r_Name cells: 152666
+Reseller__r_BillingStreet cells: 152654
+Reseller__r_BillingCity cells: 152595
+Reseller__r_BillingState cells: 130330
+Reseller__r_BillingPostalCode cells: 151869
+Reseller__r_BillingCountry cells: 152666
+Reseller__r_ShippingStreet cells: 112739
+Reseller__r_ShippingCity cells: 112609
+Reseller__r_ShippingState cells: 95597
+Reseller__r_ShippingPostalCode cells: 112489
+Reseller__r_ShippingCountry cells: 112589
+Reseller__r_Cisco_Reseller_ID__c cells: 136913
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 134154
+Reseller__r_Cisco_BE_Geo_ID__c cells: 136998
+CSM_Owner__r_Name cells: 152359
+CSM_Owner__r_Employee_ID__c cells: 152359
+Distributor__r_Name cells: 108071
+Distributor__r_Region__c cells: 108071
+Commission Booked Date cells: 153260
+DistiPOS cells: 153272
+CurrencyCode cells: 151895
+ExchangeRate cells: 153272
+LC_TotalPrice cells: 153272
+LC_Amount cells: 153272
+Shipped Date cells: 153272
+Owner_Division cells: 152126
+Exclude_from_Compensation__c cells: 153272
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 153292 (153292/0) rows successful, 0 ignored 
+
+Id cells: 153292
+Quantity cells: 153292
+TotalPrice cells: 153292
+UnitPrice cells: 153292
+Opportunity Record Type cells: 153292
+Prod_Category__c cells: 152368
+Standard_Price__c cells: 153292
+Prod_Family__c cells: 153292
+Product_Code__c cells: 153292
+Name cells: 153292
+StageName cells: 153292
+Amount cells: 153292
+Order__c cells: 149588
+CloseDate cells: 153292
+Booked Date cells: 2
+Last Modified Date cells: 153292
+PO__c cells: 149607
+S_H_Costs__c cells: 149590
+Tax__c cells: 149590
+Shipping_Address1__c cells: 149162
+Shipping_Address2__c cells: 68359
+Shipping_City__c cells: 149162
+Shipping_State__c cells: 134341
+Shipping_Zip_Code__c cells: 149162
+Shipping_Country__c cells: 149162
+Reseller_Region__c cells: 152686
+Account_Name cells: 153291
+Account_BillingStreet cells: 153162
+Account_BillingCity cells: 153095
+Account_BillingState cells: 135422
+Account_BillingPostalCode cells: 151214
+Account_BillingCountry cells: 153291
+Account_Industry cells: 139561
+Account_Cisco_Sales_Level_2__c cells: 143493
+Account_Cisco_Sales_Level_4__c cells: 143493
+Account_Cisco_Sales_Level_5__c cells: 143493
+Account_Cisco_Sales_Level_6__c cells: 143493
+Account_Cisco_CR_Party_ID__c cells: 148094
+Owner_Name cells: 153292
+Owner_Role__c cells: 153292
+Owner_Employee_ID__c cells: 153232
+Reseller__r_Name cells: 152686
+Reseller__r_BillingStreet cells: 152674
+Reseller__r_BillingCity cells: 152615
+Reseller__r_BillingState cells: 130350
+Reseller__r_BillingPostalCode cells: 151889
+Reseller__r_BillingCountry cells: 152686
+Reseller__r_ShippingStreet cells: 112758
+Reseller__r_ShippingCity cells: 112628
+Reseller__r_ShippingState cells: 95615
+Reseller__r_ShippingPostalCode cells: 112508
+Reseller__r_ShippingCountry cells: 112608
+Reseller__r_Cisco_Reseller_ID__c cells: 136932
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 134173
+Reseller__r_Cisco_BE_Geo_ID__c cells: 137017
+CSM_Owner__r_Name cells: 152379
+CSM_Owner__r_Employee_ID__c cells: 152379
+Distributor__r_Name cells: 108084
+Distributor__r_Region__c cells: 108084
+Commission Booked Date cells: 153280
+DistiPOS cells: 153292
+CurrencyCode cells: 151915
+ExchangeRate cells: 153292
+LC_TotalPrice cells: 153292
+LC_Amount cells: 153292
+Shipped Date cells: 153292
+Owner_Division cells: 152146
+Exclude_from_Compensation__c cells: 153292
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 170222 (170222/0) rows successful, 0 ignored 
+
+Id cells: 170222
+Quantity cells: 170222
+TotalPrice cells: 170222
+UnitPrice cells: 170222
+Opportunity Record Type cells: 170222
+Prod_Category__c cells: 169077
+Standard_Price__c cells: 170222
+Prod_Family__c cells: 170222
+Product_Code__c cells: 170222
+Name cells: 170222
+StageName cells: 170222
+Amount cells: 170222
+Order__c cells: 165175
+CloseDate cells: 170222
+Booked Date cells: 3
+Last Modified Date cells: 170222
+PO__c cells: 165193
+S_H_Costs__c cells: 166004
+Tax__c cells: 165175
+Shipping_Address1__c cells: 165557
+Shipping_Address2__c cells: 75212
+Shipping_City__c cells: 165557
+Shipping_State__c cells: 149599
+Shipping_Zip_Code__c cells: 165557
+Shipping_Country__c cells: 165557
+Reseller_Region__c cells: 169191
+Account_Name cells: 170222
+Account_BillingStreet cells: 169671
+Account_BillingCity cells: 169998
+Account_BillingState cells: 150640
+Account_BillingPostalCode cells: 167958
+Account_BillingCountry cells: 170222
+Account_Industry cells: 154522
+Account_Cisco_Sales_Level_2__c cells: 159189
+Account_Cisco_Sales_Level_4__c cells: 159189
+Account_Cisco_Sales_Level_5__c cells: 159189
+Account_Cisco_Sales_Level_6__c cells: 159189
+Account_Cisco_CR_Party_ID__c cells: 164264
+Owner_Name cells: 170222
+Owner_Role__c cells: 170222
+Owner_Employee_ID__c cells: 169324
+Reseller__r_Name cells: 169254
+Reseller__r_BillingStreet cells: 169236
+Reseller__r_BillingCity cells: 169110
+Reseller__r_BillingState cells: 144834
+Reseller__r_BillingPostalCode cells: 168340
+Reseller__r_BillingCountry cells: 169191
+Reseller__r_ShippingStreet cells: 124845
+Reseller__r_ShippingCity cells: 124708
+Reseller__r_ShippingState cells: 106403
+Reseller__r_ShippingPostalCode cells: 124568
+Reseller__r_ShippingCountry cells: 124690
+Reseller__r_Cisco_Reseller_ID__c cells: 151810
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 148821
+Reseller__r_Cisco_BE_Geo_ID__c cells: 151895
+CSM_Owner__r_Name cells: 168882
+CSM_Owner__r_Employee_ID__c cells: 168882
+Distributor__r_Name cells: 119725
+Distributor__r_Region__c cells: 119725
+Commission Booked Date cells: 170211
+DistiPOS cells: 170222
+CurrencyCode cells: 168787
+ExchangeRate cells: 170222
+LC_TotalPrice cells: 170222
+LC_Amount cells: 170222
+Shipped Date cells: 170222
+Owner_Division cells: 168383
+Exclude_from_Compensation__c cells: 170222
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 170240 (170240/0) rows successful, 0 ignored 
+
+Id cells: 170240
+Quantity cells: 170240
+TotalPrice cells: 170240
+UnitPrice cells: 170240
+Opportunity Record Type cells: 170240
+Prod_Category__c cells: 169095
+Standard_Price__c cells: 170240
+Prod_Family__c cells: 170240
+Product_Code__c cells: 170240
+Name cells: 170240
+StageName cells: 170240
+Amount cells: 170240
+Order__c cells: 165193
+CloseDate cells: 170240
+Booked Date cells: 3
+Last Modified Date cells: 170240
+PO__c cells: 165211
+S_H_Costs__c cells: 166022
+Tax__c cells: 165193
+Shipping_Address1__c cells: 165575
+Shipping_Address2__c cells: 75229
+Shipping_City__c cells: 165575
+Shipping_State__c cells: 149617
+Shipping_Zip_Code__c cells: 165575
+Shipping_Country__c cells: 165575
+Reseller_Region__c cells: 169209
+Account_Name cells: 170240
+Account_BillingStreet cells: 169689
+Account_BillingCity cells: 170016
+Account_BillingState cells: 150658
+Account_BillingPostalCode cells: 167976
+Account_BillingCountry cells: 170240
+Account_Industry cells: 154549
+Account_Cisco_Sales_Level_2__c cells: 159218
+Account_Cisco_Sales_Level_4__c cells: 159218
+Account_Cisco_Sales_Level_5__c cells: 159218
+Account_Cisco_Sales_Level_6__c cells: 159218
+Account_Cisco_CR_Party_ID__c cells: 164293
+Owner_Name cells: 170240
+Owner_Role__c cells: 170240
+Owner_Employee_ID__c cells: 169342
+Reseller__r_Name cells: 169272
+Reseller__r_BillingStreet cells: 169254
+Reseller__r_BillingCity cells: 169128
+Reseller__r_BillingState cells: 144852
+Reseller__r_BillingPostalCode cells: 168358
+Reseller__r_BillingCountry cells: 169209
+Reseller__r_ShippingStreet cells: 124863
+Reseller__r_ShippingCity cells: 124726
+Reseller__r_ShippingState cells: 106421
+Reseller__r_ShippingPostalCode cells: 124586
+Reseller__r_ShippingCountry cells: 124708
+Reseller__r_Cisco_Reseller_ID__c cells: 151828
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 148844
+Reseller__r_Cisco_BE_Geo_ID__c cells: 151913
+CSM_Owner__r_Name cells: 168905
+CSM_Owner__r_Employee_ID__c cells: 168905
+Distributor__r_Name cells: 119743
+Distributor__r_Region__c cells: 119743
+Commission Booked Date cells: 170229
 DistiPOS cells: 170240
 CurrencyCode cells: 168805
 ExchangeRate cells: 170240
@@ -7,5 +285,716 @@ LC_Amount cells: 170240
 Shipped Date cells: 170240
 Owner_Division cells: 168401
 Exclude_from_Compensation__c cells: 170240
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 172741 (172741/0) rows successful, 0 ignored 
+
+Id cells: 172741
+Quantity cells: 172741
+TotalPrice cells: 172741
+UnitPrice cells: 172741
+Opportunity Record Type cells: 172741
+Prod_Category__c cells: 171580
+Standard_Price__c cells: 172741
+Prod_Family__c cells: 172741
+Product_Code__c cells: 172741
+Name cells: 172741
+StageName cells: 172741
+Amount cells: 172741
+Order__c cells: 167453
+CloseDate cells: 172741
+Booked Date cells: 3
+Last Modified Date cells: 172741
+PO__c cells: 167482
+S_H_Costs__c cells: 168282
+Tax__c cells: 167453
+Shipping_Address1__c cells: 167963
+Shipping_Address2__c cells: 76400
+Shipping_City__c cells: 167963
+Shipping_State__c cells: 151765
+Shipping_Zip_Code__c cells: 167963
+Shipping_Country__c cells: 167963
+Reseller_Region__c cells: 171710
+Account_Name cells: 172741
+Account_BillingStreet cells: 172190
+Account_BillingCity cells: 172517
+Account_BillingState cells: 152811
+Account_BillingPostalCode cells: 170443
+Account_BillingCountry cells: 172741
+Account_Industry cells: 156861
+Account_Cisco_Sales_Level_2__c cells: 161562
+Account_Cisco_Sales_Level_4__c cells: 161562
+Account_Cisco_Sales_Level_5__c cells: 161562
+Account_Cisco_Sales_Level_6__c cells: 161562
+Account_Cisco_CR_Party_ID__c cells: 166770
+Owner_Name cells: 172741
+Owner_Role__c cells: 172741
+Owner_Employee_ID__c cells: 171859
+Reseller__r_Name cells: 171773
+Reseller__r_BillingStreet cells: 171755
+Reseller__r_BillingCity cells: 171629
+Reseller__r_BillingState cells: 146889
+Reseller__r_BillingPostalCode cells: 170855
+Reseller__r_BillingCountry cells: 171710
+Reseller__r_ShippingStreet cells: 126697
+Reseller__r_ShippingCity cells: 126560
+Reseller__r_ShippingState cells: 107873
+Reseller__r_ShippingPostalCode cells: 126420
+Reseller__r_ShippingCountry cells: 126542
+Reseller__r_Cisco_Reseller_ID__c cells: 154150
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 151083
+Reseller__r_Cisco_BE_Geo_ID__c cells: 154235
+CSM_Owner__r_Name cells: 171406
+CSM_Owner__r_Employee_ID__c cells: 171406
+Distributor__r_Name cells: 121273
+Distributor__r_Region__c cells: 121273
+Commission Booked Date cells: 172730
+DistiPOS cells: 172741
+CurrencyCode cells: 171306
+ExchangeRate cells: 172741
+LC_TotalPrice cells: 172741
+LC_Amount cells: 172741
+Shipped Date cells: 172741
+Owner_Division cells: 170991
+Exclude_from_Compensation__c cells: 172741
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 174384 (174384/0) rows successful, 0 ignored 
+
+Id cells: 174384
+Quantity cells: 174384
+TotalPrice cells: 174384
+UnitPrice cells: 174384
+Opportunity Record Type cells: 174384
+Prod_Category__c cells: 173220
+Standard_Price__c cells: 174384
+Prod_Family__c cells: 174384
+Product_Code__c cells: 174384
+Name cells: 174384
+StageName cells: 174384
+Amount cells: 174384
+Order__c cells: 168488
+CloseDate cells: 174384
+Booked Date cells: 3
+Last Modified Date cells: 174384
+PO__c cells: 168517
+S_H_Costs__c cells: 169317
+Tax__c cells: 168488
+Shipping_Address1__c cells: 168998
+Shipping_Address2__c cells: 76827
+Shipping_City__c cells: 168998
+Shipping_State__c cells: 152747
+Shipping_Zip_Code__c cells: 168998
+Shipping_Country__c cells: 168998
+Reseller_Region__c cells: 173353
+Account_Name cells: 174384
+Account_BillingStreet cells: 173833
+Account_BillingCity cells: 174160
+Account_BillingState cells: 154304
+Account_BillingPostalCode cells: 171663
+Account_BillingCountry cells: 174384
+Account_Industry cells: 157997
+Account_Cisco_Sales_Level_2__c cells: 162700
+Account_Cisco_Sales_Level_4__c cells: 162700
+Account_Cisco_Sales_Level_5__c cells: 162700
+Account_Cisco_Sales_Level_6__c cells: 162700
+Account_Cisco_CR_Party_ID__c cells: 167953
+Owner_Name cells: 174384
+Owner_Role__c cells: 174384
+Owner_Employee_ID__c cells: 173502
+Reseller__r_Name cells: 173416
+Reseller__r_BillingStreet cells: 173398
+Reseller__r_BillingCity cells: 173272
+Reseller__r_BillingState cells: 148015
+Reseller__r_BillingPostalCode cells: 172494
+Reseller__r_BillingCountry cells: 173353
+Reseller__r_ShippingStreet cells: 128036
+Reseller__r_ShippingCity cells: 127899
+Reseller__r_ShippingState cells: 108713
+Reseller__r_ShippingPostalCode cells: 127759
+Reseller__r_ShippingCountry cells: 127881
+Reseller__r_Cisco_Reseller_ID__c cells: 155737
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 152662
+Reseller__r_Cisco_BE_Geo_ID__c cells: 155822
+CSM_Owner__r_Name cells: 173120
+CSM_Owner__r_Employee_ID__c cells: 173120
+Distributor__r_Name cells: 121868
+Distributor__r_Region__c cells: 121868
+Commission Booked Date cells: 174373
+DistiPOS cells: 174384
+CurrencyCode cells: 172931
+ExchangeRate cells: 174384
+LC_TotalPrice cells: 174384
+LC_Amount cells: 174384
+Shipped Date cells: 174384
+Owner_Division cells: 172305
+Exclude_from_Compensation__c cells: 174384
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 175347 (175347/0) rows successful, 0 ignored 
+
+Id cells: 175347
+Quantity cells: 175347
+TotalPrice cells: 175347
+UnitPrice cells: 175347
+Opportunity Record Type cells: 175347
+Prod_Category__c cells: 174173
+Standard_Price__c cells: 175347
+Prod_Family__c cells: 175347
+Product_Code__c cells: 175347
+Name cells: 175347
+StageName cells: 175347
+Amount cells: 175347
+Order__c cells: 169298
+CloseDate cells: 175347
+Booked Date cells: 3
+Last Modified Date cells: 175347
+PO__c cells: 169327
+S_H_Costs__c cells: 170127
+Tax__c cells: 169298
+Shipping_Address1__c cells: 169808
+Shipping_Address2__c cells: 77235
+Shipping_City__c cells: 169808
+Shipping_State__c cells: 153476
+Shipping_Zip_Code__c cells: 169808
+Shipping_Country__c cells: 169808
+Reseller_Region__c cells: 174314
+Account_Name cells: 175347
+Account_BillingStreet cells: 174648
+Account_BillingCity cells: 174975
+Account_BillingState cells: 155044
+Account_BillingPostalCode cells: 172454
+Account_BillingCountry cells: 175347
+Account_Industry cells: 158753
+Account_Cisco_Sales_Level_2__c cells: 164030
+Account_Cisco_Sales_Level_4__c cells: 164030
+Account_Cisco_Sales_Level_5__c cells: 164030
+Account_Cisco_Sales_Level_6__c cells: 164030
+Account_Cisco_CR_Party_ID__c cells: 168837
+Owner_Name cells: 175347
+Owner_Role__c cells: 175347
+Owner_Employee_ID__c cells: 174317
+Reseller__r_Name cells: 174377
+Reseller__r_BillingStreet cells: 174359
+Reseller__r_BillingCity cells: 174233
+Reseller__r_BillingState cells: 148895
+Reseller__r_BillingPostalCode cells: 173300
+Reseller__r_BillingCountry cells: 174314
+Reseller__r_ShippingStreet cells: 128586
+Reseller__r_ShippingCity cells: 128443
+Reseller__r_ShippingState cells: 109198
+Reseller__r_ShippingPostalCode cells: 128303
+Reseller__r_ShippingCountry cells: 128425
+Reseller__r_Cisco_Reseller_ID__c cells: 156447
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 153371
+Reseller__r_Cisco_BE_Geo_ID__c cells: 156532
+CSM_Owner__r_Name cells: 174097
+CSM_Owner__r_Employee_ID__c cells: 174097
+Distributor__r_Name cells: 122379
+Distributor__r_Region__c cells: 122379
+Commission Booked Date cells: 175336
+DistiPOS cells: 175347
+CurrencyCode cells: 173888
+ExchangeRate cells: 175347
+LC_TotalPrice cells: 175347
+LC_Amount cells: 175347
+Shipped Date cells: 175347
+Owner_Division cells: 173120
+Exclude_from_Compensation__c cells: 175347
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 175351 (175351/0) rows successful, 0 ignored 
+
+Id cells: 175351
+Quantity cells: 175351
+TotalPrice cells: 175351
+UnitPrice cells: 175351
+Opportunity Record Type cells: 175351
+Prod_Category__c cells: 174177
+Standard_Price__c cells: 175351
+Prod_Family__c cells: 175351
+Product_Code__c cells: 175351
+Name cells: 175351
+StageName cells: 175351
+Amount cells: 175351
+Order__c cells: 169302
+CloseDate cells: 175351
+Booked Date cells: 3
+Last Modified Date cells: 175351
+PO__c cells: 169331
+S_H_Costs__c cells: 170131
+Tax__c cells: 169302
+Shipping_Address1__c cells: 169812
+Shipping_Address2__c cells: 77239
+Shipping_City__c cells: 169812
+Shipping_State__c cells: 153480
+Shipping_Zip_Code__c cells: 169812
+Shipping_Country__c cells: 169812
+Reseller_Region__c cells: 174318
+Account_Name cells: 175351
+Account_BillingStreet cells: 174652
+Account_BillingCity cells: 174979
+Account_BillingState cells: 155048
+Account_BillingPostalCode cells: 172458
+Account_BillingCountry cells: 175351
+Account_Industry cells: 158757
+Account_Cisco_Sales_Level_2__c cells: 164053
+Account_Cisco_Sales_Level_4__c cells: 164053
+Account_Cisco_Sales_Level_5__c cells: 164053
+Account_Cisco_Sales_Level_6__c cells: 164053
+Account_Cisco_CR_Party_ID__c cells: 168841
+Owner_Name cells: 175351
+Owner_Role__c cells: 175351
+Owner_Employee_ID__c cells: 174469
+Reseller__r_Name cells: 174381
+Reseller__r_BillingStreet cells: 174363
+Reseller__r_BillingCity cells: 174237
+Reseller__r_BillingState cells: 148895
+Reseller__r_BillingPostalCode cells: 173304
+Reseller__r_BillingCountry cells: 174318
+Reseller__r_ShippingStreet cells: 128590
+Reseller__r_ShippingCity cells: 128447
+Reseller__r_ShippingState cells: 109198
+Reseller__r_ShippingPostalCode cells: 128307
+Reseller__r_ShippingCountry cells: 128429
+Reseller__r_Cisco_Reseller_ID__c cells: 156451
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 153375
+Reseller__r_Cisco_BE_Geo_ID__c cells: 156536
+CSM_Owner__r_Name cells: 174101
+CSM_Owner__r_Employee_ID__c cells: 174101
+Distributor__r_Name cells: 122379
+Distributor__r_Region__c cells: 122379
+Commission Booked Date cells: 175340
+DistiPOS cells: 175351
+CurrencyCode cells: 173892
+ExchangeRate cells: 175351
+LC_TotalPrice cells: 175351
+LC_Amount cells: 175351
+Shipped Date cells: 175351
+Owner_Division cells: 173748
+Exclude_from_Compensation__c cells: 175351
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 176738 (176738/0) rows successful, 0 ignored 
+
+Id cells: 176738
+Quantity cells: 176738
+TotalPrice cells: 176738
+UnitPrice cells: 176738
+Opportunity Record Type cells: 176738
+Prod_Category__c cells: 175550
+Standard_Price__c cells: 176738
+Prod_Family__c cells: 176738
+Product_Code__c cells: 176738
+Name cells: 176738
+StageName cells: 176738
+Amount cells: 176738
+Order__c cells: 170593
+CloseDate cells: 176738
+Booked Date cells: 3
+Last Modified Date cells: 176738
+PO__c cells: 170622
+S_H_Costs__c cells: 171518
+Tax__c cells: 170593
+Shipping_Address1__c cells: 171199
+Shipping_Address2__c cells: 77893
+Shipping_City__c cells: 171199
+Shipping_State__c cells: 154621
+Shipping_Zip_Code__c cells: 171199
+Shipping_Country__c cells: 171199
+Reseller_Region__c cells: 175702
+Account_Name cells: 176738
+Account_BillingStreet cells: 176039
+Account_BillingCity cells: 176366
+Account_BillingState cells: 156154
+Account_BillingPostalCode cells: 173833
+Account_BillingCountry cells: 176738
+Account_Industry cells: 159969
+Account_Cisco_Sales_Level_2__c cells: 165523
+Account_Cisco_Sales_Level_4__c cells: 165523
+Account_Cisco_Sales_Level_5__c cells: 165523
+Account_Cisco_Sales_Level_6__c cells: 165523
+Account_Cisco_CR_Party_ID__c cells: 170224
+Owner_Name cells: 176738
+Owner_Role__c cells: 176738
+Owner_Employee_ID__c cells: 175760
+Reseller__r_Name cells: 175767
+Reseller__r_BillingStreet cells: 175749
+Reseller__r_BillingCity cells: 175621
+Reseller__r_BillingState cells: 150158
+Reseller__r_BillingPostalCode cells: 174676
+Reseller__r_BillingCountry cells: 175702
+Reseller__r_ShippingStreet cells: 129509
+Reseller__r_ShippingCity cells: 129366
+Reseller__r_ShippingState cells: 109967
+Reseller__r_ShippingPostalCode cells: 129226
+Reseller__r_ShippingCountry cells: 129348
+Reseller__r_Cisco_Reseller_ID__c cells: 157690
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 154559
+Reseller__r_Cisco_BE_Geo_ID__c cells: 157775
+CSM_Owner__r_Name cells: 175418
+CSM_Owner__r_Employee_ID__c cells: 175418
+Distributor__r_Name cells: 123294
+Distributor__r_Region__c cells: 123294
+Commission Booked Date cells: 176727
+DistiPOS cells: 176738
+CurrencyCode cells: 175269
+ExchangeRate cells: 176738
+LC_TotalPrice cells: 176738
+LC_Amount cells: 176738
+Shipped Date cells: 176738
+Owner_Division cells: 175039
+Exclude_from_Compensation__c cells: 176738
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 67107 (67107/0) rows successful, 0 ignored 
+
+Id cells: 67107
+Quantity cells: 67107
+TotalPrice cells: 67107
+UnitPrice cells: 67107
+Opportunity Record Type cells: 67107
+Prod_Category__c cells: 66245
+Standard_Price__c cells: 67107
+Prod_Family__c cells: 67107
+Product_Code__c cells: 67107
+Name cells: 67107
+StageName cells: 67107
+Amount cells: 67107
+Order__c cells: 66421
+CloseDate cells: 67107
+Booked Date cells: 9
+Last Modified Date cells: 67107
+PO__c cells: 66534
+S_H_Costs__c cells: 66850
+Tax__c cells: 66441
+Shipping_Address1__c cells: 66546
+Shipping_Address2__c cells: 28796
+Shipping_City__c cells: 66546
+Shipping_State__c cells: 59806
+Shipping_Zip_Code__c cells: 66546
+Shipping_Country__c cells: 66546
+Reseller_Region__c cells: 66612
+Account_Name cells: 67107
+Account_BillingStreet cells: 67104
+Account_BillingCity cells: 67100
+Account_BillingState cells: 59297
+Account_BillingPostalCode cells: 66206
+Account_BillingCountry cells: 67107
+Account_Industry cells: 62055
+Account_Cisco_Sales_Level_2__c cells: 64047
+Account_Cisco_Sales_Level_4__c cells: 64047
+Account_Cisco_Sales_Level_5__c cells: 64047
+Account_Cisco_Sales_Level_6__c cells: 64047
+Account_Cisco_CR_Party_ID__c cells: 66222
+Owner_Name cells: 67107
+Owner_Role__c cells: 67107
+Owner_Employee_ID__c cells: 66673
+Reseller__r_Name cells: 66648
+Reseller__r_BillingStreet cells: 66643
+Reseller__r_BillingCity cells: 66596
+Reseller__r_BillingState cells: 56520
+Reseller__r_BillingPostalCode cells: 66199
+Reseller__r_BillingCountry cells: 66612
+Reseller__r_ShippingStreet cells: 46993
+Reseller__r_ShippingCity cells: 46950
+Reseller__r_ShippingState cells: 39439
+Reseller__r_ShippingPostalCode cells: 46886
+Reseller__r_ShippingCountry cells: 46970
+Reseller__r_Cisco_Reseller_ID__c cells: 58789
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 57980
+Reseller__r_Cisco_BE_Geo_ID__c cells: 58788
+CSM_Owner__r_Name cells: 66255
+CSM_Owner__r_Employee_ID__c cells: 66255
+Distributor__r_Name cells: 48478
+Distributor__r_Region__c cells: 48478
+Commission Booked Date cells: 67087
+DistiPOS cells: 67107
+CurrencyCode cells: 66631
+ExchangeRate cells: 67107
+LC_TotalPrice cells: 67107
+LC_Amount cells: 67107
+Shipped Date cells: 67107
+Owner_Division cells: 66376
+Exclude_from_Compensation__c cells: 67107
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 67113 (67113/0) rows successful, 0 ignored 
+
+Id cells: 67113
+Quantity cells: 67113
+TotalPrice cells: 67113
+UnitPrice cells: 67113
+Opportunity Record Type cells: 67113
+Prod_Category__c cells: 66251
+Standard_Price__c cells: 67113
+Prod_Family__c cells: 67113
+Product_Code__c cells: 67113
+Name cells: 67113
+StageName cells: 67113
+Amount cells: 67113
+Order__c cells: 66427
+CloseDate cells: 67113
+Booked Date cells: 9
+Last Modified Date cells: 67113
+PO__c cells: 66540
+S_H_Costs__c cells: 66856
+Tax__c cells: 66447
+Shipping_Address1__c cells: 66552
+Shipping_Address2__c cells: 28800
+Shipping_City__c cells: 66552
+Shipping_State__c cells: 59812
+Shipping_Zip_Code__c cells: 66552
+Shipping_Country__c cells: 66552
+Reseller_Region__c cells: 66618
+Account_Name cells: 67113
+Account_BillingStreet cells: 67110
+Account_BillingCity cells: 67106
+Account_BillingState cells: 59303
+Account_BillingPostalCode cells: 66212
+Account_BillingCountry cells: 67113
+Account_Industry cells: 62062
+Account_Cisco_Sales_Level_2__c cells: 64054
+Account_Cisco_Sales_Level_4__c cells: 64054
+Account_Cisco_Sales_Level_5__c cells: 64054
+Account_Cisco_Sales_Level_6__c cells: 64054
+Account_Cisco_CR_Party_ID__c cells: 66229
+Owner_Name cells: 67113
+Owner_Role__c cells: 67113
+Owner_Employee_ID__c cells: 66679
+Reseller__r_Name cells: 66654
+Reseller__r_BillingStreet cells: 66649
+Reseller__r_BillingCity cells: 66602
+Reseller__r_BillingState cells: 56526
+Reseller__r_BillingPostalCode cells: 66205
+Reseller__r_BillingCountry cells: 66618
+Reseller__r_ShippingStreet cells: 46998
+Reseller__r_ShippingCity cells: 46955
+Reseller__r_ShippingState cells: 39444
+Reseller__r_ShippingPostalCode cells: 46891
+Reseller__r_ShippingCountry cells: 46975
+Reseller__r_Cisco_Reseller_ID__c cells: 58795
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 57986
+Reseller__r_Cisco_BE_Geo_ID__c cells: 58794
+CSM_Owner__r_Name cells: 66261
+CSM_Owner__r_Employee_ID__c cells: 66261
+Distributor__r_Name cells: 48482
+Distributor__r_Region__c cells: 48482
+Commission Booked Date cells: 67093
+DistiPOS cells: 67113
+CurrencyCode cells: 66637
+ExchangeRate cells: 67113
+LC_TotalPrice cells: 67113
+LC_Amount cells: 67113
+Shipped Date cells: 67113
+Owner_Division cells: 66382
+Exclude_from_Compensation__c cells: 67113
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 91338 (91338/0) rows successful, 0 ignored 
+
+Id cells: 91338
+Quantity cells: 91338
+TotalPrice cells: 91338
+UnitPrice cells: 91338
+Opportunity Record Type cells: 91338
+Prod_Category__c cells: 90213
+Standard_Price__c cells: 91338
+Prod_Family__c cells: 91338
+Product_Code__c cells: 91338
+Name cells: 91338
+StageName cells: 91338
+Amount cells: 91338
+Order__c cells: 88177
+CloseDate cells: 91338
+Booked Date cells: 9
+Last Modified Date cells: 91338
+PO__c cells: 88344
+S_H_Costs__c cells: 88798
+Tax__c cells: 88198
+Shipping_Address1__c cells: 88486
+Shipping_Address2__c cells: 38192
+Shipping_City__c cells: 88486
+Shipping_State__c cells: 79306
+Shipping_Zip_Code__c cells: 88486
+Shipping_Country__c cells: 88486
+Reseller_Region__c cells: 90660
+Account_Name cells: 91337
+Account_BillingStreet cells: 91148
+Account_BillingCity cells: 91328
+Account_BillingState cells: 79823
+Account_BillingPostalCode cells: 90187
+Account_BillingCountry cells: 91337
+Account_Industry cells: 82331
+Account_Cisco_Sales_Level_2__c cells: 84908
+Account_Cisco_Sales_Level_4__c cells: 84908
+Account_Cisco_Sales_Level_5__c cells: 84908
+Account_Cisco_Sales_Level_6__c cells: 84908
+Account_Cisco_CR_Party_ID__c cells: 87972
+Owner_Name cells: 91338
+Owner_Role__c cells: 91338
+Owner_Employee_ID__c cells: 90728
+Reseller__r_Name cells: 90747
+Reseller__r_BillingStreet cells: 90742
+Reseller__r_BillingCity cells: 90620
+Reseller__r_BillingState cells: 76643
+Reseller__r_BillingPostalCode cells: 90117
+Reseller__r_BillingCountry cells: 90660
+Reseller__r_ShippingStreet cells: 64728
+Reseller__r_ShippingCity cells: 64631
+Reseller__r_ShippingState cells: 54135
+Reseller__r_ShippingPostalCode cells: 64579
+Reseller__r_ShippingCountry cells: 64666
+Reseller__r_Cisco_Reseller_ID__c cells: 80883
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 78791
+Reseller__r_Cisco_BE_Geo_ID__c cells: 80900
+CSM_Owner__r_Name cells: 90302
+CSM_Owner__r_Employee_ID__c cells: 90302
+Distributor__r_Name cells: 64138
+Distributor__r_Region__c cells: 64138
+Commission Booked Date cells: 91317
+DistiPOS cells: 91338
+CurrencyCode cells: 90661
+ExchangeRate cells: 91338
+LC_TotalPrice cells: 91338
+LC_Amount cells: 91338
+Shipped Date cells: 91338
+Owner_Division cells: 88152
+Exclude_from_Compensation__c cells: 91338
+
+
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file ff_meraki_sfdc_shipping_report.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv' -process 'Meraki SFDC Shipping' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sfdc_shipping_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/ff_meraki_sfdc_shipping_report.csv" has been uploaded as ff_meraki_sfdc_shipping_report.csv.
+The operation was successful.
+
+Meraki SFDC Shipping Key: 91434 (91434/0) rows successful, 0 ignored 
+
+Id cells: 91434
+Quantity cells: 91434
+TotalPrice cells: 91434
+UnitPrice cells: 91434
+Opportunity Record Type cells: 91434
+Prod_Category__c cells: 90307
+Standard_Price__c cells: 91434
+Prod_Family__c cells: 91434
+Product_Code__c cells: 91434
+Name cells: 91434
+StageName cells: 91434
+Amount cells: 91434
+Order__c cells: 88211
+CloseDate cells: 91434
+Booked Date cells: 9
+Last Modified Date cells: 91434
+PO__c cells: 88378
+S_H_Costs__c cells: 88894
+Tax__c cells: 88232
+Shipping_Address1__c cells: 88582
+Shipping_Address2__c cells: 38218
+Shipping_City__c cells: 88582
+Shipping_State__c cells: 79389
+Shipping_Zip_Code__c cells: 88582
+Shipping_Country__c cells: 88582
+Reseller_Region__c cells: 90729
+Account_Name cells: 91433
+Account_BillingStreet cells: 91244
+Account_BillingCity cells: 91424
+Account_BillingState cells: 79904
+Account_BillingPostalCode cells: 90282
+Account_BillingCountry cells: 91433
+Account_Industry cells: 82419
+Account_Cisco_Sales_Level_2__c cells: 84982
+Account_Cisco_Sales_Level_4__c cells: 84982
+Account_Cisco_Sales_Level_5__c cells: 84982
+Account_Cisco_Sales_Level_6__c cells: 84982
+Account_Cisco_CR_Party_ID__c cells: 88066
+Owner_Name cells: 91434
+Owner_Role__c cells: 91434
+Owner_Employee_ID__c cells: 90780
+Reseller__r_Name cells: 90827
+Reseller__r_BillingStreet cells: 90822
+Reseller__r_BillingCity cells: 90689
+Reseller__r_BillingState cells: 76695
+Reseller__r_BillingPostalCode cells: 90186
+Reseller__r_BillingCountry cells: 90729
+Reseller__r_ShippingStreet cells: 64766
+Reseller__r_ShippingCity cells: 64669
+Reseller__r_ShippingState cells: 54170
+Reseller__r_ShippingPostalCode cells: 64617
+Reseller__r_ShippingCountry cells: 64704
+Reseller__r_Cisco_Reseller_ID__c cells: 80934
+Reseller__r_Cisco_Purchasing_Agreement__c cells: 78830
+Reseller__r_Cisco_BE_Geo_ID__c cells: 80951
+CSM_Owner__r_Name cells: 90380
+CSM_Owner__r_Employee_ID__c cells: 90380
+Distributor__r_Name cells: 64193
+Distributor__r_Region__c cells: 64193
+Commission Booked Date cells: 91413
+DistiPOS cells: 91434
+CurrencyCode cells: 90757
+ExchangeRate cells: 91434
+LC_TotalPrice cells: 91434
+LC_Amount cells: 91434
+Shipped Date cells: 91434
+Owner_Division cells: 88187
+Exclude_from_Compensation__c cells: 91434
 
 

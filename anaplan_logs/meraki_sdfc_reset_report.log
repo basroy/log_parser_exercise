@@ -1,4 +1,993 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report.log <==
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
+The operation failed.
+Process Flag cells: 0 (1 failed)
+Report Date cells: 0 (1 failed)
+Report Status cells: 0 (1 failed)
+Import into Report Run Status SFDC Result module failed: The column headers in the file you are attempting to import do not match the import definition.
+Item not located in SFDC Report Name list: 3
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err/0-112000000363-Failures for Import 363"
+ in the file 
+ Before Operation 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b09c599f3d1a0159ff60f5e12b6d -model 87CA052790A14BCBA9018E8F42ECFC57 -file meraki_reset_report_flag.csv -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv' -process 'Update Report Status and reset flag SFDC' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_sdfc_reset_report_err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/meraki_reset_report_flag.csv" has been uploaded as meraki_reset_report_flag.csv.
 The operation failed.
 Process Flag cells: 0 (1 failed)

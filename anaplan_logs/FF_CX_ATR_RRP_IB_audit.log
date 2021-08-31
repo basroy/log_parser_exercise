@@ -1,4 +1,371 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_ATR_RRP_IB_audit.log <==
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13167, Source_RejectedRowCount= 1, Target_RowCount= 13167, Target_RejectedRowCount= 0
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13167, Source_RejectedRowCount= 1, Target_RowCount= 13167, Target_RejectedRowCount= 0
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13167, Source_RejectedRowCount= 1, Target_RowCount= 13167, Target_RejectedRowCount= 0
+04/26/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11310, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 792163, Source_RejectedRowCount= 1 , Target_RowCount= 792163, Target_RejectedRowCount= 0
+04/26/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 786645, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4315866, Source_RejectedRowCount= 0, Target_RowCount= 4315866, Target_RejectedRowCount= 0
+04/26/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541615, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1167421, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 5906, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 861901, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 861609, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13167, Source_RejectedRowCount= 1, Target_RowCount= 13167, Target_RejectedRowCount= 0
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11310, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 792163, Source_RejectedRowCount= 1 , Target_RowCount= 792163, Target_RejectedRowCount= 0
+04/27/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 786645, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541615, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1167421, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 5906, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 861901, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 861609, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+04/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4315866, Source_RejectedRowCount= 0, Target_RowCount= 4315866, Target_RejectedRowCount= 0
+04/28/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4315866, Source_RejectedRowCount= 0, Target_RowCount= 4315866, Target_RejectedRowCount= 0
+04/28/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 792163, Source_RejectedRowCount= 1 , Target_RowCount= 792163, Target_RejectedRowCount= 0
+05/04/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13167, Source_RejectedRowCount= 1, Target_RowCount= 13167, Target_RejectedRowCount= 0
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11310, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 792163, Source_RejectedRowCount= 1 , Target_RowCount= 792163, Target_RejectedRowCount= 0
+05/04/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 786645, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541615, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 861901, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1167421, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 5906, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 861609, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4315866, Source_RejectedRowCount= 0, Target_RowCount= 4315866, Target_RejectedRowCount= 0
+05/04/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13741, Source_RejectedRowCount= 1, Target_RowCount= 13741, Target_RejectedRowCount= 0
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11357, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 409719, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 797554, Source_RejectedRowCount= 1 , Target_RowCount= 797554, Target_RejectedRowCount= 0
+05/04/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541650, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 862696, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1209317, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 5955, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 864643, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/04/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4347759, Source_RejectedRowCount= 0, Target_RowCount= 4347759, Target_RejectedRowCount= 0
+05/06/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13856, Source_RejectedRowCount= 1, Target_RowCount= 13856, Target_RejectedRowCount= 0
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11412, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410246, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 804424, Source_RejectedRowCount= 1 , Target_RowCount= 804424, Target_RejectedRowCount= 0
+05/06/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1544041, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 865583, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1222240, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6001, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 864263, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/06/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4390543, Source_RejectedRowCount= 0, Target_RowCount= 4390543, Target_RejectedRowCount= 0
+05/10/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13912, Source_RejectedRowCount= 1, Target_RowCount= 13912, Target_RejectedRowCount= 0
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11413, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410145, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 808605, Source_RejectedRowCount= 1 , Target_RowCount= 808605, Target_RejectedRowCount= 0
+05/10/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1543533, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 865999, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1239371, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6007, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 866081, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/10/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4362577, Source_RejectedRowCount= 0, Target_RowCount= 4362577, Target_RejectedRowCount= 0
+05/18/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13912, Source_RejectedRowCount= 1, Target_RowCount= 13912, Target_RejectedRowCount= 0
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11413, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410145, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 808605, Source_RejectedRowCount= 1 , Target_RowCount= 808605, Target_RejectedRowCount= 0
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14010, Source_RejectedRowCount= 1, Target_RowCount= 14010, Target_RejectedRowCount= 0
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11427, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 815382, Source_RejectedRowCount= 1 , Target_RowCount= 815382, Target_RejectedRowCount= 0
+05/18/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410026, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1542710, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 866152, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1257937, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 5993, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 866876, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/18/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4390514, Source_RejectedRowCount= 0, Target_RowCount= 4390514, Target_RejectedRowCount= 0
+05/20/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 13969, Source_RejectedRowCount= 1, Target_RowCount= 13969, Target_RejectedRowCount= 0
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 11421, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410055, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= 454810, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 816538, Source_RejectedRowCount= 1 , Target_RowCount= 816538, Target_RejectedRowCount= 0
+05/20/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1542473, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= 847873, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1269616, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6044, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= 866295, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= 867588, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/20/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4400479, Source_RejectedRowCount= 0, Target_RowCount= 4400479, Target_RejectedRowCount= 0
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 0, Source_RejectedRowCount= 11421, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17697, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17697, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17698, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 810670, Source_RejectedRowCount= 1 , Target_RowCount= 810670, Target_RejectedRowCount= 0
+05/24/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14038, Source_RejectedRowCount= 0, Target_RowCount= 14038, Target_RejectedRowCount= 0
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17698, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410355, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 810670, Source_RejectedRowCount= 1 , Target_RowCount= 810670, Target_RejectedRowCount= 0
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4422502, Source_RejectedRowCount= 0, Target_RowCount= 4422502, Target_RejectedRowCount= 0
+05/24/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1542045, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1283693, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6035, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17698, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/25/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4422502, Source_RejectedRowCount= 0, Target_RowCount= 4422502, Target_RejectedRowCount= 0
+05/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14036, Source_RejectedRowCount= 0, Target_RowCount= 14036, Target_RejectedRowCount= 0
+05/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14036, Source_RejectedRowCount= 0, Target_RowCount= 14036, Target_RejectedRowCount= 0
+05/25/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4422502, Source_RejectedRowCount= 0, Target_RowCount= 4422502, Target_RejectedRowCount= 0
+05/26/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/26/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14037, Source_RejectedRowCount= 0, Target_RowCount= 14037, Target_RejectedRowCount= 0
+05/26/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17698, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/26/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410327, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/26/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541889, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/26/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4435156, Source_RejectedRowCount= 0, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/26/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 851215, Source_RejectedRowCount= 1 , Target_RowCount= 851215, Target_RejectedRowCount= 0
+05/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/26/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1297999, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6054, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17698, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17698, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17703, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4435156, Source_RejectedRowCount= 0, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4435156, Source_RejectedRowCount= 0, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 0, Source_RejectedRowCount= 4435156, Target_RowCount= 0, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 4435156, Source_RejectedRowCount= 0, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14037, Source_RejectedRowCount= 0, Target_RowCount= 14037, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17703, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410327, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541889, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 851473, Source_RejectedRowCount= 1 , Target_RowCount= 851473, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= 0, Source_RejectedRowCount= 4435156, Target_RowCount= 0, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14037, Source_RejectedRowCount= 0, Target_RowCount= 14037, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14037, Source_RejectedRowCount= 0, Target_RowCount= 14037, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17703, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410327, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541889, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 851473, Source_RejectedRowCount= 1 , Target_RowCount= 851473, Target_RejectedRowCount= 0
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1297999, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6054, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/27/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4435156, Target_RejectedRowCount= 0
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14107, Source_RejectedRowCount= 0, Target_RowCount= 14107, Target_RejectedRowCount= 0
+05/31/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17703, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410333, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4449075, Target_RejectedRowCount= 0
+05/31/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541778, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 855778, Source_RejectedRowCount= 1 , Target_RowCount= 855778, Target_RejectedRowCount= 0
+05/31/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1313722, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6054, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+05/31/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4449075, Target_RejectedRowCount= 0
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14107, Source_RejectedRowCount= 0, Target_RowCount= 14107, Target_RejectedRowCount= 0
+06/07/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 476, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17703, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 410375, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 0, Source_RejectedRowCount= 866958 , Target_RowCount= 0, Target_RejectedRowCount= 0
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4468159, Target_RejectedRowCount= 0
+06/07/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1541865, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1331282, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6078, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 0, Source_RejectedRowCount= 866958 , Target_RowCount= 0, Target_RejectedRowCount= 0
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 861774, Source_RejectedRowCount= 1 , Target_RowCount= 861774, Target_RejectedRowCount= 0
+06/07/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= 17735, Source_RejectedRowCount= 0, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/14/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4439293, Target_RejectedRowCount= 0
+06/14/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14301, Source_RejectedRowCount= 0, Target_RowCount= 14301, Target_RejectedRowCount= 0
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14473, Source_RejectedRowCount= 0, Target_RowCount= 14473, Target_RejectedRowCount= 0
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 477, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 404867, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1515892, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4486488, Target_RejectedRowCount= 0
+06/21/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1348078, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/21/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6100, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/22/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4486488, Target_RejectedRowCount= 0
+06/22/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4486488, Target_RejectedRowCount= 0
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4486488, Target_RejectedRowCount= 0
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 477, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14473, Source_RejectedRowCount= 0, Target_RowCount= 14473, Target_RejectedRowCount= 0
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 404867, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1515892, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1348078, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6100, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4486488, Target_RejectedRowCount= 0
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/23/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14489, Source_RejectedRowCount= 0, Target_RowCount= 14489, Target_RejectedRowCount= 0
+06/24/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 477, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408386, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 0, Source_RejectedRowCount= 889977 , Target_RowCount= 0, Target_RejectedRowCount= 0
+06/24/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1529370, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1380092, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6119, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4492001, Target_RejectedRowCount= 0
+06/24/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TO_ANAPLAN_CX_SW_ATR, Source_RowCount= 0, Source_RejectedRowCount= 801674 , Target_RowCount= 0, Target_RejectedRowCount= 0
+06/28/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14754, Source_RejectedRowCount= 0, Target_RowCount= 14754, Target_RejectedRowCount= 0
+06/28/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 477, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 407877, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1526194, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1395981, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6113, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+06/28/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4327531, Target_RejectedRowCount= 0
+06/28/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/05/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/05/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4289299, Target_RejectedRowCount= 0
+07/05/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14825, Source_RejectedRowCount= 0, Target_RowCount= 14825, Target_RejectedRowCount= 0
+07/05/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/07/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4527551, Target_RejectedRowCount= 0
+07/08/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14821, Source_RejectedRowCount= 0, Target_RowCount= 14821, Target_RejectedRowCount= 0
+07/08/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 477, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408335, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1527758, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1446127, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/08/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6156, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/11/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4529199, Target_RejectedRowCount= 0
+07/12/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14803, Source_RejectedRowCount= 0, Target_RowCount= 14803, Target_RejectedRowCount= 0
+07/12/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408094, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1526824, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1462281, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/12/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6186, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 14851, Source_RejectedRowCount= 0, Target_RowCount= 14851, Target_RejectedRowCount= 0
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408970, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1536511, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1490152, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6184, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4543006, Target_RejectedRowCount= 0
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 19931, Source_RejectedRowCount= 0, Target_RowCount= 19931, Target_RejectedRowCount= 0
+07/19/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408984, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1535607, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1506951, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6180, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4554945, Target_RejectedRowCount= 0
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 19945, Source_RejectedRowCount= 0, Target_RowCount= 19945, Target_RejectedRowCount= 0
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 409059, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1535447, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1528567, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6252, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4563559, Target_RejectedRowCount= 0
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/21/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/25/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20115, Source_RejectedRowCount= 0, Target_RowCount= 20115, Target_RejectedRowCount= 0
+07/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/25/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408956, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/25/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1535096, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/25/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1548053, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/25/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6258, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/26/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4580700, Target_RejectedRowCount= 0
+07/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/26/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 475, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20230, Source_RejectedRowCount= 0, Target_RowCount= 20230, Target_RejectedRowCount= 0
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 408803, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1534843, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1579133, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 6259, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4605738, Target_RejectedRowCount= 0
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+07/28/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/03/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 474, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/03/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20230, Source_RejectedRowCount= 0, Target_RowCount= 20230, Target_RejectedRowCount= 0
+08/03/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4605738, Target_RejectedRowCount= 0
+08/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
 08/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
 08/04/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
 08/04/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 474, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
@@ -9,3 +376,96 @@
 08/04/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
 08/04/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20439, Source_RejectedRowCount= 0, Target_RowCount= 20439, Target_RejectedRowCount= 0
 08/04/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4632864, Target_RejectedRowCount= 0
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20439, Source_RejectedRowCount= 0, Target_RowCount= 20439, Target_RejectedRowCount= 0
+08/05/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 474, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 580, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1533515, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1618075, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 20491, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4633879, Target_RejectedRowCount= 0
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/05/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20340, Source_RejectedRowCount= 0, Target_RowCount= 20340, Target_RejectedRowCount= 0
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4637445, Target_RejectedRowCount= 0
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 473, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 577, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/08/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 1533515, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20339, Source_RejectedRowCount= 0, Target_RowCount= 20339, Target_RejectedRowCount= 0
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4640817, Target_RejectedRowCount= 0
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/12/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4642090, Target_RejectedRowCount= 0
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 19710, Source_RejectedRowCount= 0, Target_RowCount= 19710, Target_RejectedRowCount= 0
+08/15/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 502, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 19987, Source_RejectedRowCount= 0, Target_RowCount= 19987, Target_RejectedRowCount= 0
+08/19/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 603, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 319277, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1618075, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 62054, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4645214, Target_RejectedRowCount= 0
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/19/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20077, Source_RejectedRowCount= 0, Target_RowCount= 20077, Target_RejectedRowCount= 0
+08/22/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 501, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 601, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 317787, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1618075, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 70361, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4646292, Target_RejectedRowCount= 0
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/22/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/23/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/23/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 20035, Source_RejectedRowCount= 0, Target_RowCount= 20035, Target_RejectedRowCount= 0
+08/25/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 502, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 602, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 317543, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1618075, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 82395, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4648750, Target_RejectedRowCount= 0
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/25/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TS_IB_Bkgss_PY1, Source_RowCount= 501, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_AS_ATR, Source_RowCount= 19891, Source_RejectedRowCount= 0, Target_RowCount= 19891, Target_RejectedRowCount= 0
+08/29/21, s_m_P_FF_TS_IB_Bkgss_PY, Source_RowCount= 601, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_AS_RR_prog, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TS_IB_Bkgss_CY, Source_RowCount= 317357, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TS_IB_Bkgss_CY1, Source_RowCount= 1618075, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TS_IB_Bkgss_CY2, Source_RowCount= 94076, Source_RejectedRowCount= 0 , Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_TS_ATR, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= 4651391, Target_RejectedRowCount= 0
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/29/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/30/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/30/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_PY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/30/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/30/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows
+08/30/21, s_m_P_FF_TO_ANAPLAN_CX_TSS_RR_prog_CY1, Source_RowCount= @numAffectedRows, Source_RejectedRowCount= @numRejectedRows, Target_RowCount= @numAffectedRows, Target_RejectedRowCount= @numRejectedRows

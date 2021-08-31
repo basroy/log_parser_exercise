@@ -1,11 +1,1000 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_forecast.log <==
+Historicas: 2 Yr Average - MIX cells: 26312
+YoY Growth Mix cells: 26312
+YoY growth % cells: 26312
+PEC cells: 26312
+Node Name cells: 26312
+Node ID cells: 26312
+Invalid line item identifier: 52624
 
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
 Anaplan Connect 1.3.3-3
 OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
+Sent to NLG cells: 26312
+
+Architecture Product cells: 26312
+Sent to NLG cells: 26312
+Penetration Rate - Mix cells: 26312
+PID Forecast - MIX cells: 26312
+TMS Forecast - Mix cells: 26312
+BE Forecast - Mix cells: 26312
+Penetration Rate % cells: 26312
+Manual Forecast - MIX cells: 26312
+Service Forecast - MIX cells: 26312
+TAM Forecast - MIX cells: 26312
+2 Yr CAGR - MIX cells: 26312
+Historicas: 3 Yr Average - MIX cells: 26312
+Historicas: 2 Yr Average - MIX cells: 26312
+YoY Growth Mix cells: 26312
+YoY growth % cells: 26312
+PEC cells: 26312
+Node Name cells: 26312
+Node ID cells: 26312
+Invalid line item identifier: 52624
 
 
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 26312
 
+Architecture Product cells: 26312
+Sent to NLG cells: 26312
+Penetration Rate - Mix cells: 26312
+PID Forecast - MIX cells: 26312
+TMS Forecast - Mix cells: 26312
+BE Forecast - Mix cells: 26312
+Penetration Rate % cells: 26312
+Manual Forecast - MIX cells: 26312
+Service Forecast - MIX cells: 26312
+TAM Forecast - MIX cells: 26312
+2 Yr CAGR - MIX cells: 26312
+Historicas: 3 Yr Average - MIX cells: 26312
+Historicas: 2 Yr Average - MIX cells: 26312
+YoY Growth Mix cells: 26312
+YoY growth % cells: 26312
+PEC cells: 26312
+Node Name cells: 26312
+Node ID cells: 26312
+Invalid line item identifier: 52624
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 26312
+
+Architecture Product cells: 26312
+Sent to NLG cells: 26312
+Penetration Rate - Mix cells: 26312
+PID Forecast - MIX cells: 26312
+TMS Forecast - Mix cells: 26312
+BE Forecast - Mix cells: 26312
+Penetration Rate % cells: 26312
+Manual Forecast - MIX cells: 26312
+Service Forecast - MIX cells: 26312
+TAM Forecast - MIX cells: 26312
+2 Yr CAGR - MIX cells: 26312
+Historicas: 3 Yr Average - MIX cells: 26312
+Historicas: 2 Yr Average - MIX cells: 26312
+YoY Growth Mix cells: 26312
+YoY growth % cells: 26312
+PEC cells: 26312
+Node Name cells: 26312
+Node ID cells: 26312
+Invalid line item identifier: 52624
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 26312
+
+Architecture Product cells: 26312
+Sent to NLG cells: 26312
+Penetration Rate - Mix cells: 26312
+PID Forecast - MIX cells: 26312
+TMS Forecast - Mix cells: 26312
+BE Forecast - Mix cells: 26312
+Penetration Rate % cells: 26312
+Manual Forecast - MIX cells: 26312
+Service Forecast - MIX cells: 26312
+TAM Forecast - MIX cells: 26312
+2 Yr CAGR - MIX cells: 26312
+Historicas: 3 Yr Average - MIX cells: 26312
+Historicas: 2 Yr Average - MIX cells: 26312
+YoY Growth Mix cells: 26312
+YoY growth % cells: 26312
+PEC cells: 26312
+Node Name cells: 26312
+Node ID cells: 26312
+Invalid line item identifier: 52624
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 38690
+
+Architecture Product cells: 38042
+Sent to NLG cells: 38042
+Penetration Rate - Mix cells: 38042
+PID Forecast - MIX cells: 38042
+TMS Forecast - Mix cells: 38042
+BE Forecast - Mix cells: 38042
+Penetration Rate % cells: 38042
+Manual Forecast - MIX cells: 38042
+Service Forecast - MIX cells: 38042
+TAM Forecast - MIX cells: 38042
+2 Yr CAGR - MIX cells: 38042
+Historicas: 3 Yr Average - MIX cells: 38042
+Historicas: 2 Yr Average - MIX cells: 38042
+YoY Growth Mix cells: 38042
+YoY growth % cells: 38042
+PEC cells: 38042
+Node Name cells: 38042
+Node ID cells: 38042
+Invalid line item identifier: 77380
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 38690
+
+Architecture Product cells: 38042
+Sent to NLG cells: 38042
+Penetration Rate - Mix cells: 38042
+PID Forecast - MIX cells: 38042
+TMS Forecast - Mix cells: 38042
+BE Forecast - Mix cells: 38042
+Penetration Rate % cells: 38042
+Manual Forecast - MIX cells: 38042
+Service Forecast - MIX cells: 38042
+TAM Forecast - MIX cells: 38042
+2 Yr CAGR - MIX cells: 38042
+Historicas: 3 Yr Average - MIX cells: 38042
+Historicas: 2 Yr Average - MIX cells: 38042
+YoY Growth Mix cells: 38042
+YoY growth % cells: 38042
+PEC cells: 38042
+Node Name cells: 38042
+Node ID cells: 38042
+Invalid line item identifier: 77380
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 38690
+
+Architecture Product cells: 38042
+Sent to NLG cells: 38042
+Penetration Rate - Mix cells: 38042
+PID Forecast - MIX cells: 38042
+TMS Forecast - Mix cells: 38042
+BE Forecast - Mix cells: 38042
+Penetration Rate % cells: 38042
+Manual Forecast - MIX cells: 38042
+Service Forecast - MIX cells: 38042
+TAM Forecast - MIX cells: 38042
+2 Yr CAGR - MIX cells: 38042
+Historicas: 3 Yr Average - MIX cells: 38042
+Historicas: 2 Yr Average - MIX cells: 38042
+YoY Growth Mix cells: 38042
+YoY growth % cells: 38042
+PEC cells: 38042
+Node Name cells: 38042
+Node ID cells: 38042
+Invalid line item identifier: 77380
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 38690
+
+Architecture Product cells: 38042
+Sent to NLG cells: 38042
+Penetration Rate - Mix cells: 38042
+PID Forecast - MIX cells: 38042
+TMS Forecast - Mix cells: 38042
+BE Forecast - Mix cells: 38042
+Penetration Rate % cells: 38042
+Manual Forecast - MIX cells: 38042
+Service Forecast - MIX cells: 38042
+TAM Forecast - MIX cells: 38042
+2 Yr CAGR - MIX cells: 38042
+Historicas: 3 Yr Average - MIX cells: 38042
+Historicas: 2 Yr Average - MIX cells: 38042
+YoY Growth Mix cells: 38042
+YoY growth % cells: 38042
+PEC cells: 38042
+Node Name cells: 38042
+Node ID cells: 38042
+Invalid line item identifier: 77380
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 38690
+
+Architecture Product cells: 38042
+Sent to NLG cells: 38042
+Penetration Rate - Mix cells: 38042
+PID Forecast - MIX cells: 38042
+TMS Forecast - Mix cells: 38042
+BE Forecast - Mix cells: 38042
+Penetration Rate % cells: 38042
+Manual Forecast - MIX cells: 38042
+Service Forecast - MIX cells: 38042
+TAM Forecast - MIX cells: 38042
+2 Yr CAGR - MIX cells: 38042
+Historicas: 3 Yr Average - MIX cells: 38042
+Historicas: 2 Yr Average - MIX cells: 38042
+YoY Growth Mix cells: 38042
+YoY growth % cells: 38042
+PEC cells: 38042
+Node Name cells: 38042
+Node ID cells: 38042
+Invalid line item identifier: 77380
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Mark_forecast_sent_to_NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Sent to NLG cells: 42404
+
+Architecture Product cells: 41756
+Sent to NLG cells: 41756
+Penetration Rate - Mix cells: 41756
+PID Forecast - MIX cells: 41756
+TMS Forecast - Mix cells: 41756
+BE Forecast - Mix cells: 41756
+Penetration Rate % cells: 41756
+Manual Forecast - MIX cells: 41756
+Service Forecast - MIX cells: 41756
+TAM Forecast - MIX cells: 41756
+2 Yr CAGR - MIX cells: 41756
+Historicas: 3 Yr Average - MIX cells: 41756
+Historicas: 2 Yr Average - MIX cells: 41756
+YoY Growth Mix cells: 41756
+YoY growth % cells: 41756
+PEC cells: 41756
+Node Name cells: 41756
+Node ID cells: 41756
+Invalid line item identifier: 84808
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/work_book_sent/1-112000000491-Failures for Import 491"

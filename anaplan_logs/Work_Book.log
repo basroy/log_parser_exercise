@@ -1,4 +1,993 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book.log <==
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+The operation was successful.
+
+The server file Grid - Users.csv has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Last Data Refresh Workbook Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+The operation was successful.
+
+The server file Last Data Refresh Workbook Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/DataRefresh.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Users Role Summary Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+The operation was successful.
+
+The server file User Management Model - Users Role Summary Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_user.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - Node Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+The operation was successful.
+
+The server file User Management Model - Node Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_node.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -export 'User Management Model - PEC Assignment Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
+The operation was successful.
+
+The server file User Management Model - PEC Assignment Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_pec.csv
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Grid - Users.csv' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_NLG_UserMgmt_nlg.csv
 The operation was successful.

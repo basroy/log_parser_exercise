@@ -1,4 +1,51 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container.log <==
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
@@ -8,4 +55,946 @@ Exploded container Parties: 0 (0/0) rows successful, 0 ignored
 
 
  ====> Completed CENT processing
-Wed Aug  4 12:31 PDT 2021
+Wed Aug 25 12:33 PDT 2021
+ ====> CENT PARTY ID enrichment 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Pre Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Party Id: 187 (0/187) rows successful, 0 (0/0) rows has warnings, 992 failed, 152 ignored
+Another row has already been processed with this key: 152
+Error parsing key for this row; no values: 992
+
+Party Id: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+New Item Identifier cells: 339
+
+New Item Identifier cells: 4696
+
+Party Id: 1 (0/1) rows successful, 0 (0/0) rows has warnings, 3903 failed, 0 ignored
+Error parsing key for this row; no values: 3903
+
+22 Line Item identifier(s) ("Is Linked Party Present in Container?", "Parent Container with Party under Linked Party", "Link Party Id list", "Link Party Name", "Link Party Type", "Branch/HQ/SL", "Template ID", "Split %", "Party ID Country", "Party ID GU_ID", ...) were not mapped and ignored
+New Item Identifier cells: 1
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/0-112000000780-Failures for Import 780"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/1-112000000781-Failures for Import 781"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/4-112000001379-Failures for Import 1379"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Party FY19: 30 (0/30) rows successful, 0 ignored 
+
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+AT Non Named Party: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/2-112000000492-Failures for Import 492"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace  -model  -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Post Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+35 Line Item identifier(s) ("Party ID Item", "FInditem gu id", "GU_NAME", "VM_TOP_DESC", "VM_SUB_DESC", "VM_DTL_DESC", "SFDC_ACCT_FLAG", "CONFLICT_TYPE", "GU First Instance", "GU Match Party", ...) were not mapped and ignored
+Party ID Zip cells: 651069
+Country cells: 690680
+Party ID County cells: 178967
+City cells: 689198
+Party ID GU_ID cells: 690680
+Branch/HQ/SL cells: 690680
+Party Name cells: 690680
+Party Type cells: 690680
+Parent Party ID cells: 530330
+Is Enriched? cells: 690680
+
+Split % cells: 2755
+Link Party ID Code cells: 2755
+SAV ID Stage cells: 2755
+Template Link Party ID cells: 2755
+Link Party Type cells: 2755
+Is Enriched? cells: 2755
+
+
+ ====> CENT Container Explosion 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Container Explosion updated CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Exploded container Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+ ====> Completed CENT processing
+Thu Aug 26 00:55 PDT 2021
+ ====> CENT PARTY ID enrichment 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Pre Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Party Id: 187 (0/187) rows successful, 0 (0/0) rows has warnings, 992 failed, 152 ignored
+Another row has already been processed with this key: 152
+Error parsing key for this row; no values: 992
+
+Party Id: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+New Item Identifier cells: 339
+
+New Item Identifier cells: 4696
+
+Party Id: 1 (0/1) rows successful, 0 (0/0) rows has warnings, 3903 failed, 0 ignored
+Error parsing key for this row; no values: 3903
+
+22 Line Item identifier(s) ("Is Linked Party Present in Container?", "Parent Container with Party under Linked Party", "Link Party Id list", "Link Party Name", "Link Party Type", "Branch/HQ/SL", "Template ID", "Split %", "Party ID Country", "Party ID GU_ID", ...) were not mapped and ignored
+New Item Identifier cells: 1
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/0-112000000780-Failures for Import 780"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/1-112000000781-Failures for Import 781"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/4-112000001379-Failures for Import 1379"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Party FY19: 30 (0/30) rows successful, 0 ignored 
+
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+AT Non Named Party: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/2-112000000492-Failures for Import 492"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace  -model  -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Post Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+35 Line Item identifier(s) ("Party ID Item", "FInditem gu id", "GU_NAME", "VM_TOP_DESC", "VM_SUB_DESC", "VM_DTL_DESC", "SFDC_ACCT_FLAG", "CONFLICT_TYPE", "GU First Instance", "GU Match Party", ...) were not mapped and ignored
+Party ID Zip cells: 651069
+Country cells: 690680
+Party ID County cells: 178967
+City cells: 689198
+Party ID GU_ID cells: 690680
+Branch/HQ/SL cells: 690680
+Party Name cells: 690680
+Party Type cells: 690680
+Parent Party ID cells: 530330
+Is Enriched? cells: 690680
+
+Split % cells: 2755
+Link Party ID Code cells: 2755
+SAV ID Stage cells: 2755
+Template Link Party ID cells: 2755
+Link Party Type cells: 2755
+Is Enriched? cells: 2755
+
+
+ ====> CENT Container Explosion 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Container Explosion updated CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Exploded container Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+ ====> Completed CENT processing
+Thu Aug 26 12:33 PDT 2021
+ ====> CENT PARTY ID enrichment 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Pre Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Party Id: 187 (0/187) rows successful, 0 (0/0) rows has warnings, 992 failed, 152 ignored
+Another row has already been processed with this key: 152
+Error parsing key for this row; no values: 992
+
+Party Id: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+New Item Identifier cells: 339
+
+New Item Identifier cells: 4696
+
+Party Id: 1 (0/1) rows successful, 0 (0/0) rows has warnings, 3903 failed, 0 ignored
+Error parsing key for this row; no values: 3903
+
+22 Line Item identifier(s) ("Is Linked Party Present in Container?", "Parent Container with Party under Linked Party", "Link Party Id list", "Link Party Name", "Link Party Type", "Branch/HQ/SL", "Template ID", "Split %", "Party ID Country", "Party ID GU_ID", ...) were not mapped and ignored
+New Item Identifier cells: 1
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/0-112000000780-Failures for Import 780"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/1-112000000781-Failures for Import 781"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/4-112000001379-Failures for Import 1379"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Party FY19: 30 (0/30) rows successful, 0 ignored 
+
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+AT Non Named Party: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/2-112000000492-Failures for Import 492"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace  -model  -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Post Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+35 Line Item identifier(s) ("Party ID Item", "FInditem gu id", "GU_NAME", "VM_TOP_DESC", "VM_SUB_DESC", "VM_DTL_DESC", "SFDC_ACCT_FLAG", "CONFLICT_TYPE", "GU First Instance", "GU Match Party", ...) were not mapped and ignored
+Party ID Zip cells: 651069
+Country cells: 690680
+Party ID County cells: 178967
+City cells: 689198
+Party ID GU_ID cells: 690680
+Branch/HQ/SL cells: 690680
+Party Name cells: 690680
+Party Type cells: 690680
+Parent Party ID cells: 530330
+Is Enriched? cells: 690680
+
+Split % cells: 2755
+Link Party ID Code cells: 2755
+SAV ID Stage cells: 2755
+Template Link Party ID cells: 2755
+Link Party Type cells: 2755
+Is Enriched? cells: 2755
+
+
+ ====> CENT Container Explosion 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Container Explosion updated CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Exploded container Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+ ====> Completed CENT processing
+Fri Aug 27 00:57 PDT 2021
+ ====> CENT PARTY ID enrichment 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Pre Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Party Id: 187 (0/187) rows successful, 0 (0/0) rows has warnings, 992 failed, 152 ignored
+Another row has already been processed with this key: 152
+Error parsing key for this row; no values: 992
+
+Party Id: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+New Item Identifier cells: 339
+
+New Item Identifier cells: 4696
+
+Party Id: 1 (0/1) rows successful, 0 (0/0) rows has warnings, 3903 failed, 0 ignored
+Error parsing key for this row; no values: 3903
+
+22 Line Item identifier(s) ("Is Linked Party Present in Container?", "Parent Container with Party under Linked Party", "Link Party Id list", "Link Party Name", "Link Party Type", "Branch/HQ/SL", "Template ID", "Split %", "Party ID Country", "Party ID GU_ID", ...) were not mapped and ignored
+New Item Identifier cells: 1
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/0-112000000780-Failures for Import 780"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/1-112000000781-Failures for Import 781"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/4-112000001379-Failures for Import 1379"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Party FY19: 30 (0/30) rows successful, 0 ignored 
+
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+AT Non Named Party: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/2-112000000492-Failures for Import 492"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace  -model  -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Post Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+35 Line Item identifier(s) ("Party ID Item", "FInditem gu id", "GU_NAME", "VM_TOP_DESC", "VM_SUB_DESC", "VM_DTL_DESC", "SFDC_ACCT_FLAG", "CONFLICT_TYPE", "GU First Instance", "GU Match Party", ...) were not mapped and ignored
+Party ID Zip cells: 651069
+Country cells: 690680
+Party ID County cells: 178967
+City cells: 689198
+Party ID GU_ID cells: 690680
+Branch/HQ/SL cells: 690680
+Party Name cells: 690680
+Party Type cells: 690680
+Parent Party ID cells: 530330
+Is Enriched? cells: 690680
+
+Split % cells: 2755
+Link Party ID Code cells: 2755
+SAV ID Stage cells: 2755
+Template Link Party ID cells: 2755
+Link Party Type cells: 2755
+Is Enriched? cells: 2755
+
+
+ ====> CENT Container Explosion 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Container Explosion updated CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Exploded container Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+ ====> Completed CENT processing
+Fri Aug 27 12:32 PDT 2021
+ ====> CENT PARTY ID enrichment 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Pre Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Party Id: 187 (0/187) rows successful, 0 (0/0) rows has warnings, 992 failed, 152 ignored
+Another row has already been processed with this key: 152
+Error parsing key for this row; no values: 992
+
+Party Id: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+New Item Identifier cells: 339
+
+New Item Identifier cells: 4696
+
+Party Id: 1 (0/1) rows successful, 0 (0/0) rows has warnings, 3903 failed, 0 ignored
+Error parsing key for this row; no values: 3903
+
+22 Line Item identifier(s) ("Is Linked Party Present in Container?", "Parent Container with Party under Linked Party", "Link Party Id list", "Link Party Name", "Link Party Type", "Branch/HQ/SL", "Template ID", "Split %", "Party ID Country", "Party ID GU_ID", ...) were not mapped and ignored
+New Item Identifier cells: 1
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/0-112000000780-Failures for Import 780"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/1-112000000781-Failures for Import 781"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/4-112000001379-Failures for Import 1379"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Party FY19: 30 (0/30) rows successful, 0 ignored 
+
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+AT Non Named Party: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/2-112000000492-Failures for Import 492"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace  -model  -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Post Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+35 Line Item identifier(s) ("Party ID Item", "FInditem gu id", "GU_NAME", "VM_TOP_DESC", "VM_SUB_DESC", "VM_DTL_DESC", "SFDC_ACCT_FLAG", "CONFLICT_TYPE", "GU First Instance", "GU Match Party", ...) were not mapped and ignored
+Party ID Zip cells: 651069
+Country cells: 690680
+Party ID County cells: 178967
+City cells: 689198
+Party ID GU_ID cells: 690680
+Branch/HQ/SL cells: 690680
+Party Name cells: 690680
+Party Type cells: 690680
+Parent Party ID cells: 530334
+Is Enriched? cells: 690680
+
+Split % cells: 2754
+Link Party ID Code cells: 2754
+SAV ID Stage cells: 2754
+Template Link Party ID cells: 2754
+Link Party Type cells: 2754
+Is Enriched? cells: 2754
+
+
+ ====> CENT Container Explosion 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Container Explosion updated CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Exploded container Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+ ====> Completed CENT processing
+Mon Aug 30 00:57 PDT 2021
+ ====> CENT PARTY ID enrichment 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Pre Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Party Id: 187 (0/187) rows successful, 0 (0/0) rows has warnings, 992 failed, 152 ignored
+Another row has already been processed with this key: 152
+Error parsing key for this row; no values: 992
+
+Party Id: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+New Item Identifier cells: 339
+
+New Item Identifier cells: 4696
+
+Party Id: 1 (0/1) rows successful, 0 (0/0) rows has warnings, 3903 failed, 0 ignored
+Error parsing key for this row; no values: 3903
+
+22 Line Item identifier(s) ("Is Linked Party Present in Container?", "Parent Container with Party under Linked Party", "Link Party Id list", "Link Party Name", "Link Party Type", "Branch/HQ/SL", "Template ID", "Split %", "Party ID Country", "Party ID GU_ID", ...) were not mapped and ignored
+New Item Identifier cells: 1
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/0-112000000780-Failures for Import 780"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/1-112000000781-Failures for Import 781"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/4-112000001379-Failures for Import 1379"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 1DF1AF61970242EFAF7E7A2951C4140C -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Party FY19: 30 (0/30) rows successful, 0 ignored 
+
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+AT Non Named Party: 4691 (0/4691) rows successful, 0 (0/0) rows has warnings, 6 failed, 5 ignored
+Error parsing key for this row; no values: 6
+Another row has already been processed with this key: 5
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/2-112000000492-Failures for Import 492"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d3c59c99941a9 -model 6918C7ACD5A44F24B1D37C8F457EBDFE -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+AT Named Party: 1331 (0/1331) rows successful, 0 ignored 
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace  -model  -debug -process 'AT FY19 Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Enrichment - Post Hub Import' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+35 Line Item identifier(s) ("Party ID Item", "FInditem gu id", "GU_NAME", "VM_TOP_DESC", "VM_SUB_DESC", "VM_DTL_DESC", "SFDC_ACCT_FLAG", "CONFLICT_TYPE", "GU First Instance", "GU Match Party", ...) were not mapped and ignored
+Party ID Zip cells: 651069
+Country cells: 690680
+Party ID County cells: 178967
+City cells: 689198
+Party ID GU_ID cells: 690680
+Branch/HQ/SL cells: 690680
+Party Name cells: 690680
+Party Type cells: 690680
+Parent Party ID cells: 530334
+Is Enriched? cells: 690680
+
+Split % cells: 2754
+Link Party ID Code cells: 2754
+SAV ID Stage cells: 2754
+Template Link Party ID cells: 2754
+Link Party Type cells: 2754
+Is Enriched? cells: 2754
+
+
+ ====> CENT Container Explosion 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016ce3a8e40f1e1f -model 7F4DD0136E5A4319B8F64648ACD58D07 -debug -process 'Container Explosion updated CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+Planning Containers L1: 0 (0/0) rows successful, 0 ignored 
+
+Planning Container Objects L2: 0 (0/0) rows successful, 0 ignored 
+
+LINKED PARTY: 1536556 (0/1536556) rows successful, 0 ignored 
+
+SAV L7: 282995 (0/282995) rows successful, 0 (0/0) rows has warnings, 4 failed, 32769 ignored
+Another row has already been processed with this key: 4
+Key for this row maps to more than one list member: 4
+
+SAV L7: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 32769 (0/32769) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Cannot change code for list's top level item: 1
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+SHARE FLAT Nodes: 0 (0/0) rows successful, 0 ignored 
+
+Party ID: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 20029818 failed, 0 ignored
+Error parsing key for this row; no values: 20029814
+New property combination found but name or code already exists : 4
+
+LINKED PARTY: 0 (0/0) rows successful, 0 ignored 
+
+
+4 Line Item identifier(s) ("Party Container Subset", "Party-SAV Split %", "Linked Party Id", "Party Selected by Linked Party") were not mapped and ignored
+Party in Container cells: 20029817
+
+
+Party ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/5-112000000020-Failures for Import 20"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/7-112000000021-Failures for Import 21"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container/15-112000000014-Failures for Import 14"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process '7. CENT Exploded Container Results from Explosion Model' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/CENT_container
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Exploded container Parties: 0 (0/0) rows successful, 0 ignored 
+
+
+
+
+ ====> Completed CENT processing
+Mon Aug 30 12:27 PDT 2021

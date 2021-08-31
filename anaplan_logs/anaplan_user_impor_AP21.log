@@ -1,4 +1,993 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_impor_AP21.log <==
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Last Updated cells: 2
+Sent to Home Model cells: 2
+Ready for Export cells: 2
+Inactive has been sent once cells: 2
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: 1 created, 0 permissions updated
+
+User List: 1 (1/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Last Updated cells: 1
+Sent to Home Model cells: 1
+Ready for Export cells: 1
+Inactive has been sent once cells: 1
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Last Updated cells: 5
+Sent to Home Model cells: 5
+Ready for Export cells: 5
+Inactive has been sent once cells: 5
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0126d31d3a2016d3c5b7b566143 -model 0840DBA3081F498B99DBE083F006DDB6 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+No dump file is available.
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136cc586ba016d06f9a39d0fb5 -model CA5F8107B9D14589BE0689ACEB450878 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for Account Planning 1' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -debug -process 'Import PROD Users' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+User List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+
 
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for CENT' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model

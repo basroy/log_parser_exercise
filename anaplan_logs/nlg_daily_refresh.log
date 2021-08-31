@@ -1,11 +1,313 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_daily_refresh.log <==
-Clear Data cells: 0 (4498074 ignored)
+ Script Start Time:  Mon Aug 30 00:30: PDT 2021
+ ====> Running action - SHARE Hierarchy Update 
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Count OCG Submisison' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Last Run Date: 27 (1/26) rows successful, 0 (0/0) rows has warnings, 1 failed, 493499 ignored
+Another row has already been processed with this key: 493499
+Error parsing key for this row; no values: 1
 
-Final Goal - Q1 cells: 4498074
-Final Goal - Q2 cells: 4498074
-Final Goal - Q3 cells: 4498074
-Final Goal - Q4 cells: 4498074
+Last run cells: 493526
 
 
- Script End Time:  Wed Aug  4 00:58: PDT 2021
-  ******  Total Job Run time is 28 minutes and 19 seconds elapsed for Script Execution. ******
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE/0-112000002444-Failures for Import 2444"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Sub BE Adjustments from NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Q1 cells: 6191235
+Q2 cells: 6191235
+Q3 cells: 6191235
+Q4 cells: 6191235
+
+1 Line Item identifier(s) ("FY") were not mapped and ignored
+Q1 cells: 2715024 (35724 failed)
+Q2 cells: 2715024 (35724 failed)
+Q3 cells: 2715024 (35724 failed)
+Q4 cells: 2715024 (35724 failed)
+Item not located in Sub BE list: 142896
+
+24 Line Item identifier(s) ("PEC_TYPE", "Total Services", "PEC-Total Services", "TSS New +AS", "TSS Renew + AS", "TSS", "TSS New", "TSS Renew", "AS", "AS New", ...) were not mapped and ignored
+Service Flag,, cells: 104
+Sales Motion Code.. cells: 57 (17 failed)
+Service Category.. cells: 6
+SERVICE PROGRAM BRAND cells: 55
+Metric Type cells: 4269 (230 failed)
+More than one value for non-numeric cell: 17
+More than one value for non-numeric cell: 230
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE/1-112000000207-Failures for Import 207"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE/2-112000000460-Failures for Import 460"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Sub BE Forecast Import from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Q1 cells: 4465500 (5129586 failed, 35850 ignored)
+Q2 cells: 4465500 (5129586 failed, 35850 ignored)
+Q3 cells: 4465500 (5129586 failed, 35850 ignored)
+Q4 cells: 4465500 (5129586 failed, 35850 ignored)
+Item not located in SHARE FLAT list: 20518344
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_BE/0-112000000777-Failures for Import 777"
+FY21NLG_UAT anaplan_nlg_refresh_time.txt anaplan_nlg_refresh_time.txt Daily Job Date Refresh anaplan_refresh_time
+FY21NLG_2H anaplan_nlg_refresh_time.txt anaplan_nlg_refresh_time.txt Daily Job Date Refresh anaplan_refresh_time
+FY22_NLG anaplan_nlg_refresh_time.txt anaplan_nlg_refresh_time.txt Daily Job Date Refresh anaplan_refresh_time
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -file 'anaplan_nlg_refresh_time.txt' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_nlg_refresh_time.txt'  -import 'Daily Job Date Refresh' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_refresh_time.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_nlg_refresh_time.txt" has been uploaded as anaplan_nlg_refresh_time.txt.
+The operation was successful.
+Daily Refresh Date/Time cells: 1
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Refresh CY+1 Adjustments data from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+L1 cells: 0 (780203 ignored)
+L2 cells: 0 (780203 ignored)
+L3 cells: 0 (780203 ignored)
+L4 cells: 0 (780203 ignored)
+L5 cells: 0 (780203 ignored)
+L6 cells: 0 (780203 ignored)
+FY cells: 0 (780203 ignored)
+Access Fliter cells: 0 (780203 ignored)
+------------------Hierarchy backend------------ cells: 0 (780203 ignored)
+Node ID list cells: 0 (780203 ignored)
+
+DRR_ADJUSTMENT_ID: 248055 (0/248055) rows successful, 0 ignored 
+
+DRR_ADJUSTMENT_ID: 27000 (0/27000) rows successful, 0 ignored 
+
+DRR_ADJUSTMENT_ID: 239443 (0/239443) rows successful, 0 ignored 
+
+DRR_ADJUSTMENT_ID: 96 (0/96) rows successful, 0 ignored 
+
+1 Line Item identifier(s) ("Node FMV SBE PEC ID") were not mapped and ignored
+Node Name cells: 239443
+Level cells: 239443
+BE cells: 237736
+Sub BE cells: 237736
+PEC cells: 239443
+Impact Area cells: 239443
+Adjustment Type cells: 239443
+Q1 cells: 239443
+Q2 cells: 239443
+Q3 cells: 239443
+Q4 cells: 239443
+Node ID cells: 239314
+
+Node Name cells: 248055
+Level cells: 248055
+BE cells: 242889
+Sub BE cells: 242889
+PEC cells: 248055
+Impact Area cells: 248055
+Adjustment Type cells: 248055
+Q1 cells: 248055
+Q2 cells: 248055
+Q3 cells: 248055
+Q4 cells: 248055
+Node ID cells: 248055
+
+Node Name cells: 27000
+Level cells: 27000
+BE cells: 27000
+Sub BE cells: 27000
+PEC cells: 27000
+Impact Area cells: 27000
+Adjustment Type cells: 27000
+Q1 cells: 27000
+Q2 cells: 27000
+Q3 cells: 27000
+Q4 cells: 27000
+Node ID cells: 27000
+
+3 Line Item identifier(s) ("SF", "SVC-TSS", "SVC-AS") were not mapped and ignored
+Node Name cells: 96
+Level cells: 96
+PEC cells: 96
+Impact Area cells: 96
+Adjustment Type cells: 96
+Q1 cells: 96
+Q2 cells: 96
+Q3 cells: 96
+Q4 cells: 96
+Node ID cells: 96
+
+DRR_ADJUSTMENT_ID: 10412 (0/10412) rows successful, 0 ignored 
+
+Node Name cells: 10412
+Level cells: 10412
+BE cells: 9794
+Sub BE cells: 10412
+PEC cells: 10412
+Impact Area cells: 10412
+Adjustment Type cells: 10412
+Q1 cells: 10412
+Q2 cells: 10412
+Q3 cells: 10412
+Q4 cells: 10412
+Node ID cells: 10412
+
+DRR_ADJUSTMENT_ID: 390 (0/390) rows successful, 0 ignored 
+
+DRR_ADJUSTMENT_ID: 0 (0/0) rows successful, 0 ignored 
+
+Node Name cells: 390
+Level cells: 390
+PEC cells: 390
+Impact Area cells: 390
+Adjustment Type cells: 390
+Q1 cells: 390
+Q2 cells: 390
+Q3 cells: 390
+Q4 cells: 390
+Node ID cells: 390
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Refresh L2 TMS Forecast from NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+TMS Split Report ID: 508 (0/508) rows successful, 856794 ignored 
+Another row has already been processed with this key: 856794
+
+FY cells: 30464 (336 failed, 4400 ignored)
+Item not located in TMS Split Report ID list: 336
+
+FY cells: 15232 (168 failed, 2200 ignored)
+Item not located in TMS Split Report ID list: 168
+
+
+
+PEC ID: 2953 (2953/0) rows successful, 2876 ignored 
+Another row has already been processed with this key: 2876
+
+PEC TMS L3: 2953 (2953/0) rows successful, 0 (0/0) rows has warnings, 128 failed, 0 ignored
+Error parsing key for this row; no values: 128
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/0-112000000108-Failures for Import 108"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/1-112000000109-Failures for Import 109"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/2-112000000120-Failures for Import 120"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/5-112000000129-Failures for Import 129"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/6-112000000122-Failures for Import 122"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Refresh Sub BE to PEC MIX from Hub n NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+NLG Sub BE PEC Key: 6204064 (0/6204064) rows successful, 0 ignored 
+
+Q4 % cells: 6204064
+Q3 % cells: 6204064
+Q2 % cells: 6204064
+Q1 % cells: 6204064
+SUB_BUSINESS_ENTITY_DESCR cells: 3801186
+PEC>> cells: 3801186
+NODE_ID cells: 3801186
+
+FY cells: 0 (3322425 ignored)
+Q1 cells: 2750748
+Q2 cells: 2750748
+Q3 cells: 2750748
+Q4 cells: 2750748
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import TMS L1 - L6 from Reporting' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Q1 cells: 4501224 (35725 failed, 35851 ignored)
+Q2 cells: 4501224 (35725 failed, 35851 ignored)
+Q3 cells: 4501224 (35725 failed, 35851 ignored)
+Q4 cells: 4501224 (35725 failed, 35851 ignored)
+FY cells: 0 (4572800 ignored)
+Item not located in PEC list: 142900
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/0-112000002373-Failures for Import 2373"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -file 'OCG_UPDATE_DATE.txt' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/OCG_UPDATE_DATE.txt'  -import 'Update Todays Date' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/OCG_UPDATE_DATE.txt" has been uploaded as OCG_UPDATE_DATE.txt.
+The operation was successful.
+Today's Date cells: 1
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0116d31d5a8016d4186055f03ac -model 0E2C08013002467AADAAEC797AD62275 -file 'OCG_UPDATE_DATE.txt' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/OCG_UPDATE_DATE.txt'  -import 'import todays date' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/OCG_UPDATE_DATE.txt" has been uploaded as OCG_UPDATE_DATE.txt.
+The operation was successful.
+Date Stamp cells: 1
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Refresh Service Forecast' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_FY22
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+FY22  AS-S New - Q1 cells: 928824
+FY22  AS-S New - Q2 cells: 928824
+FY22  AS-S New - Q3 cells: 928824
+FY22  AS-S New - Q4 cells: 928824
+FY22  AS-S Renew - Q1 cells: 928824
+FY22  AS-S Renew - Q2 cells: 928824
+FY22  AS-S Renew - Q3 cells: 928824
+FY22  AS-S Renew - Q4 cells: 928824
+FY22 TSS New - Q1 cells: 928824
+FY22 TSS New  - Q2 cells: 928824
+FY22 TSS New  - Q3 cells: 928824
+FY22 TSS New - Q4 cells: 928824
+FY22 TSS Renew - Q1 cells: 928824
+FY22 TSS Renew - Q2 cells: 928824
+FY22 TSS Renew - Q3 cells: 928824
+FY22 TSS Renew - Q4 cells: 928824
+FY22 Total TSS  - Q1 cells: 928824
+FY22 Total TSS - Q2 cells: 928824
+FY22 Total TSS - Q3 cells: 928824
+FY22 Total TSS - Q4 cells: 928824
+FY22 Total Services - Q1 cells: 928824
+FY22 Total Services - Q2 cells: 928824
+FY22 Total Services - Q3 cells: 928824
+FY22 Total Services - Q4 cells: 928824
+FY22 Total AS - Q1 cells: 928824
+FY22 Total AS - Q2 cells: 928824
+FY22 Total AS - Q3 cells: 928824
+FY22 Total AS - Q4 cells: 928824
+FY22 Total AS-T Q4 cells: 928824
+FY22 Total AS-T Q3 cells: 928824
+FY22 Total AS-T Q2 cells: 928824
+FY22 Total AS-T Q1 cells: 928824
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Refresh Penetration Rate' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_FY22
+Anaplan Connect 1.3.3-3
+Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Clear Data cells: 0 (4501224 ignored)
+
+Final Goal - Q1 cells: 4501224
+Final Goal - Q2 cells: 4501224
+Final Goal - Q3 cells: 4501224
+Final Goal - Q4 cells: 4501224
+
+
+ Script End Time:  Mon Aug 30 00:47: PDT 2021
+  ******  Total Job Run time is 17 minutes and 10 seconds elapsed for Script Execution. ******

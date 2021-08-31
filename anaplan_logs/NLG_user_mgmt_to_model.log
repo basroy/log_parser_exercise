@@ -1,4 +1,580 @@
-==> /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NLG_user_mgmt_to_model.log <==
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 82262 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 87734 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 62047 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 82262 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 87734 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 62047 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 82262 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 87734 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 62047 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 82262 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 87734 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 62047 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: 0 created, 1 permissions updated
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L0 list: 1
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L1 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 1 permissions updated
+
+Finance Director ID: 1 (0/1) rows successful, 0 ignored 
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: 0 created, 1 permissions updated
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L0 list: 1
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L1 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 1 permissions updated
+
+Finance Director ID: 1 (0/1) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+Invalid name: 1
+
+
+Users PEC Assignment: 1 (0/1) rows successful, 0 ignored 
+
+Users: 0 created, 82262 permissions updated
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/8-112000002459-Failures for Import 2459"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: 0 created, 1 permissions updated
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L0 list: 1
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L1 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 1 permissions updated
+
+Finance Director ID: 1 (0/1) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 1 (0/1) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 1 (1/0) rows successful, 0 ignored 
+
+Users: 0 created, 87734 permissions updated
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: 0 created, 1 permissions updated
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L0 list: 1
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L1 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 1 permissions updated
+
+Finance Director ID: 1 (0/1) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 1 (0/1) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 1 (1/0) rows successful, 0 ignored 
+
+Users: 0 created, 62047 permissions updated
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
 Anaplan Connect 1.3.3-3
 OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
@@ -7,5 +583,418 @@ Last Updated cells: 1
 Sent to Home Model cells: 1
 Ready for Export cells: 1
 Inactive has been sent once cells: 1
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 82262 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 87734 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 63021 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: 0 created, 1 permissions updated
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L2 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L2 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 43 permissions updated (137 failed)
+Item not located in PEC list: 137
+
+Finance Director ID: 1 (1/0) rows successful, 0 ignored 
+
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/4-112000000920-Failures for Import 920"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: 0 created, 1 permissions updated
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L2 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L2 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 80 permissions updated (100 failed)
+Item not located in PEC list: 100
+
+Finance Director ID: 1 (1/0) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 1 (0/1) rows successful, 179 ignored 
+Another row has already been processed with this key: 179
+
+
+Users PEC Assignment: 80 (80/0) rows successful, 100 (100/0) rows has warnings, 0 ignored 
+Item not located in PEC list: 100
+
+Users: 0 created, 82331 permissions updated
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/4-112000000920-Failures for Import 920"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/8-112000002459-Failures for Import 2459"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/10-112000002458-Failures for Import 2458"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: 0 created, 1 permissions updated
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L2 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L2 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 88 permissions updated (92 failed)
+Item not located in PEC list: 92
+
+Finance Director ID: 1 (1/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 1 (0/1) rows successful, 179 ignored 
+Another row has already been processed with this key: 179
+
+
+Users PEC Assignment: 88 (88/0) rows successful, 92 (92/0) rows has warnings, 0 ignored 
+Item not located in PEC list: 92
+
+Users: 0 created, 87811 permissions updated
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/4-112000000920-Failures for Import 920"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/8-112000002459-Failures for Import 2459"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/10-112000002458-Failures for Import 2458"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 1 (0/1) rows successful, 0 ignored 
+
+Users: 0 created, 1 permissions updated
+
+Users: 0 created, 3 permissions updated (9 failed)
+Item not located in SHARE L1 list: 1
+Item not located in SHARE L2 list: 1
+Item not located in SHARE L3 list: 1
+Item not located in SHARE L4 list: 1
+Item not located in SHARE L5 list: 1
+Item not located in L2 FLAT list: 1
+Item not located in L3 FLAT list: 1
+Item not located in L4 FLAT list: 1
+Item not located in L5 FLAT list: 1
+Access to parent item overrides that to child item: 1
+
+Users: 0 created, 52 permissions updated (128 failed)
+Item not located in PEC list: 128
+
+Finance Director ID: 1 (1/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 1 (0/1) rows successful, 179 ignored 
+Another row has already been processed with this key: 179
+
+
+Users PEC Assignment: 52 (52/0) rows successful, 128 (128/0) rows has warnings, 0 ignored 
+Item not located in PEC list: 128
+
+Users: 0 created, 63072 permissions updated
+
+
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/3-112000000919-Failures for Import 919"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/4-112000000920-Failures for Import 920"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/8-112000002459-Failures for Import 2459"
+Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model/10-112000002458-Failures for Import 2458"
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Last Updated cells: 1
+Sent to Home Model cells: 1
+Ready for Export cells: 1
+Inactive has been sent once cells: 1
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011706ef07f0170aa26df7a23b5 -model CFEA3491AD6B4ED5B5E1CC1703633D4E -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 685 (0/685) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 82331 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f7522c5c10175468b101b04a3 -model E96CB3D54EDB431EB055182029D566A9 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 651 (0/651) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 87811 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import User Information - Prod' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
+Users: no changes required
+
+Users List: 0 (0/0) rows successful, 0 ignored 
+
+Users: no changes required
+
+Users: no changes required
+
+Users: no changes required
+
+Finance Director ID: 0 (0/0) rows successful, 0 ignored 
+
+
+Users Assignment: 652 (0/652) rows successful, 0 ignored 
+
+Users Assignment: 0 (0/0) rows successful, 0 ignored 
+
+
+Users PEC Assignment: 0 (0/0) rows successful, 0 ignored 
+
+Users: 0 created, 63072 permissions updated
+
+
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -debug -process 'Daily Reset for NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_user_mgmt_to_model
+Anaplan Connect 1.3.3-3
+OpenJDK 64-Bit Server VM (Azul Systems, Inc.)/25.222-b10 (1.8.0_222)
+Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
+The operation was successful.
 
 
