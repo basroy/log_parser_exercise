@@ -43,6 +43,11 @@ def validate_arguments(argv) -> List:
 
 
 # if __name__ == "__main__":
+if len(sys.argv) < 3:
+    print('The script needs at least 2 argumants')
+    print('executable.py -i <source loc> -o <target loc>')
+    exit()
+    
 sourceloc, targetloc = validate_arguments(sys.argv[1:])
 
 parser = LogParser()
