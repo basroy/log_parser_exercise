@@ -22,16 +22,16 @@ def validate_arguments(argv) -> List:
         if opt == '-h':
             print('test.py -i <source loc> -o <target loc>')
             sys.exit()
-        elif opt in ("-i", "--ifile"):
+        elif opt in ('-i', '--ifile'):
             sourceloc = arg
-        elif opt in ("-o", "--ofile"):
+        elif opt in ('-o', '--ofile'):
             targetloc = arg
-        elif opt in ("-t", "--type"):
+        elif opt in ('-t', '--type'):
             inputtype = arg
+        else:
+            print('test.py -i <source loc> -o <target loc>')
+            sys.exit()
 
-    print('Input file location is ', sourceloc)
-
-    print('Output file location is ', targetloc)
     if inputtype == 'log':
         print('Input file type is to be processed is text log files')
 
@@ -39,7 +39,6 @@ def validate_arguments(argv) -> List:
         print('Input file type is to be processed is informatica log files')
 
     all_locations: List = [sourceloc, targetloc]
-    print(all_locations)
     return all_locations
 
 
