@@ -1,89 +1,3 @@
-
-WEEKLY REFRESH 06/21/21
-20210621091215
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_key_delete.err'
-The operation was successful.
-
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_BEG_ATR.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv' -import 'TS_ATR_KEY from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_atr_list.err' -import 'TSS_ATR from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_module.err'
-The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv" has been uploaded as FF_CX_TS_BEG_ATR.csv.
-The operation was successful.
-TS_ATR_KEY: 4486488 (4486488/0) rows successful, 0 ignored 
-
-The operation was successful.
-CONTRACT_LINE_END_QUARTER cells: 4486488
-FUTURE_SHARE_NODE_ID cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_1_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_2_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_3_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_4_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_5_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_6_NAME cells: 4486488
-FUTURE_SAVM_ID cells: 4486488
-FUTURE_SAVM_NAME cells: 4486488
-SERVICE_BRAND_CODE cells: 4480944
-SOFTWARE_SUPPORT_SERVICES_YORN cells: 4486488
-LDOS_FLAG cells: 4486488
-BUSINESS_ENTITY_NAME cells: 4486488
-SUB_BUSINESS_ENTITY_NAME cells: 4483923
-TSA_CMS_IDENTIFIER cells: 4486488
-CX_PRODUCT_CATEGORY cells: 4127866
-BEGINING_CORRECTED_CONTRACT_LINE_NET_PRICE cells: 4485053
-BEGINING_ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4485053
-CONTRACT_LINE_NET_PRICE_USD cells: 4485210
-ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4485210
-REFRESH_DATE cells: 4486488
-BEGINING_CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 4485053
-BEGINING_ANNUAL_CONTRACT_NET_SERVICE_SPLIT cells: 4485053
-Partner_BE_GEO_ID cells: 4483923
-ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4485210
-CX_PRODUCT_PORTFOLIO cells: 4485761
-BEGINING_ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4485053
-
-WEEKLY REFRESH 06/22/21
-20210622060636
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_key_delete.err'
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_BEG_ATR.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv' -import 'TS_ATR_KEY from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_atr_list.err' -import 'TSS_ATR from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_module.err'
-WEEKLY REFRESH 06/22/21
-20210622061516
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_key_delete.err'
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_BEG_ATR.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv' -import 'TS_ATR_KEY from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_atr_list.err' -import 'TSS_ATR from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_module.err'
-WEEKLY REFRESH 06/23/21
-20210623011429
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_key_delete.err'
-The operation was successful.
-
-cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
-./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file FF_CX_TS_BEG_ATR.csv -put '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv' -import 'TS_ATR_KEY from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/SALES_ANAPLAN_OIC/work/tss_atr_list.err' -import 'TSS_ATR from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_module.err'
-The file "/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv" has been uploaded as FF_CX_TS_BEG_ATR.csv.
-The operation was successful.
-TS_ATR_KEY: 4486488 (0/4486488) rows successful, 0 ignored 
-
-The operation was successful.
-CONTRACT_LINE_END_QUARTER cells: 4486488
-FUTURE_SHARE_NODE_ID cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_1_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_2_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_3_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_4_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_5_NAME cells: 4486488
-FUTURE_SAVM_SALES_LEVEL_6_NAME cells: 4486488
-FUTURE_SAVM_ID cells: 4486488
-FUTURE_SAVM_NAME cells: 4486488
-SERVICE_BRAND_CODE cells: 4480944
-SOFTWARE_SUPPORT_SERVICES_YORN cells: 4486488
-LDOS_FLAG cells: 4486488
-BUSINESS_ENTITY_NAME cells: 4486488
-SUB_BUSINESS_ENTITY_NAME cells: 4483923
-TSA_CMS_IDENTIFIER cells: 4486488
-CX_PRODUCT_CATEGORY cells: 4127866
-BEGINING_CORRECTED_CONTRACT_LINE_NET_PRICE cells: 4485053
 BEGINING_ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4485053
 CONTRACT_LINE_NET_PRICE_USD cells: 4485210
 ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4485210
@@ -997,4 +911,90 @@ Partner_BE_GEO_ID cells: 4648569
 ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4650570
 CX_PRODUCT_PORTFOLIO cells: 4650620
 BEGINING_ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4650382
+
+WEEKLY REFRESH 09/02/21
+20210902054839
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_key_delete.err'
+The operation was successful.
+
+8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'FF_CX_TS_BEG_ATR.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv' -import 'TS_ATR_KEY from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_atr_list.err' -import 'TSS_ATR from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_atr_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv" has been uploaded as FF_CX_TS_BEG_ATR.csv.
+The operation was successful.
+TS_ATR_KEY: 4655533 (4655533/0) rows successful, 0 ignored 
+
+The operation was successful.
+CONTRACT_LINE_END_QUARTER cells: 4655533
+FUTURE_SHARE_NODE_ID cells: 4655533
+FUTURE_SAVM_SALES_LEVEL_1_NAME cells: 4655533
+FUTURE_SAVM_SALES_LEVEL_2_NAME cells: 4655533
+FUTURE_SAVM_SALES_LEVEL_3_NAME cells: 4655533
+FUTURE_SAVM_SALES_LEVEL_4_NAME cells: 4655533
+FUTURE_SAVM_SALES_LEVEL_5_NAME cells: 4655533
+FUTURE_SAVM_SALES_LEVEL_6_NAME cells: 4655533
+FUTURE_SAVM_ID cells: 4655533
+FUTURE_SAVM_NAME cells: 4655533
+SERVICE_BRAND_CODE cells: 4649579
+SOFTWARE_SUPPORT_SERVICES_YORN cells: 4655533
+LDOS_FLAG cells: 4655533
+BUSINESS_ENTITY_NAME cells: 4655533
+SUB_BUSINESS_ENTITY_NAME cells: 4652712
+TSA_CMS_IDENTIFIER cells: 4655533
+CX_PRODUCT_CATEGORY cells: 4280731
+BEGINING_CORRECTED_CONTRACT_LINE_NET_PRICE cells: 4654524
+BEGINING_ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4654524
+CONTRACT_LINE_NET_PRICE_USD cells: 4654716
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4654716
+REFRESH_DATE cells: 4655533
+BEGINING_CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 4654524
+BEGINING_ANNUAL_CONTRACT_NET_SERVICE_SPLIT cells: 4654524
+Partner_BE_GEO_ID cells: 4652712
+ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4654716
+CX_PRODUCT_PORTFOLIO cells: 4654753
+BEGINING_ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4654524
+
+WEEKLY REFRESH 09/06/21
+20210906012626
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_ATR data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_atr_key_delete.err'
+The operation was successful.
+
+8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'FF_CX_TS_BEG_ATR.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv' -import 'TS_ATR_KEY from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_atr_list.err' -import 'TSS_ATR from FF_CX_TS_BEG_ATR.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_atr_module.err'
+The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_BEG_ATR.csv" has been uploaded as FF_CX_TS_BEG_ATR.csv.
+The operation was successful.
+TS_ATR_KEY: 4562166 (4562166/0) rows successful, 0 ignored 
+
+The operation was successful.
+CONTRACT_LINE_END_QUARTER cells: 4562166
+FUTURE_SHARE_NODE_ID cells: 4562166
+FUTURE_SAVM_SALES_LEVEL_1_NAME cells: 4562166
+FUTURE_SAVM_SALES_LEVEL_2_NAME cells: 4562166
+FUTURE_SAVM_SALES_LEVEL_3_NAME cells: 4562166
+FUTURE_SAVM_SALES_LEVEL_4_NAME cells: 4562166
+FUTURE_SAVM_SALES_LEVEL_5_NAME cells: 4562166
+FUTURE_SAVM_SALES_LEVEL_6_NAME cells: 4562166
+FUTURE_SAVM_ID cells: 4562166
+FUTURE_SAVM_NAME cells: 4562166
+SERVICE_BRAND_CODE cells: 4556276
+SOFTWARE_SUPPORT_SERVICES_YORN cells: 4562166
+LDOS_FLAG cells: 4562166
+BUSINESS_ENTITY_NAME cells: 4562166
+SUB_BUSINESS_ENTITY_NAME cells: 4559369
+TSA_CMS_IDENTIFIER cells: 4562166
+CX_PRODUCT_CATEGORY cells: 4193018
+BEGINING_CORRECTED_CONTRACT_LINE_NET_PRICE cells: 4561185
+BEGINING_ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4561185
+CONTRACT_LINE_NET_PRICE_USD cells: 4561379
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 4561379
+REFRESH_DATE cells: 4562166
+BEGINING_CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 4561185
+BEGINING_ANNUAL_CONTRACT_NET_SERVICE_SPLIT cells: 4561185
+Partner_BE_GEO_ID cells: 4559369
+ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4561379
+CX_PRODUCT_PORTFOLIO cells: 4561418
+BEGINING_ANNUALIZED_CONTRACT_LINE_NET_USD_AMOUNT cells: 4561185
 

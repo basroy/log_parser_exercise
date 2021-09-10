@@ -3,10 +3,10 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NODE_SBE_FMV.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_FMV.csv' -import 'Upload Node SBE FMV Splits' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_FMV_MODULE.err.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NLG_SBE_FMV.csv" has been uploaded as FF_NODE_SBE_FMV.csv.
 The operation was successful.
-Q1 Split cells: 28149 (112 failed)
-Q2 Split cells: 28149 (112 failed)
-Q3 Split cells: 28149 (112 failed)
-Q4 Split cells: 28149 (112 failed)
-Item not located in Sub BE list: 448
+Q1 Split cells: 27927 (111 failed)
+Q2 Split cells: 27927 (111 failed)
+Q3 Split cells: 27927 (111 failed)
+Q4 Split cells: 27927 (111 failed)
+Item not located in Sub BE list: 444
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_FMV_MODULE.err.err"

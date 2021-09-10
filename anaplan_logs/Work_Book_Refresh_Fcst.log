@@ -12,6 +12,25 @@ The operation was successful.
 The server file Forecast Weightage DB Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
 DAILY RUN 07/03/21
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914
+8a868cd87a25f4cf017a54dbb22c16e3 -model DE477349B5854B18A63DD51584E5BC33
+2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+DAILY RUN 07/03/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914
+nkatakdh -model DE477349B5854B18A63DD51584E5BC33
+##FY22_NLG -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+DAILY RUN 07/05/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914
+nkatakdh -model DE477349B5854B18A63DD51584E5BC33
+##FY22_NLG -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+DAILY RUN 07/05/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914
+8a868cd87a25f4cf017a54dbb22c16e3 -model DE477349B5854B18A63DD51584E5BC33
+2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+WEEK RUN 07/05/21
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0127122eab9017135e305d61914 -model DE477349B5854B18A63DD51584E5BC33 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
 The operation was successful.
@@ -525,6 +544,24 @@ The operation was successful.
 
 The server file Forecast Weightage DB Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
 WEEK RUN 08/30/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+The operation was successful.
+
+The server file Forecast Weightage DB Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+WEEK RUN 09/02/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+The operation was successful.
+
+The server file Forecast Weightage DB Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+WEEK RUN 09/02/21
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+The operation was successful.
+
+The server file Forecast Weightage DB Extract has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
+WEEK RUN 09/06/21
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -export 'Forecast Weightage DB Extract' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_Fcst_Weightage.csv
 The operation was successful.

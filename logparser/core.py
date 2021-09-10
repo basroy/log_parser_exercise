@@ -192,10 +192,11 @@ class LogParser(Regex):
         for key, execution_status in self.model_names.items():
             key_extract: str = key.split(':')[1]
             is_anaplan_unreachable: bool = Operation.UNREACHABLE in execution_status
+            OPERATION_FAILED: bool = Operation.FAILED in execution_status
 
             if key_extract in ANP.parmeters:
 
-                if is_anaplan_unreachable:
+                if is_anaplan_unreachable or OPERATION_FAILED:
                     execution_status += '\n'
 
                     display_model_operation_status: str = (

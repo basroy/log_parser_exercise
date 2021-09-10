@@ -1,4 +1,4 @@
- Script Start Time:  Mon Aug 30 08:47: PDT 2021
+ Script Start Time:  Mon Sep  6 09:08: PDT 2021
  ====> Running action - Share Data Pull into Booking Hub from Data Hub 
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Share Data Pull into Booking Hub from Data Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
@@ -11,7 +11,7 @@ SHARE L2: 0 (0/0) rows successful, 0 ignored
 SHARE Node L3: 0 (0/0) rows successful, 0 ignored 
 
 
- Script Start Time:  Mon Aug 30 08:47: PDT 2021
+ Script Start Time:  Mon Sep  6 09:08: PDT 2021
  ====> Running action - Confirmed Hierarchy Update 
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Confirmed Hierarchy Update' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
@@ -21,22 +21,22 @@ Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 6 Line Item identifier(s) ("Country Code", "SCMS", "Sub SCMS", "External Theatre", "DUMMY_NODE_FLG", "ORIGINAL_NODE_ID") were not mapped and ignored
 
-SHARE FLAT: 35724 (0/35724) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+SHARE FLAT: 35788 (0/35788) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
 Cannot change code for list's top level item: 1
 
-SHARE FLAT: 35432 (75/35357) rows successful, 0 ignored 
+SHARE FLAT: 35331 (34/35297) rows successful, 0 ignored 
 
 2 Line Item identifier(s) ("NODE_ID_LEVEL_3", "Boolean True") were not mapped and ignored
-Parent Node ID cells: 35431
-Level ID cells: 35432
-Node ID cells: 35432
-Node Status cells: 35432
+Parent Node ID cells: 35330
+Level ID cells: 35331
+Node ID cells: 35331
+Node Status cells: 35331
 Country Code cells: 32900
 External Theatre cells: 32900
 Sub SCMS cells: 32900
 SCMS cells: 32900
-ORIGINAL_NODE_ID cells: 2532
-DUMMY_NODE_FLG cells: 35432
+ORIGINAL_NODE_ID cells: 2431
+DUMMY_NODE_FLG cells: 35331
 
 
 
@@ -52,11 +52,11 @@ SHARE L3: 269 (0/269) rows successful, 0 ignored
 
 SHARE L4: 1502 (0/1502) rows successful, 0 ignored 
 
-SHARE L5: 4947 (16/4931) rows successful, 0 ignored 
+SHARE L5: 4916 (5/4911) rows successful, 0 ignored 
 
-SHARE L6: 28682 (59/28623) rows successful, 0 ignored 
+SHARE L6: 28612 (29/28583) rows successful, 0 ignored 
 
-SHARE Node ID: 35799 (75/35724) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+SHARE Node ID: 35822 (34/35788) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
 Error parsing key for this row; no values: 1
 
 
@@ -66,18 +66,18 @@ Error parsing key for this row; no values: 1
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/1-112000002229-Failures for Import 2229"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/16-112000000883-Failures for Import 883"
  ====> Running action - Reset FLAT Hierarchy Security Lists 
- Script Start Time:  Mon Aug 30 08:52: PDT 2021
+ Script Start Time:  Mon Sep  6 09:13: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Reset FLAT Hierarchy Security Lists' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-L6 FLAT: 35724 (0/35724) rows successful, 9050 ignored 
+L6 FLAT: 35788 (0/35788) rows successful, 9062 ignored 
 
-L5 FLAT: 6897 (0/6897) rows successful, 2153 ignored 
+L5 FLAT: 6912 (0/6912) rows successful, 2150 ignored 
 
-L4 FLAT: 1815 (0/1815) rows successful, 338 ignored 
+L4 FLAT: 1812 (0/1812) rows successful, 338 ignored 
 
 L3 FLAT: 301 (0/301) rows successful, 37 ignored 
 
@@ -85,27 +85,27 @@ L2 FLAT: 32 (0/32) rows successful, 5 ignored
 
 L1 FLAT: 5 (0/5) rows successful, 0 ignored 
 
-L1 FLAT: 4 (0/4) rows successful, 0 (0/0) rows has warnings, 1 failed, 35428 ignored
-Another row has already been processed with this key: 35428
+L1 FLAT: 4 (0/4) rows successful, 0 (0/0) rows has warnings, 1 failed, 35327 ignored
+Another row has already been processed with this key: 35327
 Error parsing key for this row; no values: 1
 
-L2 FLAT: 32 (0/32) rows successful, 0 (0/0) rows has warnings, 1 failed, 35400 ignored
-Another row has already been processed with this key: 35400
+L2 FLAT: 32 (0/32) rows successful, 0 (0/0) rows has warnings, 1 failed, 35299 ignored
+Another row has already been processed with this key: 35299
 Error parsing key for this row; no values: 1
 
-L3 FLAT: 301 (0/301) rows successful, 0 (0/0) rows has warnings, 1 failed, 35131 ignored
-Another row has already been processed with this key: 35131
+L3 FLAT: 301 (0/301) rows successful, 0 (0/0) rows has warnings, 1 failed, 35030 ignored
+Another row has already been processed with this key: 35030
 Error parsing key for this row; no values: 1
 
-L4 FLAT: 1803 (0/1803) rows successful, 0 (0/0) rows has warnings, 1 failed, 33629 ignored
-Another row has already been processed with this key: 33629
+L4 FLAT: 1803 (0/1803) rows successful, 0 (0/0) rows has warnings, 1 failed, 33528 ignored
+Another row has already been processed with this key: 33528
 Error parsing key for this row; no values: 1
 
-L5 FLAT: 6750 (16/6734) rows successful, 0 (0/0) rows has warnings, 1 failed, 28682 ignored
-Another row has already been processed with this key: 28682
+L5 FLAT: 6719 (5/6714) rows successful, 0 (0/0) rows has warnings, 1 failed, 28612 ignored
+Another row has already been processed with this key: 28612
 Error parsing key for this row; no values: 1
 
-L6 FLAT: 35432 (75/35357) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+L6 FLAT: 35331 (34/35297) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
 Error parsing key for this row; no values: 1
 
 
@@ -122,18 +122,18 @@ Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/10-112000000179-Failures for Import 179"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/11-112000000180-Failures for Import 180"
  ====> Running action - Update PEC List from Hub 
- Script Start Time:  Mon Aug 30 08:53: PDT 2021
+ Script Start Time:  Mon Sep  6 09:14: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update PEC List from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-PEC: 128 (2/126) rows successful, 0 ignored 
+PEC: 128 (0/128) rows successful, 0 ignored 
 
 
  ====> Running action - Update BE/SBE List 
- Script Start Time:  Mon Aug 30 08:54: PDT 2021
+ Script Start Time:  Mon Sep  6 09:14: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update BE/SBE List' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -160,7 +160,7 @@ Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/6-112000002067-Failures for Import 2067"
  ====> Running action - Update Hyperion Service Forecast from Hub 
  ====> Running action - Update OMF Product Forecast from Hub 
- Script Start Time:  Mon Aug 30 08:54: PDT 2021
+ Script Start Time:  Mon Sep  6 09:14: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update OMF Product Forecast from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -169,13 +169,13 @@ Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 
 4 Forecast Quarters identifier(s) ("2022Q1", "2022Q2", "2022Q3", "2022Q4") were not mapped and ignored
-Product Amount cells: 212592 (212592 failed)
-Item not located in Forecast Status list: 212592
+Product Amount cells: 211986 (211986 failed)
+Item not located in Forecast Status list: 211986
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/1-112000002554-Failures for Import 2554"
  ====> Running action - Update Rewards Forecast from Hub 
- Script Start Time:  Mon Aug 30 08:54: PDT 2021
+ Script Start Time:  Mon Sep  6 09:14: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update Rewards Forecast from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -183,113 +183,113 @@ Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 
-Attach Rate CY-1 Q1 cells: 70864 (35435 ignored)
-Attach Rate CY-1 Q2 cells: 70864 (35435 ignored)
-Attach Rate CY-1 Q3 cells: 70864 (35435 ignored)
-Attach Rate CY-1 Q4 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Rate CY Q1 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Rate CY Q2 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Rate CY Q3 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Rate CY Q4 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-1 Q1 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-1 Q2 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-1 Q3 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-1 Q4 cells: 70864 (35435 ignored)
-ACV Renew Rate CY Q1 cells: 70864 (35435 ignored)
-ACV Renew Rate CY Q2 cells: 70864 (35435 ignored)
-ACV Renew Rate CY Q3 cells: 70864 (35435 ignored)
-ACV Renew Rate CY Q4 cells: 70864 (35435 ignored)
-TCV Renewal Base Q1 cells: 70864 (35435 ignored)
-TCV Renewal Base Q2 cells: 70864 (35435 ignored)
-TCV Renewal Base Q3 cells: 70864 (35435 ignored)
-TCV Renewal Base Q4 cells: 70864 (35435 ignored)
-ACV Renewal Base Q1 cells: 70864 (35435 ignored)
-ACV Renewal Base Q2 cells: 70864 (35435 ignored)
-ACV Renewal Base Q3 cells: 70864 (35435 ignored)
-ACV Renewal Base Q4 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-2 Q1 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-2 Q2 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-2 Q3 cells: 70864 (35435 ignored)
-ACV Renew Rate CY-2 Q4 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Pen Rate CY Q1 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Pen Rate CY Q2 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Pen Rate CY Q3 cells: 70864 (35435 ignored)
-2 Yr Avg Attach Pen Rate CY Q4 cells: 70864 (35435 ignored)
-Attach Pen Rate CY-1 Q1 cells: 70864 (35435 ignored)
-Attach Pen Rate CY-1 Q2 cells: 70864 (35435 ignored)
-Attach Pen Rate CY-1 Q3 cells: 70864 (35435 ignored)
-Attach Pen Rate CY-1 Q4 cells: 70864 (35435 ignored)
-Attach Pen Rate CY Q4 cells: 70864 (35435 ignored)
-Attach Pen Rate CY Q3 cells: 70864 (35435 ignored)
-Attach Pen Rate CY Q2 cells: 70864 (35435 ignored)
-Attach Pen Rate CY Q1 cells: 70864 (35435 ignored)
+Attach Rate CY-1 Q1 cells: 70662 (35334 ignored)
+Attach Rate CY-1 Q2 cells: 70662 (35334 ignored)
+Attach Rate CY-1 Q3 cells: 70662 (35334 ignored)
+Attach Rate CY-1 Q4 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Rate CY Q1 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Rate CY Q2 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Rate CY Q3 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Rate CY Q4 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-1 Q1 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-1 Q2 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-1 Q3 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-1 Q4 cells: 70662 (35334 ignored)
+ACV Renew Rate CY Q1 cells: 70662 (35334 ignored)
+ACV Renew Rate CY Q2 cells: 70662 (35334 ignored)
+ACV Renew Rate CY Q3 cells: 70662 (35334 ignored)
+ACV Renew Rate CY Q4 cells: 70662 (35334 ignored)
+TCV Renewal Base Q1 cells: 70662 (35334 ignored)
+TCV Renewal Base Q2 cells: 70662 (35334 ignored)
+TCV Renewal Base Q3 cells: 70662 (35334 ignored)
+TCV Renewal Base Q4 cells: 70662 (35334 ignored)
+ACV Renewal Base Q1 cells: 70662 (35334 ignored)
+ACV Renewal Base Q2 cells: 70662 (35334 ignored)
+ACV Renewal Base Q3 cells: 70662 (35334 ignored)
+ACV Renewal Base Q4 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-2 Q1 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-2 Q2 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-2 Q3 cells: 70662 (35334 ignored)
+ACV Renew Rate CY-2 Q4 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Pen Rate CY Q1 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Pen Rate CY Q2 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Pen Rate CY Q3 cells: 70662 (35334 ignored)
+2 Yr Avg Attach Pen Rate CY Q4 cells: 70662 (35334 ignored)
+Attach Pen Rate CY-1 Q1 cells: 70662 (35334 ignored)
+Attach Pen Rate CY-1 Q2 cells: 70662 (35334 ignored)
+Attach Pen Rate CY-1 Q3 cells: 70662 (35334 ignored)
+Attach Pen Rate CY-1 Q4 cells: 70662 (35334 ignored)
+Attach Pen Rate CY Q4 cells: 70662 (35334 ignored)
+Attach Pen Rate CY Q3 cells: 70662 (35334 ignored)
+Attach Pen Rate CY Q2 cells: 70662 (35334 ignored)
+Attach Pen Rate CY Q1 cells: 70662 (35334 ignored)
 
-AS Bookings ID: 35725 (35725/0) rows successful, 285800 ignored 
-Another row has already been processed with this key: 285800
+AS Bookings ID: 35624 (35624/0) rows successful, 284992 ignored 
+Another row has already been processed with this key: 284992
 
 8 Line Item identifier(s) ("Booking Adj CY1_Q1", "Booking Adj CY1_Q2", "Booking Adj CY1_Q3", "Booking Adj CY1_Q4", "FMV CY1_Q1", "FMV CY1_Q2", "FMV CY1_Q3", "FMV CY1_Q4") were not mapped and ignored
-CY-2 Q1 cells: 214350 (107175 ignored)
-CY-2 Q2 cells: 214350 (107175 ignored)
-CY-2 Q3 cells: 214350 (107175 ignored)
-CY-2 Q4 cells: 214350 (107175 ignored)
-CY-1 Q1 cells: 214350 (107175 ignored)
-CY-1 Q2 cells: 214350 (107175 ignored)
-CY-1 Q3 cells: 214350 (107175 ignored)
-CY-1 Q4 cells: 214350 (107175 ignored)
-CY Q1 cells: 214350 (107175 ignored)
-CY Q2 cells: 214350 (107175 ignored)
-CY Q3 cells: 214350 (107175 ignored)
-CYQ4 Actuals cells: 214350 (107175 ignored)
-CY1 Q1 cells: 214350 (107175 ignored)
-CY1 Q3 cells: 214350 (107175 ignored)
-CY1 Q4 cells: 214350 (107175 ignored)
-CY1 Q2 Actuals cells: 214350 (107175 ignored)
+CY-2 Q1 cells: 213744 (106872 ignored)
+CY-2 Q2 cells: 213744 (106872 ignored)
+CY-2 Q3 cells: 213744 (106872 ignored)
+CY-2 Q4 cells: 213744 (106872 ignored)
+CY-1 Q1 cells: 213744 (106872 ignored)
+CY-1 Q2 cells: 213744 (106872 ignored)
+CY-1 Q3 cells: 213744 (106872 ignored)
+CY-1 Q4 cells: 213744 (106872 ignored)
+CY Q1 cells: 213744 (106872 ignored)
+CY Q2 cells: 213744 (106872 ignored)
+CY Q3 cells: 213744 (106872 ignored)
+CYQ4 Actuals cells: 213744 (106872 ignored)
+CY1 Q1 cells: 213744 (106872 ignored)
+CY1 Q3 cells: 213744 (106872 ignored)
+CY1 Q4 cells: 213744 (106872 ignored)
+CY1 Q2 Actuals cells: 213744 (106872 ignored)
 
-ACV Renew Rate CY-1 Q1 cells: 20608
-ACV Renew Rate CY-1 Q2 cells: 20608
-ACV Renew Rate CY-1 Q3 cells: 20608
-ACV Renew Rate CY-1 Q4 cells: 20608
-ACV Renew Rate CY Q1 cells: 20608
-ACV Renew Rate CY Q2 cells: 20608
-ACV Renew Rate CY Q3 cells: 20608
-ACV Renew Rate CY Q4 cells: 20608
-ACV Renew Rate CY-2 Q1 cells: 20608
-ACV Renew Rate CY-2 Q2 cells: 20608
-ACV Renew Rate CY-2 Q3 cells: 20608
-ACV Renew Rate CY-2 Q4 cells: 20608
+ACV Renew Rate CY-1 Q1 cells: 20784
+ACV Renew Rate CY-1 Q2 cells: 20784
+ACV Renew Rate CY-1 Q3 cells: 20784
+ACV Renew Rate CY-1 Q4 cells: 20784
+ACV Renew Rate CY Q1 cells: 20784
+ACV Renew Rate CY Q2 cells: 20784
+ACV Renew Rate CY Q3 cells: 20784
+ACV Renew Rate CY Q4 cells: 20784
+ACV Renew Rate CY-2 Q1 cells: 20784
+ACV Renew Rate CY-2 Q2 cells: 20784
+ACV Renew Rate CY-2 Q3 cells: 20784
+ACV Renew Rate CY-2 Q4 cells: 20784
 
-2 Yr Avg Attach Rate CY Q1 cells: 17594 (19 failed)
-2 Yr Avg Attach Rate CY Q2 cells: 17594 (19 failed)
-2 Yr Avg Attach Rate CY Q3 cells: 17594 (19 failed)
-2 Yr Avg Attach Rate CY Q4 cells: 17594 (19 failed)
-2 Yr Avg Attach Pen Rate CY Q1 cells: 17594 (19 failed)
-2 Yr Avg Attach Pen Rate CY Q2 cells: 17594 (19 failed)
-2 Yr Avg Attach Pen Rate CY Q3 cells: 17594 (19 failed)
-2 Yr Avg Attach Pen Rate CY Q4 cells: 17594 (19 failed)
-Attach Pen Rate CY-1 Q1 cells: 17594 (19 failed)
-Attach Pen Rate CY-1 Q2 cells: 17594 (19 failed)
-Attach Pen Rate CY-1 Q3 cells: 17594 (19 failed)
-Attach Pen Rate CY-1 Q4 cells: 17594 (19 failed)
-Attach Pen Rate CY Q4 cells: 17594 (19 failed)
-Attach Pen Rate CY Q3 cells: 17594 (19 failed)
-Attach Pen Rate CY Q2 cells: 17594 (19 failed)
-Attach Pen Rate CY Q1 cells: 17594 (19 failed)
+2 Yr Avg Attach Rate CY Q1 cells: 17519 (19 failed)
+2 Yr Avg Attach Rate CY Q2 cells: 17519 (19 failed)
+2 Yr Avg Attach Rate CY Q3 cells: 17519 (19 failed)
+2 Yr Avg Attach Rate CY Q4 cells: 17519 (19 failed)
+2 Yr Avg Attach Pen Rate CY Q1 cells: 17519 (19 failed)
+2 Yr Avg Attach Pen Rate CY Q2 cells: 17519 (19 failed)
+2 Yr Avg Attach Pen Rate CY Q3 cells: 17519 (19 failed)
+2 Yr Avg Attach Pen Rate CY Q4 cells: 17519 (19 failed)
+Attach Pen Rate CY-1 Q1 cells: 17519 (19 failed)
+Attach Pen Rate CY-1 Q2 cells: 17519 (19 failed)
+Attach Pen Rate CY-1 Q3 cells: 17519 (19 failed)
+Attach Pen Rate CY-1 Q4 cells: 17519 (19 failed)
+Attach Pen Rate CY Q4 cells: 17519 (19 failed)
+Attach Pen Rate CY Q3 cells: 17519 (19 failed)
+Attach Pen Rate CY Q2 cells: 17519 (19 failed)
+Attach Pen Rate CY Q1 cells: 17519 (19 failed)
 Item not located in SHARE Node ID list: 304
 
-TCV Renewal Base Q1 cells: 16708
-TCV Renewal Base Q2 cells: 16708
-TCV Renewal Base Q3 cells: 16708
-TCV Renewal Base Q4 cells: 16708
-ACV Renewal Base Q1 cells: 16708
-ACV Renewal Base Q2 cells: 16708
-ACV Renewal Base Q3 cells: 16708
-ACV Renewal Base Q4 cells: 16708
+TCV Renewal Base Q1 cells: 16757
+TCV Renewal Base Q2 cells: 16757
+TCV Renewal Base Q3 cells: 16757
+TCV Renewal Base Q4 cells: 16757
+ACV Renewal Base Q1 cells: 16757
+ACV Renewal Base Q2 cells: 16757
+ACV Renewal Base Q3 cells: 16757
+ACV Renewal Base Q4 cells: 16757
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/2-112000002251-Failures for Import 2251"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/5-112000002556-Failures for Import 2556"
  ====> Running action - Update PID Forecast from Hub 
- Script Start Time:  Mon Aug 30 08:55: PDT 2021
+ Script Start Time:  Mon Sep  6 09:15: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update PID Forecast from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -305,7 +305,7 @@ CDO TOTAL FORECAST cells: 1734
 
 
  ====> Running action - Update Bookings Data from Hub 
- Script Start Time:  Mon Aug 30 08:55: PDT 2021
+ Script Start Time:  Mon Sep  6 09:15: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update Bookings Data from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -313,35 +313,35 @@ Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 
-Node SBE Quarterly Pc cells: 0 (3295269 ignored)
+Node SBE Quarterly Pc cells: 0 (3285876 ignored)
 
-Node PEC Key: 2433391 (2433391/0) rows successful, 0 ignored 
+Node PEC Key: 2438727 (2438727/0) rows successful, 0 ignored 
 
 22 Line Item identifier(s) ("Level", "XCAT FLAG", "ELA  FLAG", "BP FLAG", "SHARE NODE", "SHARE L1", "Share_Flat", "xCAT - Flag", "XCAT - Q1", "XCAT - Q2", ...) were not mapped and ignored
-NODE ID cells: 2784148
-Q1 cells: 9733564 (2433391 failed)
-Q2 cells: 9733564 (2433391 failed)
-Q3 cells: 9733564 (2433391 failed)
-Q4 cells: 9733564 (2433391 failed)
-PEC List cells: 5568296
-SFDC CY Q4 cells: 9733564 (2433391 failed)
-Item not located in Booking Years list: 12166955
+NODE ID cells: 2809327
+Q1 cells: 9754908 (2438727 failed)
+Q2 cells: 9754908 (2438727 failed)
+Q3 cells: 9754908 (2438727 failed)
+Q4 cells: 9754908 (2438727 failed)
+PEC List cells: 5618654
+SFDC CY Q4 cells: 9754908 (2438727 failed)
+Item not located in Booking Years list: 12193635
 
 1 Line Item identifier(s) ("Confirmed Share Node ID") were not mapped and ignored
-Q1_SPLIT cells: 2692832 (1345342 failed)
-Q2_SPLIT cells: 2692832 (1345342 failed)
-Q3_SPLIT cells: 2692832 (1345342 failed)
-Q4_SPLIT cells: 2692832 (1345342 failed)
-Item not located in Sub BE List list: 708640
+Q1_SPLIT cells: 2685156 (1344837 failed)
+Q2_SPLIT cells: 2685156 (1344837 failed)
+Q3_SPLIT cells: 2685156 (1344837 failed)
+Q4_SPLIT cells: 2685156 (1344837 failed)
+Item not located in Sub BE List list: 706620
 Item not located in SHARE FLAT list: 4672728
 
 21 Line Item identifier(s) ("Q4 Architecture Calc", "-------------CYQ4 Actual Roll Up---------------", "FLAT CYQ4 Actual", "L0 CYQ4 Actual", "L1 CYQ4 Actual", "L2 CYQ4 Actual", "L3 CYQ4 Actual", "L4 CYQ4 Actual", "L5 CYQ4 Actual", "L6 CYQ4 Actual", ...) were not mapped and ignored
 
-TAM Forecast cells: 17999456 (21004288 failed, 142240 ignored)
-Item not located in SHARE FLAT list: 21004288
+TAM Forecast cells: 17948148 (21068288 failed, 141836 ignored)
+Item not located in SHARE FLAT list: 21068288
 
 1 Line Item identifier(s) ("Confirmed Share Node ID") were not mapped and ignored
-TAM Product Growth Rate cells: 35432 (18659 failed)
+TAM Product Growth Rate cells: 35331 (18659 failed)
 Item not located in SHARE Node ID list: 18659
 
 1 Booking Years identifier(s) ("CY-3") were not mapped and ignored
@@ -351,94 +351,94 @@ Booking Header Hub Q3 cells: 381 (128 failed, 3 ignored)
 Booking Header Hub Q4 cells: 381 (128 failed, 3 ignored)
 Item not located in Booking Years list: 512
 
-Node PEC Key: 418196 (0/418196) rows successful, 0 ignored 
+Node PEC Key: 452258 (0/452258) rows successful, 0 ignored 
 
 22 Line Item identifier(s) ("Level", "XCAT FLAG", "ELA  FLAG", "BP FLAG", "SHARE NODE", "SHARE L1", "Share_Flat", "xCAT - Flag", "XCAT - Q1", "XCAT - Q2", ...) were not mapped and ignored
-NODE ID cells: 418196
-PEC List cells: 418196
-Q1 cells: 418196
-Q2 cells: 418196
-Q3 cells: 418196
-Q4 cells: 418196
-SFDC Forecast cells: 418196
+NODE ID cells: 452258
+PEC List cells: 452258
+Q1 cells: 452258
+Q2 cells: 452258
+Q3 cells: 452258
+Q4 cells: 452258
+SFDC Forecast cells: 452258
 
-RSW Bookings CY-2Q4 cells: 70864 (586 failed, 2 ignored)
-RSW Bookings CY-1Q4 cells: 70864 (586 failed, 2 ignored)
-RSW BookingS CY-1Q2 cells: 70864 (586 failed, 2 ignored)
-RSW BookingS CY Q2 cells: 70864 (586 failed, 2 ignored)
+RSW Bookings CY-2Q4 cells: 70662 (586 failed, 2 ignored)
+RSW Bookings CY-1Q4 cells: 70662 (586 failed, 2 ignored)
+RSW BookingS CY-1Q2 cells: 70662 (586 failed, 2 ignored)
+RSW BookingS CY Q2 cells: 70662 (586 failed, 2 ignored)
 Item not located in SHARE Node ID list: 2344
 
-Product cells: 70864 (531480 failed, 106296 ignored)
-Services cells: 70864 (531480 failed, 106296 ignored)
-Item not located in Q4 Judge Quarter list: 708640
-Item not located in Judge list: 354320
+Product cells: 70662 (529965 failed, 105993 ignored)
+Services cells: 70662 (529965 failed, 105993 ignored)
+Item not located in Q4 Judge Quarter list: 706620
+Item not located in Judge list: 353310
 
-Level cells: 0 (22864000 ignored)
-Node PEC Bookings Rollup cells: 0 (22864000 ignored)
-Bookings Xcat Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings Xcat Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings Xcat Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings Xcat Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings ELA Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings ELA Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings ELA Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings ELA Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings BP Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings BP Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings BP Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings BP Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Node PEC Adjustment Rollup cells: 0 (22864000 ignored)
-PEC Adjustments Xcat Q1 cells: 0 (22864000 ignored)
-PEC Adjustments Xcat Q2 cells: 0 (22864000 ignored)
-PEC Adjustments Xcat Q3 cells: 0 (22864000 ignored)
-PEC Adjustments Xcat Q4 cells: 0 (22864000 ignored)
-PEC Adjustments ELA Q1 cells: 0 (22864000 ignored)
-PEC Adjustments ELA Q2 cells: 0 (22864000 ignored)
-PEC Adjustments ELA Q3 cells: 0 (22864000 ignored)
-PEC Adjustments ELA Q4 cells: 0 (22864000 ignored)
-PEC Adjustments BP Q1 cells: 0 (22864000 ignored)
-PEC Adjustments BP Q2 cells: 0 (22864000 ignored)
-PEC Adjustments BP Q3 cells: 0 (22864000 ignored)
-PEC Adjustments BP Q4 cells: 0 (22864000 ignored)
-Node PEC FMV Adjustment Rollup cells: 0 (22864000 ignored)
-PEC FMV Adjustments Xcat Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments Xcat Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments Xcat Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments Xcat Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments ELA Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments ELA Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments ELA Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments ELA Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments BP Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments BP Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments BP Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC FMV Adjustments BP Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - Xcat Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - Xcat Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - Xcat Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - Xcat Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - ELA Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - ELA Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - ELA Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - ELA Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - BP Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - BP Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - BP Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-Bookings - BP Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments Xcat Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments Xcat Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments Xcat Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments Xcat Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments ELA Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments ELA Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments ELA Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments ELA Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments BP Q1 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments BP Q2 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments BP Q3 cells: 17961356 (4760704 failed, 141940 ignored)
-PEC - FMV Adjustments BP Q4 cells: 17961356 (4760704 failed, 141940 ignored)
-Item not located in SHARE FLAT list: 9019392
-Item not located in Booking Years list: 219494400
+Level cells: 0 (22904960 ignored)
+Node PEC Bookings Rollup cells: 0 (22904960 ignored)
+Bookings Xcat Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings Xcat Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings Xcat Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings Xcat Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings ELA Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings ELA Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings ELA Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings ELA Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings BP Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings BP Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings BP Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings BP Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Node PEC Adjustment Rollup cells: 0 (22904960 ignored)
+PEC Adjustments Xcat Q1 cells: 0 (22904960 ignored)
+PEC Adjustments Xcat Q2 cells: 0 (22904960 ignored)
+PEC Adjustments Xcat Q3 cells: 0 (22904960 ignored)
+PEC Adjustments Xcat Q4 cells: 0 (22904960 ignored)
+PEC Adjustments ELA Q1 cells: 0 (22904960 ignored)
+PEC Adjustments ELA Q2 cells: 0 (22904960 ignored)
+PEC Adjustments ELA Q3 cells: 0 (22904960 ignored)
+PEC Adjustments ELA Q4 cells: 0 (22904960 ignored)
+PEC Adjustments BP Q1 cells: 0 (22904960 ignored)
+PEC Adjustments BP Q2 cells: 0 (22904960 ignored)
+PEC Adjustments BP Q3 cells: 0 (22904960 ignored)
+PEC Adjustments BP Q4 cells: 0 (22904960 ignored)
+Node PEC FMV Adjustment Rollup cells: 0 (22904960 ignored)
+PEC FMV Adjustments Xcat Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments Xcat Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments Xcat Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments Xcat Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments ELA Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments ELA Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments ELA Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments ELA Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments BP Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments BP Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments BP Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC FMV Adjustments BP Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - Xcat Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - Xcat Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - Xcat Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - Xcat Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - ELA Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - ELA Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - ELA Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - ELA Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - BP Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - BP Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - BP Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+Bookings - BP Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments Xcat Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments Xcat Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments Xcat Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments Xcat Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments ELA Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments ELA Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments ELA Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments ELA Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments BP Q1 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments BP Q2 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments BP Q3 cells: 17930876 (4832384 failed, 141700 ignored)
+PEC - FMV Adjustments BP Q4 cells: 17930876 (4832384 failed, 141700 ignored)
+Item not located in SHARE FLAT list: 12066816
+Item not located in Booking Years list: 219887616
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/3-112000002248-Failures for Import 2248"
@@ -450,7 +450,7 @@ Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/12-112000002282-Failures for Import 2282"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/13-112000002500-Failures for Import 2500"
  ====> Running action - Update Adjustments Data from Hub 
- Script Start Time:  Mon Aug 30 09:35: PDT 2021
+ Script Start Time:  Mon Sep  6 09:55: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update Adjustments Data from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -458,29 +458,29 @@ Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 
-Adjustment ID: 168759 (168759/0) rows successful, 0 ignored 
+Adjustment ID: 170715 (170715/0) rows successful, 0 ignored 
 
-Node ID cells: 152120 (47225 failed)
-Q1 cells: 152120 (215984 failed)
-Q2 cells: 152120 (215984 failed)
-Q3 cells: 152120 (215984 failed)
-Q4 cells: 152120 (215984 failed)
-PEC List cells: 132636 (44345 failed)
-Item not located in Adj Types list: 280470
-Item not located in Adj Booking Years list: 675036
+Node ID cells: 154051 (47220 failed)
+Q1 cells: 154051 (217935 failed)
+Q2 cells: 154051 (217935 failed)
+Q3 cells: 154051 (217935 failed)
+Q4 cells: 154051 (217935 failed)
+PEC List cells: 134567 (44340 failed)
+Item not located in Adj Types list: 280440
+Item not located in Adj Booking Years list: 682860
 
 22 Line Item identifier(s) ("XCAT FLAG", "ELA FLAG", "BP FLAG", "NODE ID LIST", "SHARE L1", "Booking Year", "Share_Flat", "xCAT - Flag", "XCAT - Q1", "XCAT - Q2", ...) were not mapped and ignored
-Q1 cells: 177708 (2 failed)
-Q2 cells: 177708 (2 failed)
-Q3 cells: 177708 (2 failed)
-Q4 cells: 177708 (2 failed)
+Q1 cells: 172366 (2 failed)
+Q2 cells: 172366 (2 failed)
+Q3 cells: 172366 (2 failed)
+Q4 cells: 172366 (2 failed)
 Item not located in SHARE Node ID list: 8
 
 20 Line Item identifier(s) ("XCAT FLAG", "ELA FLAG", "BP FLAG", "Booking Year", "Share_Flat", "xCAT - Flag", "XCAT - Q1", "XCAT - Q2", "XCAT - Q3", "XCAT - Q4", ...) were not mapped and ignored
-Q1 cells: 180127 (22670 failed)
-Q2 cells: 180127 (22670 failed)
-Q3 cells: 180127 (22670 failed)
-Q4 cells: 180127 (22670 failed)
+Q1 cells: 182043 (22670 failed)
+Q2 cells: 182043 (22670 failed)
+Q3 cells: 182043 (22670 failed)
+Q4 cells: 182043 (22670 failed)
 Item not located in PEC list: 87204
 Item not located in SHARE Node ID list: 3476
 
@@ -489,100 +489,100 @@ Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/3-112000001021-Failures for Import 1021"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/4-112000001792-Failures for Import 1792"
  ====> Running action - Sub BE Adjustments from NLG in Booking Hub
- Script Start Time:  Mon Aug 30 09:37: PDT 2021
+ Script Start Time:  Mon Sep  6 09:57: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -debug -process 'Sub BE Adjustments from NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-Q1 cells: 6192936
-Q2 cells: 6192936
-Q3 cells: 6192936
-Q4 cells: 6192936
+Q1 cells: 6194880
+Q2 cells: 6194880
+Q3 cells: 6194880
+Q4 cells: 6194880
 
 1 Line Item identifier(s) ("FY") were not mapped and ignored
-Q1 cells: 2692832 (35432 failed)
-Q2 cells: 2692832 (35432 failed)
-Q3 cells: 2692832 (35432 failed)
-Q4 cells: 2692832 (35432 failed)
-Item not located in Sub BE list: 141728
+Q1 cells: 2685156 (35331 failed)
+Q2 cells: 2685156 (35331 failed)
+Q3 cells: 2685156 (35331 failed)
+Q4 cells: 2685156 (35331 failed)
+Item not located in Sub BE list: 141324
 
 24 Line Item identifier(s) ("PEC_TYPE", "Total Services", "PEC-Total Services", "TSS New +AS", "TSS Renew + AS", "TSS", "TSS New", "TSS Renew", "AS", "AS New", ...) were not mapped and ignored
 Service Flag,, cells: 104
 Sales Motion Code.. cells: 57 (17 failed)
 Service Category.. cells: 6
 SERVICE PROGRAM BRAND cells: 55
-Metric Type cells: 4225 (228 failed)
+Metric Type cells: 3419 (1058 failed)
 More than one value for non-numeric cell: 17
-More than one value for non-numeric cell: 228
+More than one value for non-numeric cell: 1058
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/1-112000000207-Failures for Import 207"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/2-112000000460-Failures for Import 460"
  ====> Running action - Sub BE Forecast Import from Hub in NLG
- Script Start Time:  Mon Aug 30 09:38: PDT 2021
+ Script Start Time:  Mon Sep  6 09:58: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Sub BE Forecast Import from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-Q1 cells: 4499864 (5251072 failed, 35560 ignored)
-Q2 cells: 4499864 (5251072 failed, 35560 ignored)
-Q3 cells: 4499864 (5251072 failed, 35560 ignored)
-Q4 cells: 4499864 (5251072 failed, 35560 ignored)
-Item not located in SHARE FLAT list: 21004288
+Q1 cells: 4487037 (5267072 failed, 35459 ignored)
+Q2 cells: 4487037 (5267072 failed, 35459 ignored)
+Q3 cells: 4487037 (5267072 failed, 35459 ignored)
+Q4 cells: 4487037 (5267072 failed, 35459 ignored)
+Item not located in SHARE FLAT list: 21068288
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/test/0-112000000777-Failures for Import 777"
  ====> Running action - Update Service Forecast 
- Script Start Time:  Mon Aug 30 09:40: PDT 2021
+ Script Start Time:  Mon Sep  6 10:01: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Update Service Forecast' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-FY22  AS-S New - Q1 cells: 921232
-FY22  AS-S New - Q2 cells: 921232
-FY22  AS-S New - Q3 cells: 921232
-FY22  AS-S New - Q4 cells: 921232
-FY22  AS-S Renew - Q1 cells: 921232
-FY22  AS-S Renew - Q2 cells: 921232
-FY22  AS-S Renew - Q3 cells: 921232
-FY22  AS-S Renew - Q4 cells: 921232
-FY22 TSS New - Q1 cells: 921232
-FY22 TSS New  - Q2 cells: 921232
-FY22 TSS New  - Q3 cells: 921232
-FY22 TSS New - Q4 cells: 921232
-FY22 TSS Renew - Q1 cells: 921232
-FY22 TSS Renew - Q2 cells: 921232
-FY22 TSS Renew - Q3 cells: 921232
-FY22 TSS Renew - Q4 cells: 921232
-FY22 Total TSS  - Q1 cells: 921232
-FY22 Total TSS - Q2 cells: 921232
-FY22 Total TSS - Q3 cells: 921232
-FY22 Total TSS - Q4 cells: 921232
-FY22 Total Services - Q1 cells: 921232
-FY22 Total Services - Q2 cells: 921232
-FY22 Total Services - Q3 cells: 921232
-FY22 Total Services - Q4 cells: 921232
-FY22 Total AS - Q1 cells: 921232
-FY22 Total AS - Q2 cells: 921232
-FY22 Total AS - Q3 cells: 921232
-FY22 Total AS - Q4 cells: 921232
-FY22 Total AS-T Q4 cells: 921232
-FY22 Total AS-T Q3 cells: 921232
-FY22 Total AS-T Q2 cells: 921232
-FY22 Total AS-T Q1 cells: 921232
+FY22  AS-S New - Q1 cells: 918606
+FY22  AS-S New - Q2 cells: 918606
+FY22  AS-S New - Q3 cells: 918606
+FY22  AS-S New - Q4 cells: 918606
+FY22  AS-S Renew - Q1 cells: 918606
+FY22  AS-S Renew - Q2 cells: 918606
+FY22  AS-S Renew - Q3 cells: 918606
+FY22  AS-S Renew - Q4 cells: 918606
+FY22 TSS New - Q1 cells: 918606
+FY22 TSS New  - Q2 cells: 918606
+FY22 TSS New  - Q3 cells: 918606
+FY22 TSS New - Q4 cells: 918606
+FY22 TSS Renew - Q1 cells: 918606
+FY22 TSS Renew - Q2 cells: 918606
+FY22 TSS Renew - Q3 cells: 918606
+FY22 TSS Renew - Q4 cells: 918606
+FY22 Total TSS  - Q1 cells: 918606
+FY22 Total TSS - Q2 cells: 918606
+FY22 Total TSS - Q3 cells: 918606
+FY22 Total TSS - Q4 cells: 918606
+FY22 Total Services - Q1 cells: 918606
+FY22 Total Services - Q2 cells: 918606
+FY22 Total Services - Q3 cells: 918606
+FY22 Total Services - Q4 cells: 918606
+FY22 Total AS - Q1 cells: 918606
+FY22 Total AS - Q2 cells: 918606
+FY22 Total AS - Q3 cells: 918606
+FY22 Total AS - Q4 cells: 918606
+FY22 Total AS-T Q4 cells: 918606
+FY22 Total AS-T Q3 cells: 918606
+FY22 Total AS-T Q2 cells: 918606
+FY22 Total AS-T Q1 cells: 918606
 
-Clear Data cells: 0 (4535296 ignored)
+Clear Data cells: 0 (4522368 ignored)
 
-Final Goal - Q1 cells: 4535296
-Final Goal - Q2 cells: 4535296
-Final Goal - Q3 cells: 4535296
-Final Goal - Q4 cells: 4535296
+Final Goal - Q1 cells: 4522368
+Final Goal - Q2 cells: 4522368
+Final Goal - Q3 cells: 4522368
+Final Goal - Q4 cells: 4522368
 
 
 FY20NLG anaplan_refresh_time.txt anaplan_refresh_time.txt Weekly Job Date Refresh anaplan_refresh_time
@@ -590,25 +590,25 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0106d31d556016d4de8e2a85409 -model D720F46F9517471E942175E37D7F120E -certificate '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3/'certificate-153811101942478152865011036548523946096.cer -file 'anaplan_refresh_time.txt' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_refresh_time.txt'  -import 'Weekly Job Date Refresh' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan_refresh_time.err'
  ====>Refresh TMS Split report Started 
  ====> Running action - Pull Hierarchy PEC and BE_SBE  
- Script Start Time:  Mon Aug 30 09:43: PDT 2021
+ Script Start Time:  Mon Sep  6 10:04: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Pull Hierarchy PEC and BE_SBE' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-SHARE FLAT: 35724 (0/35724) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+SHARE FLAT: 35788 (0/35788) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
 Cannot change code for list's top level item: 1
 
-SHARE FLAT: 35432 (75/35357) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
+SHARE FLAT: 35331 (34/35297) rows successful, 0 (0/0) rows has warnings, 1 failed, 0 ignored
 Error parsing key for this row; no values: 1
 
-SHARE Node ID: 35288 (41/35247) rows successful, 0 (0/0) rows has warnings, 145 failed, 0 ignored
-Invalid name: 145
+SHARE Node ID: 35185 (14/35171) rows successful, 0 (0/0) rows has warnings, 147 failed, 0 ignored
+Invalid name: 147
 
-PEC: 129 (2/127) rows successful, 0 ignored 
+PEC: 129 (0/129) rows successful, 0 ignored 
 
-PEC FLAT: 130 (2/128) rows successful, 0 ignored 
+PEC FLAT: 130 (0/130) rows successful, 0 ignored 
 
 SHARE L1: 3 (0/3) rows successful, 1 ignored 
 
@@ -618,9 +618,9 @@ SHARE L3: 269 (0/269) rows successful, 32 ignored
 
 SHARE L4: 1502 (0/1502) rows successful, 301 ignored 
 
-SHARE L5: 4947 (16/4931) rows successful, 1803 ignored 
+SHARE L5: 4916 (5/4911) rows successful, 1803 ignored 
 
-SHARE L6: 28682 (59/28623) rows successful, 3 (0/3) rows has warnings, 6747 ignored 
+SHARE L6: 28612 (29/28583) rows successful, 3 (0/3) rows has warnings, 6716 ignored 
 Invalid parent: 3
 
 
@@ -637,9 +637,9 @@ L3 FLAT: 301 (0/301) rows successful, 37 ignored
 
 L4 FLAT: 1803 (0/1803) rows successful, 338 ignored 
 
-L5 FLAT: 6750 (10/6740) rows successful, 2141 ignored 
+L5 FLAT: 6719 (1/6718) rows successful, 2141 ignored 
 
-L6 FLAT: 35432 (41/35391) rows successful, 8891 ignored 
+L6 FLAT: 35331 (14/35317) rows successful, 8860 ignored 
 
 PEC FLAT: 129 (0/129) rows successful, 0 ignored 
 
@@ -655,9 +655,9 @@ Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/10-112000000007-Failures for Import 7"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/13-112000000100-Failures for Import 100"
  ====> Running action - Delete Node Sub BE PEC Key
- Script Start Time:  Mon Aug 30 09:44: PDT 2021
+ Script Start Time:  Mon Sep  6 10:05: PDT 2021
  ====> Running action - Refresh Sub BE to PEC MIX from Hub n NLG
- Script Start Time:  Mon Aug 30 09:44: PDT 2021
+ Script Start Time:  Mon Sep  6 10:05: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Refresh Sub BE to PEC MIX from Hub n NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -670,19 +670,19 @@ Q4 % cells: 6204064
 Q3 % cells: 6204064
 Q2 % cells: 6204064
 Q1 % cells: 6204064
-SUB_BUSINESS_ENTITY_DESCR cells: 3736996
-PEC>> cells: 3736996
-NODE_ID cells: 3736996
+SUB_BUSINESS_ENTITY_DESCR cells: 3731723
+PEC>> cells: 3731723
+NODE_ID cells: 3731723
 
-FY cells: 0 (3295269 ignored)
-Q1 cells: 2728264
-Q2 cells: 2728264
-Q3 cells: 2728264
-Q4 cells: 2728264
+FY cells: 0 (3285876 ignored)
+Q1 cells: 2720487
+Q2 cells: 2720487
+Q3 cells: 2720487
+Q4 cells: 2720487
 
 
  ====> Running action - Refresh TMS Hierarchy
- Script Start Time:  Mon Aug 30 09:47: PDT 2021
+ Script Start Time:  Mon Sep  6 10:08: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Refresh TMS Hierarchy' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -693,11 +693,11 @@ TMS_L1: 376 (0/376) rows successful, 0 ignored
 
 TMS_L2: 376 (0/376) rows successful, 0 ignored 
 
-TMS_L3: 376 (0/376) rows successful, 0 ignored 
+TMS_L3: 376 (1/375) rows successful, 0 ignored 
 
 
  ====> Running action - Refresh TMS Modelling
- Script Start Time:  Mon Aug 30 09:47: PDT 2021
+ Script Start Time:  Mon Sep  6 10:08: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Refresh TMS Modelling' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -705,16 +705,16 @@ Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 
-L2 SBE TMS L3 Key: 9466 (9466/0) rows successful, 846910 ignored 
-Another row has already been processed with this key: 846910
+L2 SBE TMS L3 Key: 9486 (9486/0) rows successful, 847820 ignored 
+Another row has already been processed with this key: 847820
 
 1 Line Item identifier(s) ("Tms_sbe_bkg_id") were not mapped and ignored
-PY-2 cells: 856376
-PY-1 cells: 856376
-CY cells: 856376
+PY-2 cells: 857306
+PY-1 cells: 857306
+CY cells: 857306
 
-SBE TMS L3: 507 (1/506) rows successful, 8959 ignored 
-Another row has already been processed with this key: 8959
+SBE TMS L3: 509 (1/508) rows successful, 8977 ignored 
+Another row has already been processed with this key: 8977
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/1-112000002267-Failures for Import 2267"
@@ -729,11 +729,11 @@ TMS Level 1: 45 (0/45) rows successful, 0 ignored
 
 TMS Level 2: 156 (0/156) rows successful, 45 ignored 
 
-TMS Level 3: 368 (0/368) rows successful, 201 ignored 
+TMS Level 3: 369 (1/368) rows successful, 201 ignored 
 
 
  ====> Running action - Refresh TMS Split Report from Hub 
- Script Start Time:  Mon Aug 30 09:47: PDT 2021
+ Script Start Time:  Mon Sep  6 10:09: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Refresh TMS Split Report from Hub' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
@@ -741,46 +741,46 @@ Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
 
-SBE TMS Splits: 860673 (860673/0) rows successful, 0 ignored 
+SBE TMS Splits: 861614 (861614/0) rows successful, 0 ignored 
 
-NODE_ID cells: 856376
-LEVEL_ID cells: 856376
-SUB_BUSINESS_ENTITY_NAME cells: 856376
-AT_LEVEL_3 cells: 856376
-PY2_BOOK_NET cells: 856376
-PY1_BOOK_NET cells: 856376
-CY_BOOK_NET cells: 856376
+NODE_ID cells: 857306
+LEVEL_ID cells: 857306
+SUB_BUSINESS_ENTITY_NAME cells: 857306
+AT_LEVEL_3 cells: 857306
+PY2_BOOK_NET cells: 857306
+PY1_BOOK_NET cells: 857306
+CY_BOOK_NET cells: 857306
 
-FY cells: 0 (3295269 ignored)
-Q1 cells: 2728264
-Q2 cells: 2728264
-Q3 cells: 2728264
-Q4 cells: 2728264
+FY cells: 0 (3285876 ignored)
+Q1 cells: 2720487
+Q2 cells: 2720487
+Q3 cells: 2720487
+Q4 cells: 2720487
 
 
  ====> Running action - Refresh L2 TMS Forecast from NLG 
- Script Start Time:  Mon Aug 30 09:48: PDT 2021
+ Script Start Time:  Mon Sep  6 10:10: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -debug -process 'Refresh L2 TMS Forecast from NLG' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-TMS Split Report ID: 508 (1/507) rows successful, 860165 ignored 
-Another row has already been processed with this key: 860165
+TMS Split Report ID: 510 (1/509) rows successful, 861104 ignored 
+Another row has already been processed with this key: 861104
 
-FY cells: 30520 (336 failed, 4408 ignored)
+FY cells: 30632 (336 failed, 4424 ignored)
 Item not located in TMS Split Report ID list: 336
 
-FY cells: 15260 (168 failed, 2204 ignored)
+FY cells: 15316 (168 failed, 2212 ignored)
 Item not located in TMS Split Report ID list: 168
 
 
 
-PEC ID: 2911 (2911/0) rows successful, 2839 ignored 
-Another row has already been processed with this key: 2839
+PEC ID: 2934 (2934/0) rows successful, 2859 ignored 
+Another row has already been processed with this key: 2859
 
-PEC TMS L3: 2911 (2911/0) rows successful, 0 (0/0) rows has warnings, 130 failed, 0 ignored
+PEC TMS L3: 2934 (2934/0) rows successful, 0 (0/0) rows has warnings, 130 failed, 0 ignored
 Error parsing key for this row; no values: 130
 
 
@@ -790,29 +790,29 @@ Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/5-112000000129-Failures for Import 129"
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/6-112000000122-Failures for Import 122"
  ====> Running action - Import TMS L1 - L6 from Reporting 
- Script Start Time:  Mon Aug 30 09:49: PDT 2021
+ Script Start Time:  Mon Sep  6 10:10: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a868cd87a25f4cf017a54dbb22c16e3 -model 2FA3B2DE0B544E139FD6BB012D2DA513 -debug -process 'Import TMS L1 - L6 from Reporting' -execute -output /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh
 Anaplan Connect 1.3.3-3
 Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)/25.181-b13 (1.8.0_181)
 Linux (amd64)/3.10.0-1160.11.1.el7.x86_64
 The operation was successful.
-Q1 cells: 4535296 (35433 failed, 35561 ignored)
-Q2 cells: 4535296 (35433 failed, 35561 ignored)
-Q3 cells: 4535296 (35433 failed, 35561 ignored)
-Q4 cells: 4535296 (35433 failed, 35561 ignored)
-FY cells: 0 (4606290 ignored)
-Item not located in PEC list: 141732
+Q1 cells: 4522368 (35332 failed, 35460 ignored)
+Q2 cells: 4522368 (35332 failed, 35460 ignored)
+Q3 cells: 4522368 (35332 failed, 35460 ignored)
+Q4 cells: 4522368 (35332 failed, 35460 ignored)
+FY cells: 0 (4593160 ignored)
+Item not located in PEC list: 141328
 
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/nlg_weekly_refresh/0-112000002373-Failures for Import 2373"
  ====>Refresh TMS Split report Ended 
  ====> Running action - UPDATE PEC FROM NLG 
- Script Start Time:  Mon Aug 30 09:50: PDT 2021
+ Script Start Time:  Mon Sep  6 10:11: PDT 2021
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b0136d31d24f016d3c604cb236fa -model 0CED7723541D486C94B6C453F23923D9 -import 'UPDATE PEC FROM NLG'  -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/.err'
 The operation was successful.
-PEC: 129 (1/128) rows successful, 0 ignored 
+PEC: 129 (0/129) rows successful, 0 ignored 
 
- Script End Time:  Mon Aug 30 09:50: PDT 2021
-  ******  Total Job Run time is 62 minutes and 34 seconds elapsed for Script Execution. ******
+ Script End Time:  Mon Sep  6 10:11: PDT 2021
+  ******  Total Job Run time is 63 minutes and 27 seconds elapsed for Script Execution. ******

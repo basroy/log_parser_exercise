@@ -3,10 +3,10 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b010721f3bec01722c4420f878e0 -model 5486F999A91246CF9D710D228864764F -file 'FF_NODE_SBE_BKG.txt' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NODE_SBE_BKG.txt' -import 'Node SBE Booking Percentage from FF_NODE_SBE_BKG.txt' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_BKG_MODULE.err.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_NODE_SBE_BKG.txt" has been uploaded as FF_NODE_SBE_BKG.txt.
 The operation was successful.
-Q1 Split cells: 456585 (4123 failed)
-Q2 Split cells: 456585 (4123 failed)
-Q3 Split cells: 456585 (4123 failed)
-Q4 Split cells: 456585 (4123 failed)
-Item not located in Sub BE list: 16492
+Q1 Split cells: 456146 (4153 failed)
+Q2 Split cells: 456146 (4153 failed)
+Q3 Split cells: 456146 (4153 failed)
+Q4 Split cells: 456146 (4153 failed)
+Item not located in Sub BE list: 16612
 
 Dump file written to "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/NODE_SBE_BKG_MODULE.err.err"

@@ -1,4 +1,4 @@
-20210829232254
+20210906012549
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete TSS_IB data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/tss_ib_key_delete.err'
 The operation was successful.
@@ -8,165 +8,165 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'ff_cx_ts_ib_renewal_bookings.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv' -import 'TS_IB_KEY from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_list.err' -import 'TSS_IB from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_module.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv" has been uploaded as ff_cx_ts_ib_renewal_bookings.csv.
 The operation was successful.
-TS_IB_KEY: 501 (501/0) rows successful, 0 ignored 
+TS_IB_KEY: 502 (502/0) rows successful, 0 ignored 
 
 The operation was successful.
-RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 501
-BOOKINGS_QUARTER cells: 501
-LEVEL_1 cells: 501
-LEVEL_2 cells: 501
-LEVEL_3 cells: 501
-LEVEL_4 cells: 501
-LEVEL_5 cells: 501
-LEVEL_6 cells: 501
-SHARE_NODE_ID cells: 501
-SAVM_GROUP_ID cells: 501
-SAVM_GROUP_NAME cells: 501
-SWSS_FLAG cells: 501
-LDOS_FLAG cells: 501
-OFFER_TYPE cells: 501
-GRP_365_DAYS cells: 501
-BUSINESS_ENTITY_NAME cells: 501
-BUSINESS_SUB_ENTITY_NAME cells: 501
-CX_PRODUCT_CATEGORY cells: 501
-CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 501
-CONTRACT_NET_SERVICE_SPLIT cells: 501
-CONTRACT_LINE_NET_USD_AMOUNT cells: 501
-ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 501
-CX_PRODUCT_PORTFOLIO cells: 501
+RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 502
+BOOKINGS_QUARTER cells: 502
+LEVEL_1 cells: 502
+LEVEL_2 cells: 502
+LEVEL_3 cells: 502
+LEVEL_4 cells: 502
+LEVEL_5 cells: 502
+LEVEL_6 cells: 502
+SHARE_NODE_ID cells: 502
+SAVM_GROUP_ID cells: 502
+SAVM_GROUP_NAME cells: 502
+SWSS_FLAG cells: 502
+LDOS_FLAG cells: 502
+OFFER_TYPE cells: 502
+GRP_365_DAYS cells: 502
+BUSINESS_ENTITY_NAME cells: 502
+BUSINESS_SUB_ENTITY_NAME cells: 502
+CX_PRODUCT_CATEGORY cells: 502
+CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 502
+CONTRACT_NET_SERVICE_SPLIT cells: 502
+CONTRACT_LINE_NET_USD_AMOUNT cells: 502
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 502
+CX_PRODUCT_PORTFOLIO cells: 502
 
-WEEKLY REFRESH 08/29/21
+WEEKLY REFRESH 09/06/21
 8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'ff_cx_ts_ib_renewal_bookings.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv' -import 'TS_IB_KEY from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_list.err' -import 'TSS_IB from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_module.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv" has been uploaded as ff_cx_ts_ib_renewal_bookings.csv.
 The operation was successful.
-TS_IB_KEY: 601 (601/0) rows successful, 0 ignored 
+TS_IB_KEY: 597 (597/0) rows successful, 0 ignored 
 
 The operation was successful.
-RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 601
-BOOKINGS_QUARTER cells: 601
-LEVEL_1 cells: 601
-LEVEL_2 cells: 601
-LEVEL_3 cells: 601
-LEVEL_4 cells: 601
-LEVEL_5 cells: 601
-LEVEL_6 cells: 601
-SHARE_NODE_ID cells: 601
-SAVM_GROUP_ID cells: 601
-SAVM_GROUP_NAME cells: 601
-SWSS_FLAG cells: 601
-LDOS_FLAG cells: 601
-OFFER_TYPE cells: 601
-GRP_365_DAYS cells: 601
-BUSINESS_ENTITY_NAME cells: 601
-BUSINESS_SUB_ENTITY_NAME cells: 601
-CX_PRODUCT_CATEGORY cells: 601
-CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 601
-CONTRACT_NET_SERVICE_SPLIT cells: 601
-CONTRACT_LINE_NET_USD_AMOUNT cells: 601
-ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 601
-CX_PRODUCT_PORTFOLIO cells: 600
+RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 597
+BOOKINGS_QUARTER cells: 597
+LEVEL_1 cells: 597
+LEVEL_2 cells: 597
+LEVEL_3 cells: 597
+LEVEL_4 cells: 597
+LEVEL_5 cells: 597
+LEVEL_6 cells: 597
+SHARE_NODE_ID cells: 597
+SAVM_GROUP_ID cells: 597
+SAVM_GROUP_NAME cells: 597
+SWSS_FLAG cells: 597
+LDOS_FLAG cells: 597
+OFFER_TYPE cells: 597
+GRP_365_DAYS cells: 597
+BUSINESS_ENTITY_NAME cells: 597
+BUSINESS_SUB_ENTITY_NAME cells: 597
+CX_PRODUCT_CATEGORY cells: 597
+CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 597
+CONTRACT_NET_SERVICE_SPLIT cells: 597
+CONTRACT_LINE_NET_USD_AMOUNT cells: 597
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 597
+CX_PRODUCT_PORTFOLIO cells: 596
 
-WEEKLY REFRESH 08/29/21
+WEEKLY REFRESH 09/06/21
 8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'ff_cx_ts_ib_renewal_bookings.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv' -import 'TS_IB_KEY from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_list.err' -import 'TSS_IB from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_module.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv" has been uploaded as ff_cx_ts_ib_renewal_bookings.csv.
 The operation was successful.
-TS_IB_KEY: 317357 (317357/0) rows successful, 0 ignored 
+TS_IB_KEY: 317153 (317153/0) rows successful, 0 ignored 
 
 The operation was successful.
-RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 317357
-BOOKINGS_QUARTER cells: 317357
-LEVEL_1 cells: 317357
-LEVEL_2 cells: 317357
-LEVEL_3 cells: 317357
-LEVEL_4 cells: 317357
-LEVEL_5 cells: 317357
-LEVEL_6 cells: 317357
-SHARE_NODE_ID cells: 317357
-SAVM_GROUP_ID cells: 317357
-SAVM_GROUP_NAME cells: 317357
-SWSS_FLAG cells: 317357
-LDOS_FLAG cells: 317357
-OFFER_TYPE cells: 317357
-GRP_365_DAYS cells: 317357
-BUSINESS_ENTITY_NAME cells: 317357
-BUSINESS_SUB_ENTITY_NAME cells: 317357
-SERVICE_BRAND_CODE cells: 317182
-CX_PRODUCT_CATEGORY cells: 317357
-CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 317357
-CONTRACT_NET_SERVICE_SPLIT cells: 317357
-CONTRACT_LINE_NET_USD_AMOUNT cells: 317357
-ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 317357
-CX_PRODUCT_PORTFOLIO cells: 317355
+RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 317153
+BOOKINGS_QUARTER cells: 317153
+LEVEL_1 cells: 317153
+LEVEL_2 cells: 317153
+LEVEL_3 cells: 317153
+LEVEL_4 cells: 317153
+LEVEL_5 cells: 317153
+LEVEL_6 cells: 317153
+SHARE_NODE_ID cells: 317153
+SAVM_GROUP_ID cells: 317153
+SAVM_GROUP_NAME cells: 317153
+SWSS_FLAG cells: 317153
+LDOS_FLAG cells: 317153
+OFFER_TYPE cells: 317153
+GRP_365_DAYS cells: 317153
+BUSINESS_ENTITY_NAME cells: 317153
+BUSINESS_SUB_ENTITY_NAME cells: 317153
+SERVICE_BRAND_CODE cells: 316976
+CX_PRODUCT_CATEGORY cells: 317153
+CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 317153
+CONTRACT_NET_SERVICE_SPLIT cells: 317153
+CONTRACT_LINE_NET_USD_AMOUNT cells: 317153
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 317153
+CX_PRODUCT_PORTFOLIO cells: 317151
 
-WEEKLY REFRESH 08/29/21
+WEEKLY REFRESH 09/06/21
 8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'ff_cx_ts_ib_renewal_bookings.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv' -import 'TS_IB_KEY from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_list.err' -import 'TSS_IB from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_module.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv" has been uploaded as ff_cx_ts_ib_renewal_bookings.csv.
 The operation was successful.
-TS_IB_KEY: 1618075 (1618075/0) rows successful, 0 ignored 
+TS_IB_KEY: 1439972 (1439972/0) rows successful, 0 ignored 
 
 The operation was successful.
-RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 1618071
-BOOKINGS_QUARTER cells: 1618075
-LEVEL_1 cells: 1618075
-LEVEL_2 cells: 1618075
-LEVEL_3 cells: 1618075
-LEVEL_4 cells: 1618075
-LEVEL_5 cells: 1618075
-LEVEL_6 cells: 1618075
-SHARE_NODE_ID cells: 1618075
-SAVM_GROUP_ID cells: 1618075
-SAVM_GROUP_NAME cells: 1618075
-SWSS_FLAG cells: 1618075
-LDOS_FLAG cells: 1618075
-OFFER_TYPE cells: 1618075
-GRP_365_DAYS cells: 1618075
-BUSINESS_ENTITY_NAME cells: 1618075
-BUSINESS_SUB_ENTITY_NAME cells: 1618075
-SERVICE_BRAND_CODE cells: 1616669
-CX_PRODUCT_CATEGORY cells: 1618075
-CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 1618075
-CONTRACT_NET_SERVICE_SPLIT cells: 1618075
-CONTRACT_LINE_NET_USD_AMOUNT cells: 1618075
-ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 1618075
-CX_PRODUCT_PORTFOLIO cells: 1617237
+RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 1439968
+BOOKINGS_QUARTER cells: 1439972
+LEVEL_1 cells: 1439972
+LEVEL_2 cells: 1439972
+LEVEL_3 cells: 1439972
+LEVEL_4 cells: 1439972
+LEVEL_5 cells: 1439972
+LEVEL_6 cells: 1439972
+SHARE_NODE_ID cells: 1439972
+SAVM_GROUP_ID cells: 1439972
+SAVM_GROUP_NAME cells: 1439972
+SWSS_FLAG cells: 1439972
+LDOS_FLAG cells: 1439972
+OFFER_TYPE cells: 1439972
+GRP_365_DAYS cells: 1439972
+BUSINESS_ENTITY_NAME cells: 1439972
+BUSINESS_SUB_ENTITY_NAME cells: 1439972
+SERVICE_BRAND_CODE cells: 1438679
+CX_PRODUCT_CATEGORY cells: 1439972
+CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 1439972
+CONTRACT_NET_SERVICE_SPLIT cells: 1439972
+CONTRACT_LINE_NET_USD_AMOUNT cells: 1439972
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 1439972
+CX_PRODUCT_PORTFOLIO cells: 1439329
 
-WEEKLY REFRESH 08/29/21
+WEEKLY REFRESH 09/06/21
 8a81b011720f725f017212c44cdf788d EABF24B166F0404DA34A2E00D5E43FE3
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'ff_cx_ts_ib_renewal_bookings.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv' -import 'TS_IB_KEY from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_list.err' -import 'TSS_IB from ff_cx_ts_ib_renewal_bookings.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/tss_ib_module.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_TS_IB.csv" has been uploaded as ff_cx_ts_ib_renewal_bookings.csv.
 The operation was successful.
-TS_IB_KEY: 94076 (94076/0) rows successful, 0 ignored 
+TS_IB_KEY: 113402 (113402/0) rows successful, 0 ignored 
 
 The operation was successful.
-RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 94072
-BOOKINGS_QUARTER cells: 94076
-LEVEL_1 cells: 94076
-LEVEL_2 cells: 94076
-LEVEL_3 cells: 94076
-LEVEL_4 cells: 94076
-LEVEL_5 cells: 94076
-LEVEL_6 cells: 94076
-SHARE_NODE_ID cells: 94076
-SAVM_GROUP_ID cells: 94076
-SAVM_GROUP_NAME cells: 94076
-SWSS_FLAG cells: 94076
-LDOS_FLAG cells: 94076
-OFFER_TYPE cells: 94076
-GRP_365_DAYS cells: 94076
-BUSINESS_ENTITY_NAME cells: 94076
-BUSINESS_SUB_ENTITY_NAME cells: 94076
-SERVICE_BRAND_CODE cells: 94052
-CX_PRODUCT_CATEGORY cells: 94076
-CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 94076
-CONTRACT_NET_SERVICE_SPLIT cells: 94076
-CONTRACT_LINE_NET_USD_AMOUNT cells: 94076
-ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 94076
-CX_PRODUCT_PORTFOLIO cells: 93995
+RENEWED_FROM_CONTRACT_LINE_END_QUARTER cells: 113398
+BOOKINGS_QUARTER cells: 113402
+LEVEL_1 cells: 113402
+LEVEL_2 cells: 113402
+LEVEL_3 cells: 113402
+LEVEL_4 cells: 113402
+LEVEL_5 cells: 113402
+LEVEL_6 cells: 113402
+SHARE_NODE_ID cells: 113402
+SAVM_GROUP_ID cells: 113402
+SAVM_GROUP_NAME cells: 113402
+SWSS_FLAG cells: 113402
+LDOS_FLAG cells: 113402
+OFFER_TYPE cells: 113402
+GRP_365_DAYS cells: 113402
+BUSINESS_ENTITY_NAME cells: 113402
+BUSINESS_SUB_ENTITY_NAME cells: 113402
+SERVICE_BRAND_CODE cells: 113361
+CX_PRODUCT_CATEGORY cells: 113402
+CONTRACT_NET_PRICE_SERVICE_SPLIT cells: 113402
+CONTRACT_NET_SERVICE_SPLIT cells: 113402
+CONTRACT_LINE_NET_USD_AMOUNT cells: 113402
+ANNUAL_CONTRACT_LINE_NET_USD_AMOUNT cells: 113402
+CX_PRODUCT_PORTFOLIO cells: 113279
 

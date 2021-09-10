@@ -6,7 +6,7 @@ class Operation:
     START: str = './AnaplanClient.sh'
     SUCCESS: str = 'The operation was successful.'
     DUMPFILE_NOT_AVAILABLE: str = 'No dump file is available.'
-    FAILED: str = 'The operation has failed.'
+    FAILED: str = 'The operation failed.'
     UNREACHABLE: str = 'Anaplan Unreachable'
 
     EXPORT_model: str = ' -export '

@@ -7,7 +7,7 @@ class Operation:
     START: str = './AnaplanClient.sh'
     SUCCESS: str = 'The operation was successful.'
     DUMPFILE_NOT_AVAILABLE: str = 'No dump file is available.'
-    FAILED: str = 'The operation has failed.'
+    FAILED: str = 'The operation failed.'
     UNREACHABLE: str = 'Anaplan Unreachable'
 
     EXPORT_model: str = ' -export '
@@ -108,7 +108,7 @@ class LogParser(Regex):
             is_operation_success: bool = Operation.SUCCESS in line
             is_operation_fail: bool = Operation.FAILED in line
             is_operation_unavail: bool = Operation.DUMPFILE_NOT_AVAILABLE in line
-
+            print(line)
             construct_names: bool = any([
                 is_execution_start,
                 is_operation_unavail,
@@ -256,10 +256,11 @@ class LogParser(Regex):
             for key, execution_status in self.model_names.items():
                 key_extract: str = key.split(':')[1]
                 is_anaplan_unreachable: bool = Operation.UNREACHABLE in execution_status
+                OPERATION_FAILED: bool = Operation.FAILED in execution_status
 
                 if key_extract in ANP.parmeters:
 
-                    if is_anaplan_unreachable:
+                    if is_anaplan_unreachable or OPERATION_FAILED:
                         execution_status += '\n'
 
                         f.write(

@@ -163,3 +163,18 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 The operation was successful.
 
 The server file SQL Export view TMS Split Report has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -export 'SQL Export view TMS Split Report' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv
+The operation was successful.
+
+The server file SQL Export view TMS Split Report has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -export 'SQL Export view TMS Split Report' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv
+The operation was successful.
+
+The server file SQL Export view TMS Split Report has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv
+cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
+./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b00f6d31dc75016d4f837db81106 -model 8B5B1716E92943B2967B603BAB7A9A8A -export 'SQL Export view TMS Split Report' -execute -get /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv
+The operation was successful.
+
+The server file SQL Export view TMS Split Report has been downloaded to /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/Work_Book_TMS_SPLIT_Report.csv

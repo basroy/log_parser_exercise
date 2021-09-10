@@ -1,4 +1,4 @@
-20210829232326
+20210906012625
 cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3-3-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -action 'Delete AS_RRP data' -execute -output '/apps/informatica/admin/SALES/EA_Sales_Prod_961/DATA/SALES_ANAPLAN_OIC/work/as_rrp_key_delete.err'
 The operation was successful.
@@ -8,24 +8,24 @@ cd /apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/anaplan-connect-1-3
 ./AnaplanClient.sh -user anpadmua.gen@cisco.com:L5EJNstptxpa8A7 -workspace 8a81b011720f725f017212c44cdf788d -model EABF24B166F0404DA34A2E00D5E43FE3 -file 'FF_CX_AS_RR_PROG.csv' -put '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_RR_PROG.csv' -import 'AS_RR_KEY from FF_CX_AS_RR_PROG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/as_rrp_list.err' -import 'AS_RRP from FF_CX_AS_RR_PROG.csv' -execute -output '/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/as_rrp_module.err'
 The file "/apps/sales/EA_SALES_Prod_860/DATA/SALES_ANAPLAN_OIC/work/FF_CX_AS_RR_PROG.csv" has been uploaded as FF_CX_AS_RR_PROG.csv.
 The operation was successful.
-AS_RR_KEY: 20895 (20895/0) rows successful, 0 ignored 
+AS_RR_KEY: 21499 (21499/0) rows successful, 0 ignored 
 
 The operation was successful.
-REFRESH_DATE cells: 20895
-IN_QTR_DNR cells: 20895
-FUTURE_SHARE_NODE_ID cells: 20895
-FUTURE_SALES_LEVEL_6 cells: 20895
-FUTURE_SALES_LEVEL_5 cells: 20895
-FUTURE_SALES_LEVEL_4 cells: 20895
-FUTURE_SALES_LEVEL_3 cells: 20895
-FUTURE_SALES_LEVEL_2 cells: 20895
-FUTURE_SALES_LEVEL_1 cells: 20895
-CONTRACT_END_QUARTER cells: 20895
--2 Qtr Nmr Annualized cells: 20895
--1 Qtr Nmr Annualized cells: 20895
-In Qtr Nmr Annualized cells: 20895
-+1 Qtr Nmr Annualized cells: 20895
-+2 Qtr Nmr Annualized cells: 20895
-+3 Qtr Nmr Annualized cells: 20895
-+4 Qtr Nmr Annualized cells: 20895
+REFRESH_DATE cells: 21499
+IN_QTR_DNR cells: 21499
+FUTURE_SHARE_NODE_ID cells: 21499
+FUTURE_SALES_LEVEL_6 cells: 21499
+FUTURE_SALES_LEVEL_5 cells: 21499
+FUTURE_SALES_LEVEL_4 cells: 21499
+FUTURE_SALES_LEVEL_3 cells: 21499
+FUTURE_SALES_LEVEL_2 cells: 21499
+FUTURE_SALES_LEVEL_1 cells: 21499
+CONTRACT_END_QUARTER cells: 21499
+-2 Qtr Nmr Annualized cells: 21499
+-1 Qtr Nmr Annualized cells: 21499
+In Qtr Nmr Annualized cells: 21499
++1 Qtr Nmr Annualized cells: 21499
++2 Qtr Nmr Annualized cells: 21499
++3 Qtr Nmr Annualized cells: 21499
++4 Qtr Nmr Annualized cells: 21499
 

@@ -1,22 +1,36 @@
-FY22_NLG_SNAPSHOT 'Weekly Snapshot'   Anaplan Unreachable
-FY22_NLG 'Xcat Roll up from Hub'    Anaplan Unreachable
-FY22_NLG_SNAPSHOT 'Weekly Snapshot'   Anaplan Unreachable
-FY22_NLG 'Xcat Roll up from Hub'    Anaplan Unreachable
-FY22_NLG_SNAPSHOT 'Weekly Snapshot'   Anaplan Unreachable
-FY22_NLG 'Xcat Roll up from Hub'    Anaplan Unreachable
-FY22_NLG_SNAPSHOT 'Weekly Snapshot'   Anaplan Unreachable
-FY22_NLG 'Xcat Roll up from Hub'    Anaplan Unreachable
+TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
+TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
+TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
+ATFY21 'Import PROD Users'   Anaplan Unreachable
+USERACCESS 'Daily Reset for AT'   Anaplan Unreachable
+MERAKI 'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS 'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
+USERACCESS 'Daily Reset for GEO'   Anaplan Unreachable
+ATFY21 'Import PROD Users'   Anaplan Unreachable
+USERACCESS 'Daily Reset for AT'   Anaplan Unreachable
+MERAKI 'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS 'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
+USERACCESS 'Daily Reset for GEO'   Anaplan Unreachable
+ATFY21 'Import PROD Users'   Anaplan Unreachable
+USERACCESS 'Daily Reset for AT'   Anaplan Unreachable
+MERAKI 'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS 'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22 'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+USERACCESS 'Daily Reset for GEO'   Anaplan Unreachable
+ATFY21 'Import PROD Users'   Anaplan Unreachable
+USERACCESS 'Daily Reset for AT'   Anaplan Unreachable
+MERAKI 'Import Users from User Management'   Anaplan Unreachable
+TPX_SCLASS 'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+TPX_FY22 'Step 0.0: Add Users from User Management'   Anaplan Unreachable
+USERACCESS 'Daily Reset for GEO'   Anaplan Unreachable
 FY22_NLG_SNAPSHOT 'Xcat Flags import'   The operation failed.
 FY22_NLG_SNAPSHOT 'Weekly Snapshot'   Anaplan Unreachable
 FY22_NLG_SNAPSHOT 'Xcat Flags import'   The operation failed.
 FY22_NLG 'Xcat Roll up from Hub'    Anaplan Unreachable
 FY22_NLG_SNAPSHOT 'Weekly Snapshot'   Anaplan Unreachable
 FY22_NLG 'Xcat Roll up from Hub'    Anaplan Unreachable
-TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
-TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
-TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
-TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
-TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
 TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
 TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
 TPX_FY22 'DAILY RUN 1 : L1 - L6'   The operation failed.
